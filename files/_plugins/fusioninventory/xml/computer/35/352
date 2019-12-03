@@ -1,0 +1,4041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2017-12-11 08:16:57</LOGDATE>
+    </ACCESSLOG>
+    <BIOS>
+      <ASSETTAG/>  <BDATE>11/28/2013</BDATE>
+      <BMANUFACTURER>Xen</BMANUFACTURER>
+      <BVERSION>4.1.5</BVERSION>
+      <MMANUFACTURER/>  <MMODEL/>  <MSN/>  <SKUNUMBER/>  <SMANUFACTURER>Xen</SMANUFACTURER>
+      <SMODEL>HVM domU</SMODEL>
+      <SSN>8879ada0-9937-5368-f991-eb83081e0efe</SSN>
+    </BIOS>
+    <CONTROLLERS>
+      <CAPTION>82371SB PIIX3 IDE [Natoma/Triton II]</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82371SB PIIX3 IDE [Natoma/Triton II]</NAME>
+      <PCISUBSYSTEMID>5853:0001</PCISUBSYSTEMID>
+      <PRODUCTID>7010</PRODUCTID>
+      <TYPE>Intel(R) 82371SB PCI Bus Master IDE Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82371SB PIIX3 USB [Natoma/Triton II]</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82371SB PIIX3 USB [Natoma/Triton II]</NAME>
+      <PCISUBSYSTEMID>5853:0001</PCISUBSYSTEMID>
+      <PRODUCTID>7020</PRODUCTID>
+      <TYPE>Intel(R) 82371SB PCI to USB Universal Host Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>GD 5446</CAPTION>
+      <MANUFACTURER>Cirrus Logic</MANUFACTURER>
+      <NAME>GD 5446</NAME>
+      <PCISUBSYSTEMID>5853:0001</PCISUBSYSTEMID>
+      <PRODUCTID>00b8</PRODUCTID>
+      <TYPE>Standard VGA Graphics Adapter</TYPE>
+      <VENDORID>1013</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Citrix PV Bus</CAPTION>
+      <MANUFACTURER>XenSource, Inc.</MANUFACTURER>
+      <NAME>Citrix PV Bus</NAME>
+      <PCISUBSYSTEMID>5853:0002</PCISUBSYSTEMID>
+      <PRODUCTID>0002</PRODUCTID>
+      <TYPE>Citrix PV Bus</TYPE>
+      <VENDORID>5853</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>440FX - 82441FX PMC [Natoma]</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Qemu virtual machine</NAME>
+      <PCISUBSYSTEMID>1af4:1100</PCISUBSYSTEMID>
+      <PRODUCTID>1237</PRODUCTID>
+      <TYPE>Intel 82441FX Pentium(R) Pro Processor to PCI bridge</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82371SB PIIX3 ISA [Natoma/Triton II]</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Qemu virtual machine</NAME>
+      <PCISUBSYSTEMID>1af4:1100</PCISUBSYSTEMID>
+      <PRODUCTID>7000</PRODUCTID>
+      <TYPE>Intel 82371SB PCI to ISA bridge</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>1</CORE>
+      <DESCRIPTION>Intel64 Family 6 Model 44 Stepping 2</DESCRIPTION>
+      <FAMILYNUMBER>6</FAMILYNUMBER>
+      <ID>C2 06 02 00 FF FB 89 07</ID>
+      <MANUFACTURER>Intel</MANUFACTURER>
+      <MODEL>44</MODEL>
+      <NAME>Intel(R) Xeon(R) CPU E5620 @ 2.40GHz</NAME>
+      <SPEED>2400</SPEED>
+      <STEPPING>2</STEPPING>
+      <THREAD>1</THREAD>
+    </CPUS>
+    <CPUS>
+      <CORE>1</CORE>
+      <DESCRIPTION>Intel64 Family 6 Model 44 Stepping 2</DESCRIPTION>
+      <FAMILYNUMBER>6</FAMILYNUMBER>
+      <ID>C2 06 02 00 FF FB 89 07</ID>
+      <MANUFACTURER>Intel</MANUFACTURER>
+      <MODEL>44</MODEL>
+      <NAME>Intel(R) Xeon(R) CPU E5620 @ 2.40GHz</NAME>
+      <SPEED>2400</SPEED>
+      <STEPPING>2</STEPPING>
+      <THREAD>1</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Local Fixed Disk</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>9294</FREE>
+      <LABEL/>
+      <LETTER>C:</LETTER>
+      <SERIAL>EC22A27E</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>40856</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN/>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>CD-ROM Disc</DESCRIPTION>
+      <LETTER>D:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Compact Disc</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Local Fixed Disk</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>145031</FREE>
+      <LABEL>WSUS</LABEL>
+      <LETTER>E:</LETTER>
+      <SERIAL>EC693D44</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>245756</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>WSUS</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>70</FREE>
+      <LABEL>System Reserved</LABEL>
+      <LETTER>System Reserved</LETTER>
+      <SERIAL>8C218BDE</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>99</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>System Reserved</VOLUMN>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>FP_NO_HOST_CHECK</KEY>
+      <VAL>NO</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;E:\SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;E:\SQL Server\120\Tools\Binn\;E:\SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>AMD64</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>2</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>6</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>Intel64 Family 6 Model 44 Stepping 2, GenuineIntel</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>2c02</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_logfile</KEY>
+      <VAL>C:\BVTBin\Tests\installpackage\csilogfile.log</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_flags</KEY>
+      <VAL>3</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>DEFLOGDIR</KEY>
+      <VAL>C:\ProgramData\McAfee\DesktopProtection</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>VSEDEFLOGDIR</KEY>
+      <VAL>C:\ProgramData\McAfee\DesktopProtection</VAL>
+    </ENVS>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x64-multi-thread</ARCHNAME>
+      <CHASSIS_TYPE>Other</CHASSIS_TYPE>
+      <CHECKSUM>513</CHECKSUM>
+      <DEFAULTGATEWAY>10.20.1.1</DEFAULTGATEWAY>
+      <DNS>10.20.1.10</DNS>
+      <ETIME>74</ETIME>
+      <IPADDR>10.20.1.13</IPADDR>
+      <LASTLOGGEDUSER>athos.oliveira</LASTLOGGEDUSER>
+      <MEMORY>4091</MEMORY>
+      <NAME>HPSC-WSUS</NAME>
+      <OSCOMMENTS>Service Pack 1</OSCOMMENTS>
+      <OSNAME>Microsoft Windows Server 2008 R2 Enterprise </OSNAME>
+      <OSVERSION>6.1.7601</OSVERSION>
+      <PROCESSORN>2</PROCESSORN>
+      <PROCESSORS>2400</PROCESSORS>
+      <PROCESSORT>Intel(R) Xeon(R) CPU E5620 @ 2.40GHz</PROCESSORT>
+      <UUID>A0AD7988-3799-6853-F991-EB83081E0EFE</UUID>
+      <VMSYSTEM>Xen</VMSYSTEM>
+      <WINLANG>1033</WINLANG>
+      <WINOWNER>Windows User</WINOWNER>
+      <WINPRODID>00486-001-0001076-84709</WINPRODID>
+      <WINPRODKEY>489J6-VHDMP-X63PK-3K798-CPX3Y</WINPRODKEY>
+      <WORKGROUP>hmd.local</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Enhanced (101- or 102-key)</CAPTION>
+      <DESCRIPTION>Standard PS/2 Keyboard</DESCRIPTION>
+      <LAYOUT>00000416</LAYOUT>
+      <NAME>Enhanced (101- or 102-key)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>PS/2 Compatible Mouse</CAPTION>
+      <DESCRIPTION>PS/2 Compatible Mouse</DESCRIPTION>
+      <INTERFACE>PS/2</INTERFACE>
+      <MANUFACTURER>Microsoft</MANUFACTURER>
+      <NAME>PS/2 Compatible Mouse</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>USB Input Device</CAPTION>
+      <DESCRIPTION>USB Input Device</DESCRIPTION>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Standard system devices)</MANUFACTURER>
+      <NAME>USB Input Device</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administrators</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Backup Operators</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-574</ID>
+      <NAME>Certificate Service DCOM Access</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Cryptographic Operators</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Distributed COM Users</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Event Log Readers</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Guests</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Network Configuration Operators</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Performance Log Users</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Performance Monitor Users</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Power Users</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-550</ID>
+      <NAME>Print Operators</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Remote Desktop Users</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Replicator</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Users</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-3402403316-3870997331-3660318351-1006</ID>
+      <NAME>Administradores WSUS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-3402403316-3870997331-3660318351-1007</ID>
+      <NAME>HelpLibraryUpdaters</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-3402403316-3870997331-3660318351-1005</ID>
+      <NAME>Informadores WSUS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-3402403316-3870997331-3660318351-1008</ID>
+      <NAME>SQLServer2005SQLBrowserUser$HPSC-WSUS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-3402403316-3870997331-3660318351-1004</ID>
+      <NAME>SQLServerFDHostUser$HPSC-WSUS$MSSQLSERVER</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-3402403316-3870997331-3660318351-500</ID>
+      <NAME>Administrator</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPACITY>4092</CAPACITY>
+      <CAPTION>DIMM 0</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>Multi-bit ECC</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <TYPE>RAM</TYPE>
+    </MEMORIES>
+    <NETWORKS>
+      <DESCRIPTION>RAS Async Adapter</DESCRIPTION>
+      <MACADDR>20:41:53:59:4E:FF</MACADDR>
+      <PNPDEVICEID>SW\{EEAB7790-C514-11D1-B42B-00805FC1270E}\ASYNCMAC</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Citrix PV Network Adapter #0</DESCRIPTION>
+      <IPADDRESS>10.20.1.13</IPADDRESS>
+      <IPGATEWAY>10.20.1.1</IPGATEWAY>
+      <IPMASK>255.255.0.0</IPMASK>
+      <IPSUBNET>10.20.0.0</IPSUBNET>
+      <MACADDR>96:83:FA:9A:CD:A1</MACADDR>
+      <PNPDEVICEID>XENVIF\DEVICE&amp;REV_02\0</PNPDEVICEID>
+      <SPEED>1000</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>64-bit</ARCH>
+      <BOOT_TIME>2017-12-10 20:00:37</BOOT_TIME>
+      <DNS_DOMAIN>hmd.local</DNS_DOMAIN>
+      <FQDN>HPSC-WSUS.hmd.local</FQDN>
+      <FULL_NAME>Microsoft Windows Server 2008 R2 Enterprise </FULL_NAME>
+      <INSTALL_DATE>2013-01-16 15:42:55</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>6.1.7601</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK>Service Pack 1</SERVICE_PACK>
+    </OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>Communications Port (COM1)</CAPTION>
+      <DESCRIPTION>Communications Port</DESCRIPTION>
+      <NAME>Communications Port (COM1)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>LPT1</CAPTION>
+      <DESCRIPTION>LPT1</DESCRIPTION>
+      <NAME>LPT1</NAME>
+      <TYPE>Parallel</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>Microsoft XPS Document Writer</DRIVER>
+      <NAME>Microsoft XPS Document Writer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>XPSPort:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>042A474B5C0C830365B138024E7E69FC7E6E237F</GUID>
+      <INSTALLDATE>15/01/2014</INSTALLDATE>
+      <NAME>Windows Driver Package - Citrix Systems Inc. (xennet) Net  (05/09/2013 7.0.0.86)</NAME>
+      <PUBLISHER>Citrix Systems Inc.</PUBLISHER>
+      <UNINSTALL_STRING>rundll32.exe C:\PROGRA~1\DIFX\4CBAA680AB78144E\DIFxAppA.dll, DIFxARPUninstallDriverPackage C:\Windows\System32\DriverStore\FileRepository\xennet.inf_amd64_neutral_3f62db068ae28b47\xennet.inf</UNINSTALL_STRING>
+      <VERSION>05/09/2013 7.0.0.86</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>0EC14F7EF38FA0604C0472DDA2988F15360B1120</GUID>
+      <INSTALLDATE>15/01/2014</INSTALLDATE>
+      <NAME>Windows Driver Package - Citrix Systems Inc. (xenbus) System  (11/01/2013 7.1.0.12)</NAME>
+      <PUBLISHER>Citrix Systems Inc.</PUBLISHER>
+      <UNINSTALL_STRING>rundll32.exe C:\PROGRA~1\DIFX\4CBAA680AB78144E\DIFxAppA.dll, DIFxARPUninstallDriverPackage C:\Windows\System32\DriverStore\FileRepository\xenbus.inf_amd64_neutral_ea8438809d85a846\xenbus.inf</UNINSTALL_STRING>
+      <VERSION>11/01/2013 7.1.0.12</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>38F9A9619D25EE0C66652062DBF40B4B6D1D4DE8</GUID>
+      <INSTALLDATE>15/01/2014</INSTALLDATE>
+      <NAME>Windows Driver Package - Citrix Systems, Inc. (xeniface) System  (04/30/2013 7.0.0.37)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>rundll32.exe C:\PROGRA~1\DIFX\4CBAA680AB78144E\DIFxAppA.dll, DIFxARPUninstallDriverPackage C:\Windows\System32\DriverStore\FileRepository\xeniface.inf_amd64_neutral_3522883f8a688127\xeniface.inf</UNINSTALL_STRING>
+      <VERSION>04/30/2013 7.0.0.37</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>D63252C31502A5726278B5C16CAA9D72E87CD428</GUID>
+      <INSTALLDATE>15/01/2014</INSTALLDATE>
+      <NAME>Windows Driver Package - Citrix Systems Inc. (xenvif) System  (11/06/2013 7.1.0.11)</NAME>
+      <PUBLISHER>Citrix Systems Inc.</PUBLISHER>
+      <UNINSTALL_STRING>rundll32.exe C:\PROGRA~1\DIFX\4CBAA680AB78144E\DIFxAppA.dll, DIFxARPUninstallDriverPackage C:\Windows\System32\DriverStore\FileRepository\xenvif.inf_amd64_neutral_88301bcc294f36fc\xenvif.inf</UNINSTALL_STRING>
+      <VERSION>11/06/2013 7.1.0.11</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FC0CF159553A93EAF9D7E3524249BB66D9E33152</GUID>
+      <INSTALLDATE>15/01/2014</INSTALLDATE>
+      <NAME>Windows Driver Package - Citrix Systems, Inc. (xenvbd) SCSIAdapter  (03/06/2013 7.0.0.120)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>rundll32.exe C:\PROGRA~1\DIFX\4CBAA680AB78144E\DIFxAppA.dll, DIFxARPUninstallDriverPackage C:\Windows\System32\DriverStore\FileRepository\xenvbd.inf_amd64_neutral_d615b6a235773f46\xenvbd.inf</UNINSTALL_STRING>
+      <VERSION>03/06/2013 7.0.0.120</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>http://forge.fusioninventory.org/projects/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>21/01/2017</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.3.18 (x64 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.18</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft .NET Framework 4 Client Profile</GUID>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 4 Client Profile</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\Setup.exe /repair /x86 /x64 /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.microsoft.com/fwlink/?LinkId=164164</URL_INFO_ABOUT>
+      <VERSION>4.0.30319</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft .NET Framework 4 Extended</GUID>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 4 Extended</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\Setup.exe /repair /x86 /x64 /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.microsoft.com/fwlink/?LinkId=164164</URL_INFO_ABOUT>
+      <VERSION>4.0.30319</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft Help Viewer 1.1</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft Help Viewer 1.1</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\Microsoft Help Viewer\v1.0\Microsoft Help Viewer 1.1\install.exe</UNINSTALL_STRING>
+      <VERSION>1.1.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft SQL Server 12</GUID>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft SQL Server 2014 (64-bit)</NAME>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Windows Server Update Services 3.0 SP2</GUID>
+      <INSTALLDATE>17/01/2013</INSTALLDATE>
+      <NAME>Windows Server Update Services 3.0 SP2</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\Update Services\Setup\WusSetup.exe /u</UNINSTALL_STRING>
+      <VERSION>3.2.7600.226</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Windows Server Update Services 3.0 SP2 (KB2720211)</GUID>
+      <INSTALLDATE>17/01/2013</INSTALLDATE>
+      <NAME>Hotfix for Windows Server Update Services 3.0 SP2 (KB2720211)</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>N/A</UNINSTALL_STRING>
+      <VERSION>3.2.7600.251</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{020CDFE0-C127-4047-B571-37C82396B662}</GUID>
+      <HELPLINK>http://search.microsoft.com</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft SQL Server 2014 Transact-SQL ScriptDom </NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{020CDFE0-C127-4047-B571-37C82396B662}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0EEBDCCA-EF5D-4896-9FEA-D7D410A57E8A}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=101173</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft SQL Server 2014 Setup (English)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{0EEBDCCA-EF5D-4896-9FEA-D7D410A57E8A}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{17531BCD-C627-46A2-9F1E-7CC920E0E94A}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=154582</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>SQL Server 2014 Database Engine Services</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{17531BCD-C627-46A2-9F1E-7CC920E0E94A}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=146008</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</UNINSTALL_STRING>
+      <VERSION>10.0.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{24C2308E-34A7-40E9-9363-CEC7BB50633B}</GUID>
+      <INSTALLDATE>15/01/2014</INSTALLDATE>
+      <NAME>Citrix XenServer VSS Provider</NAME>
+      <PUBLISHER>Citrix</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{24C2308E-34A7-40E9-9363-CEC7BB50633B}</UNINSTALL_STRING>
+      <VERSION>6.2.254</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{25B8FC12-0E6F-4004-A5E0-79B206CB3CBF}</GUID>
+      <INSTALLDATE>15/01/2014</INSTALLDATE>
+      <NAME>Citrix XenServer Windows Guest Agent</NAME>
+      <PUBLISHER>Citrix</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{25B8FC12-0E6F-4004-A5E0-79B206CB3CBF}</UNINSTALL_STRING>
+      <VERSION>6.2.254</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2BA1811B-44C0-4C50-8C5A-CE68AB25ED71}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=154582</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>SQL Server 2014 Client Tools</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{2BA1811B-44C0-4C50-8C5A-CE68AB25ED71}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{2EDC2FA3-1F34-34E5-9085-588C9EFD1CC6}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>10/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{2EDC2FA3-1F34-34E5-9085-588C9EFD1CC6}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{366CD715-2FF4-40B4-A8B4-A05E5D21A945}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=90958</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft VSS Writer for SQL Server 2014</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{366CD715-2FF4-40B4-A8B4-A05E5D21A945}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{49D665A2-4C2A-476E-9AB8-FCC425F526FC}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=191752</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft SQL Server 2012 Native Client </NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{49D665A2-4C2A-476E-9AB8-FCC425F526FC}</UNINSTALL_STRING>
+      <VERSION>11.0.2100.60</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{59DE4D1C-690E-4397-8A44-B684934E863C}</GUID>
+      <HELPLINK>http://search.microsoft.com</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft SQL Server 2014 Transact-SQL Compiler Service </NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{59DE4D1C-690E-4397-8A44-B684934E863C}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{5FF1DF23-EC34-4D83-9747-7DFB77AD7F73}</GUID>
+      <INSTALLDATE>15/01/2014</INSTALLDATE>
+      <NAME>Citrix Xen Windows x64 PV Drivers</NAME>
+      <PUBLISHER>Citrix</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{5FF1DF23-EC34-4D83-9747-7DFB77AD7F73}</UNINSTALL_STRING>
+      <VERSION>6.2.254</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{6292D514-17A4-403F-98F9-E150F10C043D}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=101173</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft SQL Server 2008 Setup Support Files </NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{6292D514-17A4-403F-98F9-E150F10C043D}</UNINSTALL_STRING>
+      <VERSION>10.3.5500.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{6476DB81-F263-4C04-8574-AAD31136C304}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkID=156591</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Sql Server Customer Experience Improvement Program</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{6476DB81-F263-4C04-8574-AAD31136C304}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{662014D2-0450-37ED-ABAE-157C88127BEB}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Visual Studio 2010 Prerequisites - English</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{662014D2-0450-37ED-ABAE-157C88127BEB}</UNINSTALL_STRING>
+      <VERSION>10.0.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{75A54138-3B98-4705-92E4-F619825B121F}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=154582</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>SQL Server 2014 Management Studio</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{75A54138-3B98-4705-92E4-F619825B121F}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{764384C5-BCA9-307C-9AAC-FD443662686A}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>10/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{764384C5-BCA9-307C-9AAC-FD443662686A}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8C06D6DB-A391-4686-B050-99CC522A7843}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=TestMSI</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft System CLR Types for SQL Server 2014</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{8C06D6DB-A391-4686-B050-99CC522A7843}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{95120000-00B9-0409-1000-0000000FF1CE}</GUID>
+      <HELPLINK>http://support.microsoft.com</HELPLINK>
+      <INSTALLDATE>16/01/2013</INSTALLDATE>
+      <NAME>Microsoft Application Error Reporting</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>12.0.6015.5000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A106FA6F-E94C-44C9-8A0F-C34BD82C9FE6}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=191752</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft ODBC Driver 11 for SQL Server</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{A106FA6F-E94C-44C9-8A0F-C34BD82C9FE6}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{ACC530B8-B6B4-40D6-B59B-152468CF47D0}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=154582</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>SQL Server 2014 Database Engine Shared</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{ACC530B8-B6B4-40D6-B59B-152468CF47D0}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{BD1CD96B-FE4B-4EAE-83D4-6EF55AB5779C}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=154582</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>SQL Server 2014 Common Files</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{BD1CD96B-FE4B-4EAE-83D4-6EF55AB5779C}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{E62D73B2-78F3-4009-BA70-79B14B3BC4F0}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=101173</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft SQL Server 2014 RsFx Driver</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{E62D73B2-78F3-4009-BA70-79B14B3BC4F0}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>16/01/2013</INSTALLDATE>
+      <NAME>Internet Explorer (64bit)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>8.0.7601.17514</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft Report Viewer Redistributable 2008 (KB971118)</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=96782</HELPLINK>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>Microsoft Report Viewer Redistributable 2008 (KB971118)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>c:\Windows\Microsoft.NET\Framework\v2.0.50727\Microsoft Report Viewer Redistributable 2008 (KB971118)\install.exe</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{1C30FE7E-8A8C-4492-89D6-10CB20C3B0EB}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=112168</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft SQL Server 2014 Policies </NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{1C30FE7E-8A8C-4492-89D6-10CB20C3B0EB}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3204DE95-97D2-4261-A286-98A262E171D4}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=90959</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>SQL Server Browser for SQL Server 2014</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{3204DE95-97D2-4261-A286-98A262E171D4}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{327E9C0D-1687-414F-923E-F5979E549548}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkID=217022</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft Report Viewer 2014 Runtime</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{327E9C0D-1687-414F-923E-F5979E549548}</UNINSTALL_STRING>
+      <VERSION>12.0.2000.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3D6AD258-61EA-35F5-812C-B7A02152996E}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>10/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{3D6AD258-61EA-35F5-812C-B7A02152996E}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{5D9ED403-94DE-3BA0-B1D6-71F4BDA412E6}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2010  x86 Runtime - 10.0.40219</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{5D9ED403-94DE-3BA0-B1D6-71F4BDA412E6}</UNINSTALL_STRING>
+      <VERSION>10.0.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{6334203E-A2FE-36A2-809D-5C26640AEE67}</GUID>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>Microsoft Report Viewer Redistributable 2008 (KB971118)</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>9.0.21024</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{83F2B8F4-5CF3-4BE9-9772-9543EAE4AC5F}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=149838</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft SQL Server 2008 R2 Management Objects</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{83F2B8F4-5CF3-4BE9-9772-9543EAE4AC5F}</UNINSTALL_STRING>
+      <VERSION>10.51.2500.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2162169</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2162169</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2416472</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2416472</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2468871.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2468871</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2468871</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Extended (KB2468871)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {29C7BE97-DE59-37A2-A687-2ADD5321948A} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2478063</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2478063</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2487367.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2487367</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2487367</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2487367)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {9D621E6E-E010-3C80-A055-135891134750} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2533523.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2533523</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2533523</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Extended (KB2533523)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {7D799A81-5661-3159-BF92-754161CED6E6} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2544514.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2544514</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2544514</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Update 4.0.2 for Microsoft .NET Framework 4 Extended (KB2544514)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Platform Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {1346D5FA-2A4F-3D79-86EF-B348198C174B} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2572063</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2572063</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2599651</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2599651</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2600211</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2600211</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2600217.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2600217</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2600217</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Extended (KB2600217)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {4DFA8287-EA36-3469-99FE-F568FEC81653} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2604121</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2604121</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2639327</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2639327</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2656351.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2656351</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2656351</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2656351)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {E59B2174-E924-311F-8549-AD714C14664D} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2682543</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2682543</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2736428.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2736428</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2736428</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2736428)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {BA941BCD-BC45-3D64-AB89-0F737907515C} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2742595.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2742595</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2742595</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2742595)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {C8B8456C-6A12-3725-95A8-1C9FBE1E3141} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2836939.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2836939</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2836939</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Extended (KB2836939)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {8C286FD4-AB38-37A6-BC8A-6F16AFE9AB1F} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2836939v2</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2836939v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2836939.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2836939v3</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2836939</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Extended (KB2836939v3)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {EFD73366-C059-3D04-9848-59072A15DB53} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>3</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2858302</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2858302</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2858302.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2858302v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2858302</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2858302v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {43B6E5D3-56A9-36C1-BD8B-9E1D6920FF11} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2894842</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2894842</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2894842.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2894842v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2894842</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2894842v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {46FBCE47-ECED-3278-A0C7-EBEAAC9B3188} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2901110</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2901110</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2901110.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8E34682C-8118-31F1-BC4C-98CD9675E1C2}.KB2901110v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2901110</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2901110v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {9625A203-DB41-3055-971E-550DA3E825B2} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8F5484DA-7020-4F4F-AE1B-AF0C98162671}</GUID>
+      <INSTALLDATE>15/01/2014</INSTALLDATE>
+      <NAME>Citrix XenServer Tools Installer</NAME>
+      <PUBLISHER>Citrix</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{8F5484DA-7020-4F4F-AE1B-AF0C98162671}</UNINSTALL_STRING>
+      <VERSION>6.2.254</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{95120000-00B9-0409-0000-0000000FF1CE}</GUID>
+      <HELPLINK>http://support.microsoft.com</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft Application Error Reporting</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>12.0.6012.5000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{95716cce-fc71-413f-8ad5-56c2892d4b3a}</GUID>
+      <INSTALLDATE>10/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{95716cce-fc71-413f-8ad5-56c2892d4b3a}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.60610.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{9E6FC684-EB43-4E85-B092-1D0D34C1BA4A}</GUID>
+      <INSTALLDATE>10/12/2017</INSTALLDATE>
+      <NAME>Trend Micro OfficeScan Agent</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Trend Micro Inc.</PUBLISHER>
+      <UNINSTALL_STRING>msiexec /x {9E6FC684-EB43-4E85-B092-1D0D34C1BA4A}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.trend.com</URL_INFO_ABOUT>
+      <VERSION>12.0.1222</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{a1909659-0a08-4554-8af1-2175904903a1}</GUID>
+      <INSTALLDATE>10/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{a1909659-0a08-4554-8af1-2175904903a1}\vcredist_x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.60610.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AA4A4B2C-0465-3CF8-BA76-27A027D8ACAB}</GUID>
+      <INSTALLDATE>16/01/2013</INSTALLDATE>
+      <NAME>Microsoft Visual Studio Tools for Applications 2.0 - ENU</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{AA4A4B2C-0465-3CF8-BA76-27A027D8ACAB}</UNINSTALL_STRING>
+      <VERSION>9.0.30729</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This hotfix is for Microsoft Visual Studio 2007 Tools for Applications - ENU.If you later install a more recent service pack, this hotfix will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/946040.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AA4A4B2C-0465-3CF8-BA76-27A027D8ACAB}.KB946040</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/946040</HELPLINK>
+      <INSTALLDATE>16/01/2013</INSTALLDATE>
+      <NAME>Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB946040)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\SysWOW64\msiexec.exe /package {AA4A4B2C-0465-3CF8-BA76-27A027D8ACAB} /uninstall  /qb+ REBOOTPROMPT=""</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This hotfix is for Microsoft Visual Studio 2007 Tools for Applications - ENU.If you later install a more recent service pack, this hotfix will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/946308.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AA4A4B2C-0465-3CF8-BA76-27A027D8ACAB}.KB946308</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/946308</HELPLINK>
+      <INSTALLDATE>16/01/2013</INSTALLDATE>
+      <NAME>Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB946308)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\SysWOW64\msiexec.exe /package {AA4A4B2C-0465-3CF8-BA76-27A027D8ACAB} /uninstall  /qb+ REBOOTPROMPT=""</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This hotfix is for Microsoft Visual Studio 2007 Tools for Applications - ENU.If you later install a more recent service pack, this hotfix will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/946344.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AA4A4B2C-0465-3CF8-BA76-27A027D8ACAB}.KB946344</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/946344</HELPLINK>
+      <INSTALLDATE>16/01/2013</INSTALLDATE>
+      <NAME>Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB946344)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\SysWOW64\msiexec.exe /package {AA4A4B2C-0465-3CF8-BA76-27A027D8ACAB} /uninstall  /qb+ REBOOTPROMPT=""</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This hotfix is for Microsoft Visual Studio 2007 Tools for Applications - ENU.If you later install a more recent service pack, this hotfix will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/947540.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AA4A4B2C-0465-3CF8-BA76-27A027D8ACAB}.KB947540</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/947540</HELPLINK>
+      <INSTALLDATE>16/01/2013</INSTALLDATE>
+      <NAME>Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB947540)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\SysWOW64\msiexec.exe /package {AA4A4B2C-0465-3CF8-BA76-27A027D8ACAB} /uninstall  /qb+ REBOOTPROMPT=""</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This hotfix is for Microsoft Visual Studio 2007 Tools for Applications - ENU.If you later install a more recent service pack, this hotfix will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/947789.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AA4A4B2C-0465-3CF8-BA76-27A027D8ACAB}.KB947789</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/947789</HELPLINK>
+      <INSTALLDATE>16/01/2013</INSTALLDATE>
+      <NAME>Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB947789)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\SysWOW64\msiexec.exe /package {AA4A4B2C-0465-3CF8-BA76-27A027D8ACAB} /uninstall  /qb+ REBOOTPROMPT=""</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B7E38540-E355-3503-AFD7-635B2F2F76E1}</GUID>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4974</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{B7E38540-E355-3503-AFD7-635B2F2F76E1}</UNINSTALL_STRING>
+      <VERSION>9.0.30729.4974</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{C3F6F200-6D7B-4879-B9EE-700C0CE1FCDA}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=149837</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft SQL Server System CLR Types</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{C3F6F200-6D7B-4879-B9EE-700C0CE1FCDA}</UNINSTALL_STRING>
+      <VERSION>10.51.2500.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CE15D1B6-19B6-4D4D-8F43-CF5D2C3356FF}</GUID>
+      <HELPLINK>https://mysupport.mcafee.com</HELPLINK>
+      <INSTALLDATE>27/05/2016</INSTALLDATE>
+      <NAME>McAfee VirusScan Enterprise</NAME>
+      <PUBLISHER>McAfee, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{CE15D1B6-19B6-4D4D-8F43-CF5D2C3356FF}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.mcafee.com/</URL_INFO_ABOUT>
+      <VERSION>8.8.07000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE}</GUID>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 4 Multi-Targeting Pack</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE}</UNINSTALL_STRING>
+      <VERSION>4.0.30319</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D64B6984-242F-32BC-B008-752806E5FC44}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Microsoft Visual Studio 2010 Shell (Isolated) - ENU</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{D64B6984-242F-32BC-B008-752806E5FC44}</UNINSTALL_STRING>
+      <VERSION>10.0.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{E59113EB-0285-4BFD-A37A-B79EAC6B8F4B}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=81488</HELPLINK>
+      <INSTALLDATE>16/01/2013</INSTALLDATE>
+      <NAME>Microsoft SQL Server Compact 3.5 SP1 English</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{E59113EB-0285-4BFD-A37A-B79EAC6B8F4B}</UNINSTALL_STRING>
+      <VERSION>3.5.5692.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{E7D4E834-93EB-351F-B8FB-82CDAE623003}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>10/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{E7D4E834-93EB-351F-B8FB-82CDAE623003}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{EBF3D65F-011E-44D2-8F4F-C74B52682EDD}</GUID>
+      <HELPLINK>https://mysupport.mcafee.com</HELPLINK>
+      <INSTALLDATE>04/05/2014</INSTALLDATE>
+      <NAME>McAfee Agent</NAME>
+      <PUBLISHER>McAfee, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{EBF3D65F-011E-44D2-8F4F-C74B52682EDD}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Mcafee.com</URL_INFO_ABOUT>
+      <VERSION>4.8.0.1500</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=146008</HELPLINK>
+      <INSTALLDATE>30/09/2014</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</UNINSTALL_STRING>
+      <VERSION>10.0.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2160841</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2160841</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2162169</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2162169</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2446708</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2446708</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2446708v2</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2446708v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2468871.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2468871</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2468871</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2468871)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {29C7BE97-DE59-37A2-A687-2ADD5321948A} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2473228</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2473228</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2478063</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2478063</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2478663</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2478663</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2514805</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2514805</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2518870</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2518870</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2533523.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2533523</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2533523</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2533523)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {7D799A81-5661-3159-BF92-754161CED6E6} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2539636</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2539636</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2544514.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2544514</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2544514</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Update 4.0.2 for Microsoft .NET Framework 4 Client Profile (KB2544514)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Platform Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {1346D5FA-2A4F-3D79-86EF-B348198C174B} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2572063</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2572063</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2572078</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2572078</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2599651</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2599651</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2600211</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2600211</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2600217.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2600217</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2600217</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2600217)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {4DFA8287-EA36-3469-99FE-F568FEC81653} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2604121.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2604121</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2604121</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2604121)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {6AF6C62E-4E3D-33BF-A591-9E4D53BDF22F} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2633870</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2633870</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2639327</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2639327</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2656351.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2656351</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2656351</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2656351)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {E59B2174-E924-311F-8549-AD714C14664D} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2656368</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2656368</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2656368.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2656368v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2656368</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2656368v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {DA36C2E5-6B34-3A6A-9C0A-7D1CC1C5A768} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2656405.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2656405</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2656405</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2656405)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {7B82A51A-768B-3A7B-ADFA-F777097A8079} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2686827.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2686827</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2686827</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2686827)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {E40184A4-4A61-3D2E-9035-CB6E1E610E07} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2698021</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2698021</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2729449.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2729449</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2729449</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2729449)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {4736E989-32D9-3B91-90D7-C68848E118CA} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2732797</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2732797</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2736428.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2736428</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2736428</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2736428)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {BA941BCD-BC45-3D64-AB89-0F737907515C} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2737019.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2737019</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2737019</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2737019)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {F1696E2F-4803-362F-A756-65B363483FE6} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2742595.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2742595</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2742595</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2742595)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {C8B8456C-6A12-3725-95A8-1C9FBE1E3141} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2789642.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2789642</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2789642</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2789642)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {8E6848A1-B790-34FE-921A-A5319258E254} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2804576.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2804576</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2804576</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2804576)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {E7F6B64E-E11F-3D1C-868D-3F1443DA5A15} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2832407</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2832407</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2835393.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2835393</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2835393</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2835393)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {08BB8EA1-3BA7-3AD5-8A07-22A5EC1F704E} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2836939.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2836939</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2836939</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2836939)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {8C286FD4-AB38-37A6-BC8A-6F16AFE9AB1F} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2836939v2</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2836939v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2836939.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2836939v3</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2836939</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2836939v3)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {EFD73366-C059-3D04-9848-59072A15DB53} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>3</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2840628.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2840628</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2840628</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2840628)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {880A0A36-244B-3C7A-8D6B-56E694CE7883} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2840628.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2840628v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2840628</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2840628v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {9D8496AE-4030-3E92-B44E-4F81051E6C85} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2858302</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2858302</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2858302.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2858302v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2858302</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2858302v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {43B6E5D3-56A9-36C1-BD8B-9E1D6920FF11} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2861188</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2861188</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2894842</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2894842</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2894842.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2894842v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2894842</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2894842v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {46FBCE47-ECED-3278-A0C7-EBEAAC9B3188} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2898842</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2898842</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2898855</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2898855</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2898855v2</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2898855v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2901110</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2901110</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2901110.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2901110v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2901110</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2901110v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {9625A203-DB41-3055-971E-550DA3E825B2} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2931365</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2931365</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2938780</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2938780</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2938780v2</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2938780v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2972106.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2972106</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2972106</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2972106)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {8BB35EB9-BEE3-3CF2-97DC-DB99972A0F8F} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2972215.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2972215</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2972215</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2972215)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {20244221-8F54-35B8-8C6E-5FDD8DB51EEE} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2978125.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2978125</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2978125</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2978125)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {7859B202-40C9-3C27-924D-5987A95F2DD0} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2979575</GUID>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2979575</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2979575.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F5B09CFD-F0B2-36AF-8DF4-1DF6B63FC7B4}.KB2979575v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2979575</HELPLINK>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2979575v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {CD53435F-CCFA-3223-B6A4-E62452043782} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>16/01/2013</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>8.0.7601.17514</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2830477</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2592687</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2425227</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2484033</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2488113</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2505438</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2506014</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2506212</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2506928</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2509553</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2511250</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2511455</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2515325</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2522422</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2529073</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2533552</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2536275</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2536276</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2541014</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2544893</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2545698</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2547666</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2552343</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2560656</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2563227</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2564958</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2567680</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2570947</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2574819</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2584146</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2585542</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2598845</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2603229</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2604115</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2607047</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2608658</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2618451</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2620704</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2620712</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2621440</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2631813</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2633952</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2636573</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2640148</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2643719</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2644615</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2645640</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2647753</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2653956</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2654428</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2655992</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2656356</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2656373</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2656411</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2658846</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2659262</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2660075</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2661254</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2667402</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2676562</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2677070</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Hotfix</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2679255</NAME>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2685811</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2685813</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2685939</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2686831</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2688338</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2690533</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2691442</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2695962</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2698365</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2699779</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2699988</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2703157</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2705219</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2706045</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2709630</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2709715</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2709981</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2712808</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2718523</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2718704</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2719033</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2719857</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB2719985</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2724197</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2726535</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2729094</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2729452</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2732059</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2735855</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2736422</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2739159</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2741355</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2742599</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2743555</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2749655</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2750841</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2753842</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2756921</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2757638</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2758857</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2761217</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2761465</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2762895</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2763523</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2765809</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2769369</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2770660</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2778930</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2785220</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2786081</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2786400</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2789645</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2790113</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2791765</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2798162</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB2799329</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2800095</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2804579</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2807986</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2808679</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2813170</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2813347</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2813430</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2820197</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2820331</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2830290</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2832414</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2833946</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2834140</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2834886</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2835361</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2836942</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2836943</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2839894</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2840149</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2840631</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2843630</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2844286</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2845690</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2846071</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2847311</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2849470</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/08/2013</INSTALLDATE>
+      <NAME>KB2850851</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2852386</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2853952</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2855844</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2857650</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2861191</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2861698</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2861855</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2013</INSTALLDATE>
+      <NAME>KB2862152</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2862330</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2862335</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2862966</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2862973</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2863058</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2863240</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2864058</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2864202</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2868038</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2868116</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2868623</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2013</INSTALLDATE>
+      <NAME>KB2868626</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2013</INSTALLDATE>
+      <NAME>KB2868725</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2871997</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2872339</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2013</INSTALLDATE>
+      <NAME>KB2875783</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2876284</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2013</INSTALLDATE>
+      <NAME>KB2876331</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2879017</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2882822</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2883150</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2884256</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2887069</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>KB2888049</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2013</INSTALLDATE>
+      <NAME>KB2888505</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2891804</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2892074</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2893294</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2013</INSTALLDATE>
+      <NAME>KB2893519</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2894844</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2013</INSTALLDATE>
+      <NAME>KB2900986</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2908783</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2911501</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2918614</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2919469</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2922229</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2926765</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2928562</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2929733</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2931356</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2937610</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2939576</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2943357</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2957189</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2957503</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2957509</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2961072</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2966583</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2968294</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2972100</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2972211</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2973112</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2973201</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2973351</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2976897</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2977292</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2978120</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2978668</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2979570</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2980245</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2984972</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2984976</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2985461</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2991963</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2992611</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2993651</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB2993958</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3000988</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3002885</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3003057</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3003743</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3005607</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3006226</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3006625</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3008923</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3010788</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3011780</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3012176</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3013126</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3013410</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3014029</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3014406</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3018238</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3020387</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3021674</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3022777</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2015</INSTALLDATE>
+      <NAME>KB3023266</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/08/2012</INSTALLDATE>
+      <NAME>KB958488</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>21/11/2010</INSTALLDATE>
+      <NAME>KB976902</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/01/2013</INSTALLDATE>
+      <NAME>KB982018</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <STORAGES>
+      <DESCRIPTION>Disk drive</DESCRIPTION>
+      <DISKSIZE>40954</DISKSIZE>
+      <FIRMWARE>2.0</FIRMWARE>
+      <INTERFACE>SCSI</INTERFACE>
+      <MANUFACTURER>(Standard disk drives)</MANUFACTURER>
+      <MODEL>XENSRC PVDISK SCSI Disk Device</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>2</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>97997ef4-bb34-40  </SERIAL>
+      <SERIALNUMBER>97997ef4-bb34-40  </SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <STORAGES>
+      <DESCRIPTION>Disk drive</DESCRIPTION>
+      <DISKSIZE>245759</DISKSIZE>
+      <FIRMWARE>2.0</FIRMWARE>
+      <INTERFACE>SCSI</INTERFACE>
+      <MANUFACTURER>(Standard disk drives)</MANUFACTURER>
+      <MODEL>XENSRC PVDISK SCSI Disk Device</MODEL>
+      <NAME>\\.\PHYSICALDRIVE1</NAME>
+      <SCSI_COID>2</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>1</SCSI_UNID>
+      <SERIAL>777eb704-81f3-43  </SERIAL>
+      <SERIALNUMBER>777eb704-81f3-43  </SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <STORAGES>
+      <DESCRIPTION>CD-ROM Drive</DESCRIPTION>
+      <MANUFACTURER>(Standard CD-ROM drives)</MANUFACTURER>
+      <MODEL>QEMU QEMU DVD-ROM ATA Device</MODEL>
+      <NAME>QEMU QEMU DVD-ROM ATA Device</NAME>
+      <SCSI_COID>1</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>1</SCSI_UNID>
+      <SERIALNUMBER/>  <TYPE>UNKNOWN</TYPE>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>USB Input Device</CAPTION>
+      <MANUFACTURER>Adomax Technology Co., Ltd</MANUFACTURER>
+      <NAME>USB Input Device</NAME>
+      <PRODUCTID>0001</PRODUCTID>
+      <SERIAL>1</SERIAL>
+      <VENDORID>0627</VENDORID>
+    </USBDEVICES>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.18</VERSIONCLIENT>
+    <VIDEOS>
+      <NAME>Standard VGA Graphics Adapter</NAME>
+    </VIDEOS>
+  </CONTENT>
+  <DEVICEID>HPSC-WSUS.hmd.local-2017-01-21-19-21-32</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>

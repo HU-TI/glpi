@@ -1,0 +1,2337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2017-11-24 16:17:31</LOGDATE>
+    </ACCESSLOG>
+    <ANTIVIRUS>
+      <DATFILECREATION>29/11/2016</DATFILECREATION>
+      <DATFILEVERSION>8364.0000</DATFILEVERSION>
+      <ENABLED>1</ENABLED>
+      <ENGINEVERSION32>5800.7501</ENGINEVERSION32>
+      <ENGINEVERSION64>5800.7501</ENGINEVERSION64>
+      <GUID>{DA9F8ED0-D0DE-39CC-F55A-51AB4CC1B556}</GUID>
+      <NAME>McAfee VirusScan Enterprise</NAME>
+      <UPTODATE>1</UPTODATE>
+    </ANTIVIRUS>
+    <BIOS>
+      <ASSETTAG/>  <BDATE>09/29/2004</BDATE>
+      <BMANUFACTURER>Intel Corp.</BMANUFACTURER>
+      <BVERSION>BF86510A.86A.0069.P21.0409290100</BVERSION>
+      <MMANUFACTURER>Intel Corporation</MMANUFACTURER>
+      <MMODEL>D865GLC</MMODEL>
+      <MSN>ABLC50501737</MSN>
+      <SKUNUMBER/>  <SMANUFACTURER/>  <SMODEL/>  <SSN/></BIOS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) IDE Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Desktop Board D865GLC</NAME>
+      <PCISUBSYSTEMID>8086:4c43</PCISUBSYSTEMID>
+      <PRODUCTID>24db</PRODUCTID>
+      <TYPE>Intel(R) 82801EB Ultra ATA Storage Controllers - 24DB</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB (ICH5) SATA Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Desktop Board D865GLC</NAME>
+      <PCISUBSYSTEMID>8086:4c43</PCISUBSYSTEMID>
+      <PRODUCTID>24d1</PRODUCTID>
+      <TYPE>Intel(R) 82801EB Ultra ATA Storage Controllers - 24D1</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) USB UHCI Controller #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Desktop Board D865GLC</NAME>
+      <PCISUBSYSTEMID>8086:4c43</PCISUBSYSTEMID>
+      <PRODUCTID>24d2</PRODUCTID>
+      <TYPE>Intel(R) 82801EB USB Universal Host Controller - 24D2</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) USB UHCI Controller #2</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Desktop Board D865GLC</NAME>
+      <PCISUBSYSTEMID>8086:4c43</PCISUBSYSTEMID>
+      <PRODUCTID>24d4</PRODUCTID>
+      <TYPE>Intel(R) 82801EB USB Universal Host Controller - 24D4</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) USB UHCI Controller #3</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Desktop Board D865GLC</NAME>
+      <PCISUBSYSTEMID>8086:4c43</PCISUBSYSTEMID>
+      <PRODUCTID>24d7</PRODUCTID>
+      <TYPE>Intel(R) 82801EB USB Universal Host Controller - 24D7</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) USB2 EHCI Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Desktop Board D865GLC</NAME>
+      <PCISUBSYSTEMID>8086:4c43</PCISUBSYSTEMID>
+      <PRODUCTID>24dd</PRODUCTID>
+      <TYPE>Intel(R) 82801EB USB2 Enhanced Host Controller - 24DD</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) USB UHCI Controller #4</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Desktop Board D865GLC</NAME>
+      <PCISUBSYSTEMID>8086:4c43</PCISUBSYSTEMID>
+      <PRODUCTID>24de</PRODUCTID>
+      <TYPE>Intel(R) 82801EB USB Universal Host Controller - 24DE</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82865G/PE/P DRAM Controller/Host-Hub Interface</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82865G/PE/P DRAM Controller/Host-Hub Interface</NAME>
+      <PCISUBSYSTEMID>8086:2570</PCISUBSYSTEMID>
+      <PRODUCTID>2570</PRODUCTID>
+      <TYPE>Intel(R) 82865G/PE/P/GV/82848P Processor to I/O Controller - 2570</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) SMBus Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Desktop Board D865GLC</NAME>
+      <PCISUBSYSTEMID>8086:4c43</PCISUBSYSTEMID>
+      <PRODUCTID>24d3</PRODUCTID>
+      <TYPE>Intel(R) 82801EB SMBus Controller - 24D3</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82865G Integrated Graphics Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Desktop Board D865GLC</NAME>
+      <PCISUBSYSTEMID>8086:4c43</PCISUBSYSTEMID>
+      <PRODUCTID>2572</PRODUCTID>
+      <TYPE>Standard VGA Graphics Adapter</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>SoundMax Intergrated Digital Audio</NAME>
+      <PCISUBSYSTEMID>8086:e002</PCISUBSYSTEMID>
+      <PRODUCTID>24d5</PRODUCTID>
+      <TYPE>Multimedia Audio Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82562EZ 10/100 Ethernet Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82562EZ 10/100 Ethernet Controller</NAME>
+      <PCISUBSYSTEMID>8086:303a</PCISUBSYSTEMID>
+      <PRODUCTID>1050</PRODUCTID>
+      <TYPE>Intel(R) PRO/100 VE Network Connection</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801 PCI Bridge</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801 PCI Bridge</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>244e</PRODUCTID>
+      <TYPE>Intel(R) 82801 PCI Bridge - 244E</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) LPC Interface Bridge</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801EB/ER (ICH5/ICH5R) LPC Interface Bridge</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>24d0</PRODUCTID>
+      <TYPE>Intel(R) 82801EB LPC Interface Controller - 24D0</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>1</CORE>
+      <DESCRIPTION>x86 Family 15 Model 3 Stepping 3</DESCRIPTION>
+      <FAMILYNUMBER>15</FAMILYNUMBER>
+      <ID>33 0F 00 00 FF FB EB BF</ID>
+      <MANUFACTURER>Intel</MANUFACTURER>
+      <MODEL>3</MODEL>
+      <NAME>Intel(R) Pentium(R) 4 CPU 2.66GHz</NAME>
+      <SERIAL>ToBeFilledByO.E.M.</SERIAL>
+      <SPEED>2660</SPEED>
+      <STEPPING>3</STEPPING>
+      <THREAD>1</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Local Fixed Disk</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>36303</FREE>
+      <LABEL>OSDisk</LABEL>
+      <LETTER>C:</LETTER>
+      <SERIAL>08349B00</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>59999</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>OSDisk</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>454</FREE>
+      <LABEL>System</LABEL>
+      <LETTER>System</LETTER>
+      <SERIAL>083109D7</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>498</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>System</VOLUMN>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>FP_NO_HOST_CHECK</KEY>
+      <VAL>NO</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>x86</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>1</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>15</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>x86 Family 15 Model 3 Stepping 3, GenuineIntel</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>0303</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_logfile</KEY>
+      <VAL>C:\BVTBin\Tests\installpackage\csilogfile.log</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_flags</KEY>
+      <VAL>3</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>DEFLOGDIR</KEY>
+      <VAL>C:\ProgramData\McAfee\DesktopProtection</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>VSEDEFLOGDIR</KEY>
+      <VAL>C:\ProgramData\McAfee\DesktopProtection</VAL>
+    </ENVS>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x86-multi-thread-64int</ARCHNAME>
+      <CHASSIS_TYPE>Unknown</CHASSIS_TYPE>
+      <CHECKSUM>78767</CHECKSUM>
+      <DEFAULTGATEWAY>10.100.1.1</DEFAULTGATEWAY>
+      <DESCRIPTION>CT01-002961</DESCRIPTION>
+      <DNS>10.100.1.10</DNS>
+      <ETIME>720</ETIME>
+      <IPADDR>10.100.200.112</IPADDR>
+      <LASTLOGGEDUSER>leonardo.hu</LASTLOGGEDUSER>
+      <MEMORY>494</MEMORY>
+      <NAME>f-sini-pc-001</NAME>
+      <OSCOMMENTS>Service Pack 1</OSCOMMENTS>
+      <OSNAME>Microsoft Windows 7 Professional </OSNAME>
+      <OSVERSION>6.1.7601</OSVERSION>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>2660</PROCESSORS>
+      <PROCESSORT>Intel(R) Pentium(R) 4 CPU 2.66GHz</PROCESSORT>
+      <UUID>99213F10-5B6F-D911-A5AF-0030D3001E09</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINCOMPANY>SSMD</WINCOMPANY>
+      <WINLANG>1046</WINLANG>
+      <WINOWNER>SSMD</WINOWNER>
+      <WINPRODID>00371-868-0000007-85557</WINPRODID>
+      <WINPRODKEY>FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4</WINPRODKEY>
+      <WORKGROUP>hmd.local</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Enhanced (101- or 102-key)</CAPTION>
+      <DESCRIPTION>Dispositivo de Entrada USB</DESCRIPTION>
+      <LAYOUT>00000416</LAYOUT>
+      <NAME>Enhanced (101- or 102-key)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>Dispositivo de Entrada USB</CAPTION>
+      <DESCRIPTION>Dispositivo de Entrada USB</DESCRIPTION>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Dispositivos padrão do sistema)</MANUFACTURER>
+      <NAME>Dispositivo de Entrada USB</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administradores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Convidados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Distributed COM - Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicadores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Leitores de log de eventos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Operadores criptográficos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Operadores de configuração de rede</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Operadores de cópia</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Usuários avançados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Usuários da área de trabalho remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Usuários de log de desempenho</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Usuários de monitor de desempenho</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1017</ID>
+      <NAME>Oferecer Auxiliares para Assistência Remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1015</ID>
+      <NAME>andred</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1004</ID>
+      <NAME>athoso</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1016</ID>
+      <NAME>brunoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1013</ID>
+      <NAME>carlose</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1018</ID>
+      <NAME>douglasb</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1011</ID>
+      <NAME>eduardof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1009</ID>
+      <NAME>ezequiela</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1014</ID>
+      <NAME>geziels</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1020</ID>
+      <NAME>leonardoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1003</ID>
+      <NAME>marcof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1005</ID>
+      <NAME>rodrigom</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-866813441-1789697715-1741226052-1019</ID>
+      <NAME>victorg</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPTION>J6G1</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <SERIALNUMBER>SerNum1</SERIALNUMBER>
+      <SPEED>333 MHz</SPEED>
+      <TYPE>DDR</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>J6G2</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+      <SERIALNUMBER>SerNum2</SERIALNUMBER>
+      <SPEED>333 MHz</SPEED>
+      <TYPE>DDR</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPACITY>256</CAPACITY>
+      <CAPTION>J6H1</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>3</NUMSLOTS>
+      <SERIALNUMBER>SerNum3</SERIALNUMBER>
+      <SPEED>333 MHz</SPEED>
+      <TYPE>DDR</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPACITY>256</CAPACITY>
+      <CAPTION>J6H2</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>4</NUMSLOTS>
+      <SERIALNUMBER>SerNum4</SERIALNUMBER>
+      <SPEED>333 MHz</SPEED>
+      <TYPE>DDR</TYPE>
+    </MEMORIES>
+    <NETWORKS>
+      <DESCRIPTION>Intel(R) PRO/100 VE Network Connection</DESCRIPTION>
+      <IPADDRESS>10.100.200.112</IPADDRESS>
+      <IPDHCP>10.100.1.10</IPDHCP>
+      <IPGATEWAY>10.100.1.1</IPGATEWAY>
+      <IPMASK>255.255.0.0</IPMASK>
+      <IPSUBNET>10.100.0.0</IPSUBNET>
+      <MACADDR>00:11:11:EF:B0:52</MACADDR>
+      <PCIID>8086:1050:303A:8086</PCIID>
+      <PNPDEVICEID>PCI\VEN_8086&amp;DEV_1050&amp;SUBSYS_303A8086&amp;REV_01\4&amp;2E98101C&amp;0&amp;40F0</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Intel(R) PRO/100 VE Network Connection</DESCRIPTION>
+      <IPADDRESS6>fe80::a46e:2c33:c7e5:48b7</IPADDRESS6>
+      <IPMASK6>ffff:ffff:ffff:ffff::</IPMASK6>
+      <IPSUBNET6>fe80::</IPSUBNET6>
+      <MACADDR>00:11:11:EF:B0:52</MACADDR>
+      <PCIID>8086:1050:303A:8086</PCIID>
+      <PNPDEVICEID>PCI\VEN_8086&amp;DEV_1050&amp;SUBSYS_303A8086&amp;REV_01\4&amp;2E98101C&amp;0&amp;40F0</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>RAS Async Adapter</DESCRIPTION>
+      <MACADDR>20:41:53:59:4E:FF</MACADDR>
+      <PNPDEVICEID>SW\{EEAB7790-C514-11D1-B42B-00805FC1270E}\ASYNCMAC</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>32-bit</ARCH>
+      <BOOT_TIME>2017-11-24 16:16:34</BOOT_TIME>
+      <DNS_DOMAIN>hmd.local</DNS_DOMAIN>
+      <FQDN>f-sini-pc-001.hmd.local</FQDN>
+      <FULL_NAME>Microsoft Windows 7 Professional </FULL_NAME>
+      <INSTALL_DATE>2015-07-02 09:51:56</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>6.1.7601</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK>Service Pack 1</SERVICE_PACK>
+    </OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>Mouse Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>Keyboard Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-9 female</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A1</NAME>
+      <TYPE>Serial Port 16550A Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-25 male</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J4A2</NAME>
+      <TYPE>Parallel Port ECP/EPP</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>JA5A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>JA5A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-15 male</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J4A1</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A2</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A2</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>RJ-45</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>JA5A1</NAME>
+      <TYPE>Network Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Jack (headphones)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J6A1</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Jack (headphones)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J6A1</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Jack (headphones)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J6A1</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J5C1 - +12V</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board Floppy</DESCRIPTION>
+      <NAME>J4H1 - FDD</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board IDE</DESCRIPTION>
+      <NAME>J6H2 - PRI IDE</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board IDE</DESCRIPTION>
+      <NAME>J6H1 - SEC IDE</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board Sound Input From CD-ROM</DESCRIPTION>
+      <NAME>J8B1 - CDIN</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J6B1 - AUX IN</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9G1 - FRONT PANEL HDR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2F1 - CPU FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9H3 - FNT PNL</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9H3 - FRONT CHASSIS FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J1B1 - REAR CHASSIS FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9H2 - BIOS CONFIG</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Proprietary</DESCRIPTION>
+      <NAME>J8A1 - FP AUDIO</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9F1 - FRONT PANEL USB</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2H1 - PS</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J8H3 - CH INTR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J8H2 - SCSI</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Porta de comunicação (COM1)</CAPTION>
+      <DESCRIPTION>Porta de comunicação</DESCRIPTION>
+      <NAME>Porta de comunicação (COM1)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>LPT1</CAPTION>
+      <DESCRIPTION>LPT1</DESCRIPTION>
+      <NAME>LPT1</NAME>
+      <TYPE>Parallel</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1A1</CAPTION>
+      <DESCRIPTION>J1A1</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1A1</CAPTION>
+      <DESCRIPTION>J1A1</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A1</CAPTION>
+      <DESCRIPTION>J2A1</DESCRIPTION>
+      <NAME>J2A1</NAME>
+      <TYPE>DB-9, Female</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J4A2</CAPTION>
+      <DESCRIPTION>J4A2</DESCRIPTION>
+      <NAME>J4A2</NAME>
+      <TYPE>DB-25, Male</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>JA5A1</CAPTION>
+      <DESCRIPTION>JA5A1</DESCRIPTION>
+      <NAME>JA5A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>JA5A1</CAPTION>
+      <DESCRIPTION>JA5A1</DESCRIPTION>
+      <NAME>JA5A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J4A1</CAPTION>
+      <DESCRIPTION>J4A1</DESCRIPTION>
+      <NAME>J4A1</NAME>
+      <TYPE>DB-15, Male</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A2</CAPTION>
+      <DESCRIPTION>J2A2</DESCRIPTION>
+      <NAME>J2A2</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A2</CAPTION>
+      <DESCRIPTION>J2A2</DESCRIPTION>
+      <NAME>J2A2</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>JA5A1</CAPTION>
+      <DESCRIPTION>JA5A1</DESCRIPTION>
+      <NAME>JA5A1</NAME>
+      <TYPE>RJ45</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6A1</CAPTION>
+      <DESCRIPTION>J6A1</DESCRIPTION>
+      <NAME>J6A1</NAME>
+      <TYPE>PCI-X</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6A1</CAPTION>
+      <DESCRIPTION>J6A1</DESCRIPTION>
+      <NAME>J6A1</NAME>
+      <TYPE>PCI-X</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6A1</CAPTION>
+      <DESCRIPTION>J6A1</DESCRIPTION>
+      <NAME>J6A1</NAME>
+      <TYPE>PCI-X</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J5C1 - +12V</CAPTION>
+      <DESCRIPTION>J5C1 - +12V</DESCRIPTION>
+      <NAME>J5C1 - +12V</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J4H1 - FDD</CAPTION>
+      <DESCRIPTION>J4H1 - FDD</DESCRIPTION>
+      <NAME>J4H1 - FDD</NAME>
+      <TYPE>SSA SCSI</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6H2 - PRI IDE</CAPTION>
+      <DESCRIPTION>J6H2 - PRI IDE</DESCRIPTION>
+      <NAME>J6H2 - PRI IDE</NAME>
+      <TYPE>ATA 3-1/2 Inch (40 pins)</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6H1 - SEC IDE</CAPTION>
+      <DESCRIPTION>J6H1 - SEC IDE</DESCRIPTION>
+      <NAME>J6H1 - SEC IDE</NAME>
+      <TYPE>ATA 3-1/2 Inch (40 pins)</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J8B1 - CDIN</CAPTION>
+      <DESCRIPTION>J8B1 - CDIN</DESCRIPTION>
+      <NAME>J8B1 - CDIN</NAME>
+      <TYPE>25 Pin Dual Inline</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6B1 - AUX IN</CAPTION>
+      <DESCRIPTION>J6B1 - AUX IN</DESCRIPTION>
+      <NAME>J6B1 - AUX IN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9G1 - FRONT PANEL HDR</CAPTION>
+      <DESCRIPTION>J9G1 - FRONT PANEL HDR</DESCRIPTION>
+      <NAME>J9G1 - FRONT PANEL HDR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2F1 - CPU FAN</CAPTION>
+      <DESCRIPTION>J2F1 - CPU FAN</DESCRIPTION>
+      <NAME>J2F1 - CPU FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9H3 - FNT PNL</CAPTION>
+      <DESCRIPTION>J9H3 - FNT PNL</DESCRIPTION>
+      <NAME>J9H3 - FNT PNL</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9H3 - FRONT CHASSIS FAN</CAPTION>
+      <DESCRIPTION>J9H3 - FRONT CHASSIS FAN</DESCRIPTION>
+      <NAME>J9H3 - FRONT CHASSIS FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1B1 - REAR CHASSIS FAN</CAPTION>
+      <DESCRIPTION>J1B1 - REAR CHASSIS FAN</DESCRIPTION>
+      <NAME>J1B1 - REAR CHASSIS FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9H2 - BIOS CONFIG</CAPTION>
+      <DESCRIPTION>J9H2 - BIOS CONFIG</DESCRIPTION>
+      <NAME>J9H2 - BIOS CONFIG</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J8A1 - FP AUDIO</CAPTION>
+      <DESCRIPTION>J8A1 - FP AUDIO</DESCRIPTION>
+      <NAME>J8A1 - FP AUDIO</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9F1 - FRONT PANEL USB</CAPTION>
+      <DESCRIPTION>J9F1 - FRONT PANEL USB</DESCRIPTION>
+      <NAME>J9F1 - FRONT PANEL USB</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2H1 - PS</CAPTION>
+      <DESCRIPTION>J2H1 - PS</DESCRIPTION>
+      <NAME>J2H1 - PS</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J8H3 - CH INTR</CAPTION>
+      <DESCRIPTION>J8H3 - CH INTR</DESCRIPTION>
+      <NAME>J8H3 - CH INTR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J8H2 - SCSI</CAPTION>
+      <DESCRIPTION>J8H2 - SCSI</DESCRIPTION>
+      <NAME>J8H2 - SCSI</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>Kyocera KM-2810 KX</DRIVER>
+      <NAME>Kyocera KM-2810 KX</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>USB001</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SERIAL>XVN0918141</SERIAL>
+      <SHARED>0</SHARED>
+      <STATUS>Unknown</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Kyocera FS-4200DN KX</DRIVER>
+      <NAME>Kyocera FS-4200DN KX</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>USB002</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SERIAL>NU43615961</SERIAL>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Kyocera FS-4200DN KX</DRIVER>
+      <NAME>Fila teste</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.100.150.180</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <SLOTS>
+      <DESCRIPTION>32-bit AGP 4x</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>J6C1</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>2</DESIGNATION>
+      <NAME>J7B1</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>3</DESIGNATION>
+      <NAME>J8B2</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>4</DESIGNATION>
+      <NAME>J9B1</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>J6C1</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>J7B1</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>J8B2</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>J9B1</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Flash Player ActiveX</GUID>
+      <HELPLINK>http://www.adobe.com/go/flashplayer_support/</HELPLINK>
+      <INSTALLDATE>31/03/2017</INSTALLDATE>
+      <NAME>Adobe Flash Player 25 ActiveX</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>C:\windows\system32\Macromed\Flash\FlashUtil32_25_0_0_127_ActiveX.exe -maintain activex</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>25.0.0.127</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Shockwave Player</GUID>
+      <HELPLINK>http://www.adobe.com/support/shockwave</HELPLINK>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Adobe Shockwave Player 11.6</NAME>
+      <PUBLISHER>Adobe Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\windows\system32\Adobe\Shockwave 11\uninstaller.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.6.4.634</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>CitrixOnlinePluginFull</GUID>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\ProgramData\Citrix\Citrix online plug-in\TrolleyExpress.exe /uninstall /cleanup</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>http://forge.fusioninventory.org/projects/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>18/01/2017</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.3.18 (x86 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.18</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>IBS Tracker_is1</GUID>
+      <HELPLINK>http://www.IBSTracker.com</HELPLINK>
+      <INSTALLDATE>26/12/2016</INSTALLDATE>
+      <NAME>IBS Tracker</NAME>
+      <PUBLISHER>Really Impressive Products, LLC</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files\IBS Tracker\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.ReallyImpressive.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>InstallShield_{ECDF16B0-D43E-40E4-B41E-72B90077BF09}</GUID>
+      <INSTALLDATE>01/09/2015</INSTALLDATE>
+      <NAME>Kyocera TWAIN Driver</NAME>
+      <PUBLISHER>Kyocera Mita</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\InstallShield Installation Information\{ECDF16B0-D43E-40E4-B41E-72B90077BF09}\setup.exe -runfromtemp -l0x0416</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.kyoceramita.com/</URL_INFO_ABOUT>
+      <VERSION>2.0.1114</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KMnet Viewer</GUID>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>KMnet Viewer</NAME>
+      <PUBLISHER>Kyocera Mita Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\Kyocera\KMnet Viewer\Setup.exe</UNINSTALL_STRING>
+      <VERSION>5.3.1922</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Kyocera Product Library</GUID>
+      <INSTALLDATE>05/01/2016</INSTALLDATE>
+      <NAME>Kyocera Product Library</NAME>
+      <PUBLISHER>KYOCERA Document Solutions Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\Kyocera\KmUninstall.exe -l Portuguese -ck KYOCERA</UNINSTALL_STRING>
+      <VERSION>4.2.1909</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft .NET Framework 4 Client Profile</GUID>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 4 Client Profile</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\Setup.exe /repair /x86 /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.microsoft.com/fwlink/?LinkId=164164</URL_INFO_ABOUT>
+      <VERSION>4.0.30319</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft .NET Framework 4 Extended</GUID>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 4 Extended</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\Setup.exe /repair /x86 /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.microsoft.com/fwlink/?LinkId=164164</URL_INFO_ABOUT>
+      <VERSION>4.0.30319</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Mozilla Firefox 53.0 (x86 pt-BR)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>Mozilla Firefox 53.0 (x86 pt-BR)</GUID>
+      <HELPLINK>https://support.mozilla.org</HELPLINK>
+      <INSTALLDATE>17/07/2017</INSTALLDATE>
+      <NAME>Mozilla Firefox 53.0 (x86 pt-BR)</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files\Mozilla Firefox\uninstall\helper.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.mozilla.org</URL_INFO_ABOUT>
+      <VERSION>53.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Mozilla Maintenance Service</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>MozillaMaintenanceService</GUID>
+      <INSTALLDATE>17/07/2017</INSTALLDATE>
+      <NAME>Mozilla Maintenance Service</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files\Mozilla Maintenance Service\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>53.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WinRAR archiver</GUID>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>WinRAR 4.11 (32-bit)</NAME>
+      <PUBLISHER>win.rar GmbH</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\WinRAR\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>4.11.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>PDFCreator - Opensource</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0001B4FD-9EA3-4D90-A79E-FD14BA3AB01D}</GUID>
+      <HELPLINK>http://www.sf.net/projects/pdfcreator</HELPLINK>
+      <INSTALLDATE>09/11/2015</INSTALLDATE>
+      <NAME>PDFCreator</NAME>
+      <PUBLISHER>Frank Heindörfer, Philip Chinery</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\PDFCreator\unins000.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.sf.net/projects/pdfcreator</URL_INFO_ABOUT>
+      <VERSION>0.9.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2162169</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2162169</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2416472</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2416472</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2468871.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2468871</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2468871</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Extended (KB2468871)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {5E9CF3A4-ADB3-3080-A8BF-976A28340758} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2478063</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2478063</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2487367.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2487367</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2487367</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2487367)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {42A3562E-8B4E-39A4-B82D-CC12F82889E3} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2533523.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2533523</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2533523</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Extended (KB2533523)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {81EBB9D7-173C-32E3-B477-149C8DE075E4} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2544514</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2544514</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2572063</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2572063</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2599651</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2599651</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2600211</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2600211</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2600217.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2600217</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2600217</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Extended (KB2600217)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {5D9961AC-7C99-36A2-9EF0-34678AED5384} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2604121</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2604121</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2639327</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2639327</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2656351</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2656351</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2682543</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2682543</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2736428.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2736428</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2736428</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2736428)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {FCBF8C05-F031-381A-8B7F-45403B55ADF5} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2742595.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2742595</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2742595</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2742595)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {788818B1-B191-3217-A210-7ACFDE19CE4A} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2836939</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2836939</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2836939v2</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2836939v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2836939v3</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2836939v3</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2858302</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2858302</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2858302.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2858302v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2858302</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2858302v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {8BA4E34D-95C5-3907-87E4-62FBB31A2190} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2894842</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2894842</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2894842.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2894842v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2894842</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2894842v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {AE27A13B-C1EB-3973-8291-BC68A34F703C} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2901110</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2901110</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2901110.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2901110v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2901110</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2901110v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {229E3EA4-C2A3-3031-86A5-9BC8396F945B} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3037578.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB3037578</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3037578</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB3037578)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {AA50D98E-1F34-3E89-A351-E303F5B3BCE2} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3098778.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB3098778</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3098778</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB3098778)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {12331AC3-D113-36C1-AC57-2B58B561852E} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0F7319A9-083D-40B3-8256-00A6F3C2AAA2}</GUID>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in (SSON)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{0F7319A9-083D-40B3-8256-00A6F3C2AAA2}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{133236FE-E2F7-4313-8BF8-A10ACAAA7CB9}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in (USB)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{133236FE-E2F7-4313-8BF8-A10ACAAA7CB9}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{26A24AE4-039D-4CA4-87B4-2F83218025F0}</GUID>
+      <HELPLINK>http://java.com</HELPLINK>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Java 8 Update 25</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{26A24AE4-039D-4CA4-87B4-2F83218025F0}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://java.com</URL_INFO_ABOUT>
+      <VERSION>8.0.250</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2BC2781A-F7F6-452E-95EB-018A522F1B2C}</GUID>
+      <INSTALLDATE>01/09/2015</INSTALLDATE>
+      <NAME>PaperPort Image Printer</NAME>
+      <PUBLISHER>Nuance Communications, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{2BC2781A-F7F6-452E-95EB-018A522F1B2C}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.nuance.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2FC7287D-39DD-4A84-9806-D27D3CCDC51B}</GUID>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in (Web)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{2FC7287D-39DD-4A84-9806-D27D3CCDC51B}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{34639DA3-BB63-49F5-A9B0-87F4C2B992BB}</GUID>
+      <INSTALLDATE>01/09/2017</INSTALLDATE>
+      <NAME>pdfforge Extension v27.3</NAME>
+      <PUBLISHER>Spigot, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{34639DA3-BB63-49F5-A9B0-87F4C2B992BB}</UNINSTALL_STRING>
+      <VERSION>27.3</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2160841</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2160841</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2162169</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2162169</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2446708</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2446708</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2446708v2</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2446708v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2468871.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2468871</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2468871</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2468871)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {5E9CF3A4-ADB3-3080-A8BF-976A28340758} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2473228</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2473228</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2478063</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2478063</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2478663</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2478663</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2514805</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2514805</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2518870</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2518870</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2533523.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2533523</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2533523</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2533523)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {81EBB9D7-173C-32E3-B477-149C8DE075E4} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2539636</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2539636</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2544514</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2544514</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2572063</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2572063</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2572078</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2572078</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2599651</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2599651</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2600211</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2600211</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2600217.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2600217</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2600217</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2600217)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {5D9961AC-7C99-36A2-9EF0-34678AED5384} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2604121.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2604121</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2604121</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2604121)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {67A5F99B-5EBA-3812-8D2E-BC251490DD3F} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2633870</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2633870</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2639327</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2639327</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656351</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656351</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656368</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656368</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656368v2</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656368v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656405</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656405</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2686827</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2686827</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2698021</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2698021</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2729449.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2729449</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2729449</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2729449)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {CD6D9B8A-BBC4-3FA7-B24D-D74CE90630CF} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2732797</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2732797</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2736428.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2736428</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2736428</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2736428)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {FCBF8C05-F031-381A-8B7F-45403B55ADF5} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2737019.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2737019</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2737019</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2737019)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {ECBEE23D-AB7E-3DAA-B66B-CD52003198F1} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2742595.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2742595</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2742595</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2742595)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {788818B1-B191-3217-A210-7ACFDE19CE4A} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2789642</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2789642</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2804576</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2804576</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2832407</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2832407</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2835393</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2835393</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939v2</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939v3</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939v3</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2840628</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2840628</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2840628.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2840628v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2840628</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2840628v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {1E88AFAE-CEF7-3540-8FF6-6D00877B2767} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2858302</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2858302</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2858302.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2858302v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2858302</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2858302v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {8BA4E34D-95C5-3907-87E4-62FBB31A2190} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2861188</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2861188</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2894842</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2894842</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2894842.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2894842v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2894842</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2894842v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {AE27A13B-C1EB-3973-8291-BC68A34F703C} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2898842</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2898842</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2898855</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2898855</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2898855v2</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2898855v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2901110</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2901110</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2901110.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2901110v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2901110</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2901110v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {229E3EA4-C2A3-3031-86A5-9BC8396F945B} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2931365.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2931365</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2931365</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2931365)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {D72CBAF5-4CAD-36E1-A6C3-57FE1D2B453E} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2938780</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2938780</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2938780v2</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2938780v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2972106.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2972106</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2972106</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2972106)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {46A6AEB6-89CB-3DDF-AF98-5FBA7D58C423} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2972215.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2972215</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2972215</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2972215)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {A595E784-C204-339D-8460-9FE737C7BBBF} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2978125.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2978125</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2978125</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2978125)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {F97ADBB0-328A-3BAF-AA1A-0DDCEB094DF0} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2979575</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2979575</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2979575.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2979575v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2979575</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2979575v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {BDCDC684-E179-3461-A649-77FEE9D2C685} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3023221.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3023221</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3023221</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3023221)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {E9A2467F-2553-330A-9D32-A6CE696A4D57} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3032662.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3032662</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3032662</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3032662)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {84609CC1-E875-3EC3-A326-6D183EB751A8} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3037578.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3037578</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3037578</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3037578)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {AA50D98E-1F34-3E89-A351-E303F5B3BCE2} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3048074</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3048074</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3072309</GUID>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3072309</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3074547.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3074547</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3074547</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3074547)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {BF001367-7BA7-3E27-9E9B-0C54BC467164} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3097994.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3097994</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3097994</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3097994)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {C89D031F-E75F-3D32-9446-5E65E01C7160} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3098778.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3098778</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3098778</HELPLINK>
+      <INSTALLDATE>27/01/2016</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3098778)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {12331AC3-D113-36C1-AC57-2B58B561852E} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4A03706F-666A-4037-7777-5F2748764D10}</GUID>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Java Auto Updater</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <VERSION>2.8.25.18</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{57287FDF-27E6-45BC-9DD2-A33545C46C1A}</GUID>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in (HDX)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{57287FDF-27E6-45BC-9DD2-A33545C46C1A}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Adobe Shockwave Player Merge Module</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{612C34C7-5E90-47D8-9B5C-0F717DD82726}</GUID>
+      <HELPLINK>http://www.adobe.com/support</HELPLINK>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>swMSM</NAME>
+      <PUBLISHER>Adobe Systems, Inc</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{612C34C7-5E90-47D8-9B5C-0F717DD82726}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.0.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{6F2FDD50-E0F3-4117-B575-78E77F8D11EF}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in (DV)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{6F2FDD50-E0F3-4117-B575-78E77F8D11EF}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7299052b-02a4-4627-81f2-1818da5d550d}</GUID>
+      <INSTALLDATE>01/09/2015</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2005 Redistributable</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{7299052b-02a4-4627-81f2-1818da5d550d}</UNINSTALL_STRING>
+      <VERSION>8.0.56336</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{770657D0-A123-3C07-8E44-1C83EC895118}</GUID>
+      <INSTALLDATE>02/09/2015</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2005 ATL Update kb973923 - x86 8.0.50727.4053</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{770657D0-A123-3C07-8E44-1C83EC895118}</UNINSTALL_STRING>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{86493ADD-824D-4B8E-BD72-8C5DCDC52A71}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/954430</HELPLINK>
+      <INSTALLDATE>02/09/2015</INSTALLDATE>
+      <NAME>MSXML 4.0 SP2 (KB954430)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{86493ADD-824D-4B8E-BD72-8C5DCDC52A71}</UNINSTALL_STRING>
+      <VERSION>4.20.9870.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkID=91955</HELPLINK>
+      <INSTALLDATE>13/10/2016</INSTALLDATE>
+      <NAME>Microsoft Silverlight</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</UNINSTALL_STRING>
+      <VERSION>5.1.50901.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{913778D3-E1D8-4B55-9246-3308C54D3162}</GUID>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in (PNA)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{913778D3-E1D8-4B55-9246-3308C54D3162}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>   </COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-7AD7-1033-7B44-AA1000000001}</GUID>
+      <HELPLINK>http://www.adobe.com/support/main.html</HELPLINK>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>Adobe Reader X (10.1.2)</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-7AD7-1033-7B44-AA1000000001}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>10.1.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>SE,PP-0763-056-7518.1</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{C0E5B596-4F4F-4A45-A679-153693101050}</GUID>
+      <HELPLINK>http://latinamerica.scansoft.com/</HELPLINK>
+      <INSTALLDATE>01/09/2015</INSTALLDATE>
+      <NAME>ScanSoft PaperPort 11</NAME>
+      <PUBLISHER>Nuance Communications, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{C0E5B596-4F4F-4A45-A679-153693101050}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://latinamerica.scansoft.com/</URL_INFO_ABOUT>
+      <VERSION>11.1.0.307</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CE15D1B6-19B6-4D4D-8F43-CF5D2C3356FF}</GUID>
+      <HELPLINK>https://mysupport.mcafee.com</HELPLINK>
+      <INSTALLDATE>27/05/2016</INSTALLDATE>
+      <NAME>McAfee VirusScan Enterprise</NAME>
+      <PUBLISHER>McAfee, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{CE15D1B6-19B6-4D4D-8F43-CF5D2C3356FF}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.mcafee.com/</URL_INFO_ABOUT>
+      <VERSION>8.8.07000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{EBF3D65F-011E-44D2-8F4F-C74B52682EDD}</GUID>
+      <HELPLINK>https://mysupport.mcafee.com</HELPLINK>
+      <INSTALLDATE>02/07/2015</INSTALLDATE>
+      <NAME>McAfee Agent</NAME>
+      <PUBLISHER>McAfee, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{EBF3D65F-011E-44D2-8F4F-C74B52682EDD}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Mcafee.com</URL_INFO_ABOUT>
+      <VERSION>4.8.0.1500</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F662A8E6-F4DC-41A2-901E-8C11F044BDEC}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/973688</HELPLINK>
+      <INSTALLDATE>02/09/2015</INSTALLDATE>
+      <NAME>MSXML 4.0 SP2 (KB973688)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{F662A8E6-F4DC-41A2-901E-8C11F044BDEC}</UNINSTALL_STRING>
+      <VERSION>4.20.9876.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>03/02/2017</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.0.9600.18524</VERSION>
+    </SOFTWARES>
+    <STORAGES>
+      <DESCRIPTION>Unidade de disco</DESCRIPTION>
+      <DISKSIZE>160041</DISKSIZE>
+      <FIRMWARE>08.02D08</FIRMWARE>
+      <INTERFACE>IDE</INTERFACE>
+      <MANUFACTURER>(Unidades de disco padrão)</MANUFACTURER>
+      <MODEL>WDC WD1600JD-22HBB0</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>2</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>WD-WCAL92103022</SERIAL>
+      <SERIALNUMBER>WD-WCAL92103022</SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>USB Composite Device</CAPTION>
+      <MANUFACTURER>China Resource Semico Co., Ltd</MANUFACTURER>
+      <NAME>USB Composite Device</NAME>
+      <PRODUCTID>0023</PRODUCTID>
+      <VENDORID>1A2C</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>Dispositivo de Entrada USB</CAPTION>
+      <MANUFACTURER>SiGma Micro</MANUFACTURER>
+      <NAME>Dispositivo de Entrada USB</NAME>
+      <PRODUCTID>0034</PRODUCTID>
+      <VENDORID>1C4F</VENDORID>
+    </USBDEVICES>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.18</VERSIONCLIENT>
+    <VIDEOS>
+      <NAME>Standard VGA Graphics Adapter</NAME>
+    </VIDEOS>
+  </CONTENT>
+  <DEVICEID>f-sini-pc-001.hmd.local-2017-01-18-17-06-17</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>

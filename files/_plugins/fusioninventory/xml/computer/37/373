@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2017-12-11 02:51:21</LOGDATE>
+    </ACCESSLOG>
+    <ANTIVIRUS>
+      <DATFILECREATION>29/11/2016</DATFILECREATION>
+      <DATFILEVERSION>8364.0000</DATFILEVERSION>
+      <ENABLED>1</ENABLED>
+      <ENGINEVERSION32>5800.7501</ENGINEVERSION32>
+      <ENGINEVERSION64>5800.7501</ENGINEVERSION64>
+      <GUID>{DA9F8ED0-D0DE-39CC-F55A-51AB4CC1B556}</GUID>
+      <NAME>McAfee VirusScan Enterprise</NAME>
+      <UPTODATE>1</UPTODATE>
+    </ANTIVIRUS>
+    <BIOS>
+      <ASSETTAG/>  <BDATE>07/22/2009</BDATE>
+      <BMANUFACTURER>Award Software International, Inc.</BMANUFACTURER>
+      <BVERSION>F4</BVERSION>
+      <MMANUFACTURER>Gigabyte Technology Co., Ltd.</MMANUFACTURER>
+      <MMODEL>G41M-ES2L</MMODEL>
+      <MSN/>  <SKUNUMBER/>  <SMANUFACTURER>Gigabyte Technology Co., Ltd.</SMANUFACTURER>
+      <SMODEL>G41M-ES2L</SMODEL>
+      <SSN/></BIOS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family SATA Controller [IDE mode]</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>NM10/ICH7 Family SATA Controller [IDE mode]</NAME>
+      <PCISUBSYSTEMID>1458:b002</PCISUBSYSTEMID>
+      <PRODUCTID>27c0</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family Serial ATA Storage Controller - 27C0</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family USB UHCI Controller #4</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>GA-D525TUD</NAME>
+      <PCISUBSYSTEMID>1458:5004</PCISUBSYSTEMID>
+      <PRODUCTID>27cb</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family USB Universal Host Controller - 27CB</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family USB2 EHCI Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>GA-D525TUD</NAME>
+      <PCISUBSYSTEMID>1458:5006</PCISUBSYSTEMID>
+      <PRODUCTID>27cc</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family USB2 Enhanced Host Controller - 27CC</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family USB UHCI Controller #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>GA-D525TUD</NAME>
+      <PCISUBSYSTEMID>1458:5004</PCISUBSYSTEMID>
+      <PRODUCTID>27c8</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family USB Universal Host Controller - 27C8</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family USB UHCI Controller #2</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>GA-D525TUD</NAME>
+      <PCISUBSYSTEMID>1458:5004</PCISUBSYSTEMID>
+      <PRODUCTID>27c9</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family USB Universal Host Controller - 27C9</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family USB UHCI Controller #3</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>GA-D525TUD</NAME>
+      <PCISUBSYSTEMID>1458:5004</PCISUBSYSTEMID>
+      <PRODUCTID>27ca</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family USB Universal Host Controller - 27CA</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>RTL8169 PCI Gigabit Ethernet Controller</CAPTION>
+      <MANUFACTURER>Realtek Semiconductor Co., Ltd.</MANUFACTURER>
+      <NAME>RTL8169/8110 Family PCI Gigabit Ethernet NIC</NAME>
+      <PCISUBSYSTEMID>10ec:8169</PCISUBSYSTEMID>
+      <PRODUCTID>8169</PRODUCTID>
+      <TYPE>Realtek PCI GBE Family Controller</TYPE>
+      <VENDORID>10ec</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801 PCI Bridge</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Motherboard</NAME>
+      <PCISUBSYSTEMID>1458:5000</PCISUBSYSTEMID>
+      <PRODUCTID>244e</PRODUCTID>
+      <TYPE>Intel(R) 82801 PCI Bridge - 244E</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family PCI Express Port 1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>GA-D525TUD</NAME>
+      <PCISUBSYSTEMID>1458:5001</PCISUBSYSTEMID>
+      <PRODUCTID>27d0</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family PCI Express Root Port - 27D0</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801GB/GR (ICH7 Family) LPC Interface Bridge</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801GB/GR (ICH7 Family) LPC Interface Bridge</NAME>
+      <PCISUBSYSTEMID>1458:5001</PCISUBSYSTEMID>
+      <PRODUCTID>27b8</PRODUCTID>
+      <TYPE>Intel(R) ICH7 Family LPC Interface Controller - 27B8</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family PCI Express Port 2</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>NM10/ICH7 Family PCI Express Port 2</NAME>
+      <PCISUBSYSTEMID>1458:5001</PCISUBSYSTEMID>
+      <PRODUCTID>27d2</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family PCI Express Root Port - 27D2</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family High Definition Audio Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>GA-D525TUD (Realtek ALC887)</NAME>
+      <PCISUBSYSTEMID>1458:a002</PCISUBSYSTEMID>
+      <PRODUCTID>27d8</PRODUCTID>
+      <TYPE>Controlador de High Definition Audio</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family SMBus Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>GA-8I945PG-RH/GA-D525TUD Mainboard</NAME>
+      <PCISUBSYSTEMID>1458:5001</PCISUBSYSTEMID>
+      <PRODUCTID>27da</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family SMBus Controller - 27DA</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>4 Series Chipset DRAM Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>4 Series Chipset DRAM Controller</NAME>
+      <PCISUBSYSTEMID>1458:5000</PCISUBSYSTEMID>
+      <PRODUCTID>2e30</PRODUCTID>
+      <TYPE>Intel(R) 4 Series Chipset Processor to I/O Controller - 2E30</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>4 Series Chipset Integrated Graphics Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>4 Series Chipset Integrated Graphics Controller</NAME>
+      <PCISUBSYSTEMID>1458:d000</PCISUBSYSTEMID>
+      <PRODUCTID>2e32</PRODUCTID>
+      <TYPE>Intel(R) G41 Express Chipset</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller</CAPTION>
+      <MANUFACTURER>Realtek Semiconductor Co., Ltd.</MANUFACTURER>
+      <NAME>Motherboard</NAME>
+      <PCISUBSYSTEMID>1458:e000</PCISUBSYSTEMID>
+      <PRODUCTID>8168</PRODUCTID>
+      <TYPE>Realtek PCIe GBE Family Controller</TYPE>
+      <VENDORID>10ec</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>2</CORE>
+      <DESCRIPTION>Intel64 Family 6 Model 23 Stepping 10</DESCRIPTION>
+      <FAMILYNUMBER>6</FAMILYNUMBER>
+      <ID>7A 06 01 00 FF FB EB BF</ID>
+      <MANUFACTURER>Intel</MANUFACTURER>
+      <MODEL>23</MODEL>
+      <NAME>Intel(R) Core(TM)2 Duo CPU E7500 @ 2.93GHz</NAME>
+      <SPEED>2930</SPEED>
+      <STEPPING>10</STEPPING>
+      <THREAD>1</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>3 1/2 Inch Floppy Drive</DESCRIPTION>
+      <LETTER>A:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Removable Disk</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Local Fixed Disk</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>10581</FREE>
+      <LABEL>OSDisk</LABEL>
+      <LETTER>C:</LETTER>
+      <SERIAL>E4286A99</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>59999</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>OSDisk</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>454</FREE>
+      <LABEL>System</LABEL>
+      <LETTER>System</LETTER>
+      <SERIAL>E2273C45</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>498</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>System</VOLUMN>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>FP_NO_HOST_CHECK</KEY>
+      <VAL>NO</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>AMD64</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>2</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>6</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>Intel64 Family 6 Model 23 Stepping 10, GenuineIntel</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>170a</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_logfile</KEY>
+      <VAL>C:\BVTBin\Tests\installpackage\csilogfile.log</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_flags</KEY>
+      <VAL>3</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>DEFLOGDIR</KEY>
+      <VAL>C:\ProgramData\McAfee\DesktopProtection</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>VSEDEFLOGDIR</KEY>
+      <VAL>C:\ProgramData\McAfee\DesktopProtection</VAL>
+    </ENVS>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x64-multi-thread</ARCHNAME>
+      <CHASSIS_TYPE>Desktop</CHASSIS_TYPE>
+      <CHECKSUM>66049</CHECKSUM>
+      <DEFAULTGATEWAY>10.100.1.1</DEFAULTGATEWAY>
+      <DESCRIPTION>CT01-003060</DESCRIPTION>
+      <DNS>10.100.1.10</DNS>
+      <ETIME>144</ETIME>
+      <IPADDR>10.100.200.218/192.168.100.126</IPADDR>
+      <LASTLOGGEDUSER>lucas.freire</LASTLOGGEDUSER>
+      <MEMORY>1692</MEMORY>
+      <NAME>F-RADI-PC-003</NAME>
+      <OSCOMMENTS>Service Pack 1</OSCOMMENTS>
+      <OSNAME>Microsoft Windows 7 Professional </OSNAME>
+      <OSVERSION>6.1.7601</OSVERSION>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>2930</PROCESSORS>
+      <PROCESSORT>Intel(R) Core(TM)2 Duo CPU E7500 @ 2.93GHz</PROCESSORT>
+      <USERID>lucas.freire</USERID>
+      <UUID>00000000-0000-0000-0000-6CF049F11808</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINCOMPANY>SSMD</WINCOMPANY>
+      <WINLANG>1046</WINLANG>
+      <WINOWNER>SSMD</WINOWNER>
+      <WINPRODID>00371-868-0000007-85665</WINPRODID>
+      <WINPRODKEY>FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4</WINPRODKEY>
+      <WORKGROUP>hmd.local</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Enhanced (101- or 102-key)</CAPTION>
+      <DESCRIPTION>Dispositivo de Entrada USB</DESCRIPTION>
+      <LAYOUT>00000416</LAYOUT>
+      <NAME>Enhanced (101- or 102-key)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>Dispositivo de Entrada USB</CAPTION>
+      <DESCRIPTION>Dispositivo de Entrada USB</DESCRIPTION>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Dispositivos padrão do sistema)</MANUFACTURER>
+      <NAME>Dispositivo de Entrada USB</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administradores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Convidados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Distributed COM - Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicadores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Leitores de log de eventos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Operadores criptográficos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Operadores de configuração de rede</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Operadores de cópia</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Usuários avançados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Usuários da área de trabalho remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Usuários de log de desempenho</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Usuários de monitor de desempenho</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1020</ID>
+      <NAME>Oferecer Auxiliares para Assistência Remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1024</ID>
+      <NAME>analaura</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1019</ID>
+      <NAME>andred</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1005</ID>
+      <NAME>athoso</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1021</ID>
+      <NAME>brunoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1016</ID>
+      <NAME>carlose</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1025</ID>
+      <NAME>douglasb</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1014</ID>
+      <NAME>eduardof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1010</ID>
+      <NAME>ezequiela</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1017</ID>
+      <NAME>geziels</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1027</ID>
+      <NAME>leonardoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1004</ID>
+      <NAME>marcof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1006</ID>
+      <NAME>rodrigom</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-4051983191-3869320018-2708304850-1026</ID>
+      <NAME>victorg</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPACITY>2048</CAPACITY>
+      <CAPTION>A0</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <SPEED>800 MHz</SPEED>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>A1</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>A2</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>3</NUMSLOTS>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>A3</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>4</NUMSLOTS>
+    </MEMORIES>
+    <MONITORS>
+      <BASE64>AP///////wAF42WlKmUAACwQAQNoHheCKo89pFhNkCQVT1G/7gABAQEBAQEBAQEBAQEBAQEBZBkAQEEAJjAYiDYAMOQQAAAYAAAA/wA0MDA2QUhBMTI1ODk4AAAA/QA3Sx4/CAAKICAgICAgAAAA/ABMTTU2MAogICAgICAgAL8=</BASE64>
+      <CAPTION>LM560</CAPTION>
+      <DESCRIPTION>44/2006</DESCRIPTION>
+      <MANUFACTURER>AOC International (USA) Ltd.</MANUFACTURER>
+      <SERIAL>4006AHA125898</SERIAL>
+    </MONITORS>
+    <MONITORS>
+      <BASE64>AP///////wAF42WlKmUAACwQAQNoHheCKo89pFhNkCQVT1G/7gABAQEBAQEBAQEBAQEBAQEBZBkAQEEAJjAYiDYAMOQQAAAYAAAA/wA0MDA2QUhBMTI1ODk4AAAA/QA3Sx4/CAAKICAgICAgAAAA/ABMTTU2MAogICAgICAgAL8=</BASE64>
+      <CAPTION>LM560</CAPTION>
+      <DESCRIPTION>44/2006</DESCRIPTION>
+      <MANUFACTURER>AOC International (USA) Ltd.</MANUFACTURER>
+      <NAME>Monitor Genérico PnP</NAME>
+      <SERIAL>4006AHA125898</SERIAL>
+      <TYPE>Monitor Genérico PnP</TYPE>
+    </MONITORS>
+    <NETWORKS>
+      <DESCRIPTION>Realtek PCIe GBE Family Controller</DESCRIPTION>
+      <IPADDRESS>10.100.200.218</IPADDRESS>
+      <IPDHCP>10.100.1.10</IPDHCP>
+      <IPGATEWAY>10.100.1.1</IPGATEWAY>
+      <IPMASK>255.255.0.0</IPMASK>
+      <IPSUBNET>10.100.0.0</IPSUBNET>
+      <MACADDR>6C:F0:49:F1:18:08</MACADDR>
+      <PCIID>10EC:8168:E000:1458</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8168&amp;SUBSYS_E0001458&amp;REV_02\4&amp;15E70C52&amp;0&amp;00E1</PNPDEVICEID>
+      <SPEED>1000</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Realtek PCIe GBE Family Controller</DESCRIPTION>
+      <IPADDRESS6>fe80::84f4:ad16:cd20:c599</IPADDRESS6>
+      <IPMASK6>ffff:ffff:ffff:ffff::</IPMASK6>
+      <IPSUBNET6>fe80::</IPSUBNET6>
+      <MACADDR>6C:F0:49:F1:18:08</MACADDR>
+      <PCIID>10EC:8168:E000:1458</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8168&amp;SUBSYS_E0001458&amp;REV_02\4&amp;15E70C52&amp;0&amp;00E1</PNPDEVICEID>
+      <SPEED>1000</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>RAS Async Adapter</DESCRIPTION>
+      <MACADDR>20:41:53:59:4E:FF</MACADDR>
+      <PNPDEVICEID>SW\{EEAB7790-C514-11D1-B42B-00805FC1270E}\ASYNCMAC</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Realtek PCI GBE Family Controller</DESCRIPTION>
+      <IPADDRESS>192.168.100.126</IPADDRESS>
+      <IPMASK>255.255.255.0</IPMASK>
+      <IPSUBNET>192.168.100.0</IPSUBNET>
+      <MACADDR>00:1A:3F:B0:82:00</MACADDR>
+      <PCIID>10EC:8169:8169:10EC</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8169&amp;SUBSYS_816910EC&amp;REV_10\4&amp;A314B16&amp;0&amp;00F0</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Realtek PCI GBE Family Controller</DESCRIPTION>
+      <IPADDRESS6>fe80::e93e:2298:3807:6e24</IPADDRESS6>
+      <IPMASK6>ffff:ffff:ffff:ffff::</IPMASK6>
+      <IPSUBNET6>fe80::</IPSUBNET6>
+      <MACADDR>00:1A:3F:B0:82:00</MACADDR>
+      <PCIID>10EC:8169:8169:10EC</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8169&amp;SUBSYS_816910EC&amp;REV_10\4&amp;A314B16&amp;0&amp;00F0</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>64-bit</ARCH>
+      <BOOT_TIME>2017-12-10 13:24:01</BOOT_TIME>
+      <DNS_DOMAIN>hmd.local</DNS_DOMAIN>
+      <FQDN>F-RADI-PC-003.hmd.local</FQDN>
+      <FULL_NAME>Microsoft Windows 7 Professional </FULL_NAME>
+      <INSTALL_DATE>2014-09-16 17:36:34</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>6.1.7601</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK>Service Pack 1</SERVICE_PACK>
+    </OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board IDE</DESCRIPTION>
+      <NAME>PRIMARY IDE</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board IDE</DESCRIPTION>
+      <NAME>SECONDARY IDE</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board Floppy</DESCRIPTION>
+      <NAME>FDD</NAME>
+      <TYPE>8251 FIFO Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-9 male</CAPTION>
+      <DESCRIPTION>9 Pin Dual Inline (pin 10 cut)</DESCRIPTION>
+      <NAME>COM1</NAME>
+      <TYPE>Serial Port 16450 Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-9 male</CAPTION>
+      <DESCRIPTION>9 Pin Dual Inline (pin 10 cut)</DESCRIPTION>
+      <NAME>COM2</NAME>
+      <TYPE>Serial Port 16450 Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-25 female</CAPTION>
+      <DESCRIPTION>DB-25 female</DESCRIPTION>
+      <NAME>LPT1</NAME>
+      <TYPE>Parallel Port ECP/EPP</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>Keyboard</NAME>
+      <TYPE>Keyboard Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>PS/2</DESCRIPTION>
+      <NAME>PS/2 Mouse</NAME>
+      <TYPE>Mouse Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Porta de comunicação (COM1)</CAPTION>
+      <DESCRIPTION>Porta de comunicação</DESCRIPTION>
+      <NAME>Porta de comunicação (COM1)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Porta de comunicação (COM2)</CAPTION>
+      <DESCRIPTION>Porta de comunicação</DESCRIPTION>
+      <NAME>Porta de comunicação (COM2)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>LPT1</CAPTION>
+      <DESCRIPTION>LPT1</DESCRIPTION>
+      <NAME>LPT1</NAME>
+      <TYPE>Parallel</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PRIMARY IDE</CAPTION>
+      <DESCRIPTION>PRIMARY IDE</DESCRIPTION>
+      <NAME>PRIMARY IDE</NAME>
+      <TYPE>ATA 3-1/2 Inch (40 pins)</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SECONDARY IDE</CAPTION>
+      <DESCRIPTION>SECONDARY IDE</DESCRIPTION>
+      <NAME>SECONDARY IDE</NAME>
+      <TYPE>ATA 3-1/2 Inch (40 pins)</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>FDD</CAPTION>
+      <DESCRIPTION>FDD</DESCRIPTION>
+      <NAME>FDD</NAME>
+      <TYPE>SSA SCSI</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>COM1</CAPTION>
+      <DESCRIPTION>COM1</DESCRIPTION>
+      <NAME>COM1</NAME>
+      <TYPE>DB-9, Male, Circular</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>COM2</CAPTION>
+      <DESCRIPTION>COM2</DESCRIPTION>
+      <NAME>COM2</NAME>
+      <TYPE>DB-9, Male, Circular</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>LPT1</CAPTION>
+      <DESCRIPTION>LPT1</DESCRIPTION>
+      <NAME>LPT1</NAME>
+      <TYPE>DB-25, Female, DB-25</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Keyboard</CAPTION>
+      <DESCRIPTION>Keyboard</DESCRIPTION>
+      <NAME>Keyboard</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2 Mouse</CAPTION>
+      <DESCRIPTION>PS/2 Mouse</DESCRIPTION>
+      <NAME>PS/2 Mouse</NAME>
+      <TYPE>PS/2, PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB</CAPTION>
+      <DESCRIPTION>USB</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB</CAPTION>
+      <DESCRIPTION>USB</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>Xerox Phaser 7500DN PS</DRIVER>
+      <ERRSTATUS>Other</ERRSTATUS>
+      <NAME>Xerox Phaser 7500DN TC A3</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.100.150.80_2</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Other</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Xerox Phaser 7500DN PS</DRIVER>
+      <ERRSTATUS>Other</ERRSTATUS>
+      <NAME>Xerox Phaser 7500DN RM A3</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.100.150.80_3</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Other</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Xerox Phaser 7500DN PS</DRIVER>
+      <NAME>Xerox 7500DN RX A4</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.100.150.25</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Xerox ColorQube 8580DN PS</DRIVER>
+      <NAME>ColorQube 8580DN-36 PS</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>X_10_100_150_70</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <SHARENAME>ColorQube 8580DN-36 PS</SHARENAME>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>0</DESIGNATION>
+      <NAME>PCI</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>PCI</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>PCI</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>PCI</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Flash Player ActiveX</GUID>
+      <HELPLINK>http://www.adobe.com/go/flashplayer_support/</HELPLINK>
+      <INSTALLDATE>16/09/2014</INSTALLDATE>
+      <NAME>Adobe Flash Player 11 ActiveX 64-bit</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>C:\windows\system32\Macromed\Flash\FlashUtil64_11_1_102_ActiveX.exe -maintain activex</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.1.102.62</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>http://forge.fusioninventory.org/projects/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>23/01/2017</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.3.18 (x64 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.18</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{1AD147D0-BE0E-3D6C-AC11-64F6DC4163F1}</GUID>
+      <INSTALLDATE>06/07/2017</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 4.5</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{1AD147D0-BE0E-3D6C-AC11-64F6DC4163F1}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.microsoft.com/fwlink/?LinkId=249109</URL_INFO_ABOUT>
+      <VERSION>4.5.50709</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkID=91955</HELPLINK>
+      <INSTALLDATE>13/10/2016</INSTALLDATE>
+      <NAME>Microsoft Silverlight</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</UNINSTALL_STRING>
+      <VERSION>5.1.50901.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>13/01/2016</INSTALLDATE>
+      <NAME>Internet Explorer (64bit)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>9.0.8112.16421</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Shockwave Player</GUID>
+      <HELPLINK>http://www.adobe.com/support/shockwave</HELPLINK>
+      <INSTALLDATE>16/09/2014</INSTALLDATE>
+      <NAME>Adobe Shockwave Player 11.6</NAME>
+      <PUBLISHER>Adobe Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\windows\system32\Adobe\Shockwave 11\uninstaller.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.6.4.634</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>CitrixOnlinePluginFull</GUID>
+      <INSTALLDATE>20/10/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\ProgramData\Citrix\Citrix online plug-in\TrolleyExpress.exe /uninstall /cleanup</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FBDBServer_1_5_is1</GUID>
+      <HELPLINK>http://www.firebirdsql.org</HELPLINK>
+      <INSTALLDATE>17/09/2014</INSTALLDATE>
+      <NAME>Firebird 1.5.6</NAME>
+      <PUBLISHER>Firebird Project</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Firebird\Firebird_1_5\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.firebirdsql.org</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Google Chrome</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Google Chrome</NAME>
+      <PUBLISHER>Google Inc.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Google\Chrome\Application\62.0.3202.94\Installer\setup.exe" --uninstall --system-level --verbose-logging</UNINSTALL_STRING>
+      <VERSION>62.0.3202.94</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>mDicomViewer</GUID>
+      <INSTALLDATE>17/09/2014</INSTALLDATE>
+      <NAME>mDicomViewer</NAME>
+      <UNINSTALL_STRING>C:\Program Files (x86)\Microdata\mDicomViewer-Lite\Uninstal.exe</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>OCS Inventory NG Agent</GUID>
+      <INSTALLDATE>26/09/2014</INSTALLDATE>
+      <NAME>OCS Inventory NG Agent 2.1.0.1</NAME>
+      <PUBLISHER>OCS Inventory NG Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\OCS Inventory Agent\uninst.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.ocsinventory-ng.org</URL_INFO_ABOUT>
+      <VERSION>2.1.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WinRAR archiver</GUID>
+      <INSTALLDATE>16/09/2014</INSTALLDATE>
+      <NAME>WinRAR 4.11 (32-bit)</NAME>
+      <PUBLISHER>win.rar GmbH</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\WinRAR\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>4.11.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0F1F7A90-E71B-4E45-A066-2891619F22E1}</GUID>
+      <INSTALLDATE>20/10/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in (PNA)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{0F1F7A90-E71B-4E45-A066-2891619F22E1}</UNINSTALL_STRING>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{199C20D6-10D3-4210-B361-4760209F56AE}</GUID>
+      <INSTALLDATE>20/10/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in (Web)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{199C20D6-10D3-4210-B361-4760209F56AE}</UNINSTALL_STRING>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2CF4F553-5E00-42DC-85AB-9A1A29C7D9D2}</GUID>
+      <INSTALLDATE>20/10/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in (SSON)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{2CF4F553-5E00-42DC-85AB-9A1A29C7D9D2}</UNINSTALL_STRING>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3248F0A8-6813-11D6-A77B-00B0D0160070}</GUID>
+      <HELPLINK>http://java.com</HELPLINK>
+      <INSTALLDATE>16/09/2014</INSTALLDATE>
+      <NAME>Java(TM) 6 Update 7</NAME>
+      <PUBLISHER>Sun Microsystems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{3248F0A8-6813-11D6-A77B-00B0D0160070}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://java.com</URL_INFO_ABOUT>
+      <VERSION>1.6.0.70</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{38ADB9A6-798C-11D6-A855-00105A80791C}</GUID>
+      <INSTALLDATE>25/08/2015</INSTALLDATE>
+      <NAME>OKI Network Extension</NAME>
+      <PUBLISHER>Okidata</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\InstallShield Installation Information\{38ADB9A6-798C-11D6-A855-00105A80791C}\setup.exe" -runfromtemp -l0x0416  -removeonly</UNINSTALL_STRING>
+      <VERSION>1.00.000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3ECCB578-504E-4F7A-A8B4-CF4F3B939B44}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>20/10/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in (USB)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{3ECCB578-504E-4F7A-A8B4-CF4F3B939B44}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{5D729200-F340-4A74-A1E9-32387CDC63EF}</GUID>
+      <INSTALLDATE>18/06/2015</INSTALLDATE>
+      <NAME>Utilitário Color Correct OKI</NAME>
+      <PUBLISHER>Okidata</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\InstallShield Installation Information\{5D729200-F340-4A74-A1E9-32387CDC63EF}\setup.exe" -runfromtemp -l0x0416  /Erase -removeonly</UNINSTALL_STRING>
+      <VERSION>2.18.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</GUID>
+      <INSTALLDATE>15/11/2017</INSTALLDATE>
+      <NAME>Google Update Helper</NAME>
+      <PUBLISHER>Google Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</UNINSTALL_STRING>
+      <VERSION>1.3.33.7</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Adobe Shockwave Player Merge Module</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{612C34C7-5E90-47D8-9B5C-0F717DD82726}</GUID>
+      <HELPLINK>http://www.adobe.com/support</HELPLINK>
+      <INSTALLDATE>16/09/2014</INSTALLDATE>
+      <NAME>swMSM</NAME>
+      <PUBLISHER>Adobe Systems, Inc</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{612C34C7-5E90-47D8-9B5C-0F717DD82726}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.0.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{678094A1-6250-476B-9AFF-4376E48F135C}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>20/10/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in (DV)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{678094A1-6250-476B-9AFF-4376E48F135C}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8F93941C-2ECF-40C6-A0AC-D0BE40E7911E}</GUID>
+      <INSTALLDATE>18/06/2015</INSTALLDATE>
+      <NAME>OKI PS Gamma Adjuster</NAME>
+      <PUBLISHER>Okidata</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\InstallShield Installation Information\{8F93941C-2ECF-40C6-A0AC-D0BE40E7911E}\setup.exe" -runfromtemp -l0x0416  -Removeall -removeonly</UNINSTALL_STRING>
+      <VERSION>1.2.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2737083.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2737083</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2737083</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2737083)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {00909A54-CC11-3F00-9279-3CE090432A91}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2742613.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2742613</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2742613</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2742613)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {36E5C79E-06D3-32C3-9251-D284B9F3F7E7}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2840642.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2840642v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2840642</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2840642v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {4F658047-A12E-38D9-8EA9-D941E4A84B7D}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2861208.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2861208</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2861208</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2861208)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {6AF12FE8-C359-3748-BDF6-B437C0A42154}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2894854v2.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2894854v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2894854v2</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2894854v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {F7CBA1C7-E5B5-39E9-9631-459E1FE08C45}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2898864.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2898864</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2898864</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2898864)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {FD9140E9-6192-38CC-BCF6-4869B2AEBBCD}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2901118.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2901118</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2901118</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2901118)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {D052AECC-7A45-3B76-B62C-F5093799DF8D}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A2884AF3-F105-4CB0-8DC9-F71AC1D196A2}_is1</GUID>
+      <HELPLINK>http://www.optixpacs.com.br/</HELPLINK>
+      <INSTALLDATE>26/07/2017</INSTALLDATE>
+      <NAME>Optix Agent versão 1.0</NAME>
+      <PUBLISHER>Optix Imagens Médicas</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Optix\Optix Agent\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.optixpacs.com.br/</URL_INFO_ABOUT>
+      <VERSION>1.0</VERSION>
+      <VERSION_MAJOR>1</VERSION_MAJOR>
+      <VERSION_MINOR>0</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>   </COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-7AD7-1033-7B44-AA1000000001}</GUID>
+      <HELPLINK>http://www.adobe.com/support/main.html</HELPLINK>
+      <INSTALLDATE>16/09/2014</INSTALLDATE>
+      <NAME>Adobe Reader X (10.1.2)</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-7AD7-1033-7B44-AA1000000001}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>10.1.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CE15D1B6-19B6-4D4D-8F43-CF5D2C3356FF}</GUID>
+      <HELPLINK>https://mysupport.mcafee.com</HELPLINK>
+      <INSTALLDATE>27/05/2016</INSTALLDATE>
+      <NAME>McAfee VirusScan Enterprise</NAME>
+      <PUBLISHER>McAfee, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{CE15D1B6-19B6-4D4D-8F43-CF5D2C3356FF}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.mcafee.com/</URL_INFO_ABOUT>
+      <VERSION>8.8.07000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{EBF3D65F-011E-44D2-8F4F-C74B52682EDD}</GUID>
+      <HELPLINK>https://mysupport.mcafee.com</HELPLINK>
+      <INSTALLDATE>16/09/2014</INSTALLDATE>
+      <NAME>McAfee Agent</NAME>
+      <PUBLISHER>McAfee, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{EBF3D65F-011E-44D2-8F4F-C74B52682EDD}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Mcafee.com</URL_INFO_ABOUT>
+      <VERSION>4.8.0.1500</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F0E3AD40-2BBD-4360-9C76-B9AC9A5886EA}</GUID>
+      <INSTALLDATE>16/09/2014</INSTALLDATE>
+      <NAME>Intel(R) Graphics Media Accelerator Driver</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\Intel\Intel(R) Graphics Media Accelerator Driver\Uninstall\setup.exe -uninstall</UNINSTALL_STRING>
+      <VERSION>8.15.10.2104</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}</GUID>
+      <INSTALLDATE>16/09/2014</INSTALLDATE>
+      <NAME>Realtek High Definition Audio Driver</NAME>
+      <PUBLISHER>Realtek Semiconductor Corp.</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\Realtek\Audio\HDA\RtlUpd64.exe -r -m -nrg2709</UNINSTALL_STRING>
+      <VERSION>6.0.1.6662</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{FA365307-1963-4D16-BD44-113C8F037AAD}</GUID>
+      <INSTALLDATE>20/10/2015</INSTALLDATE>
+      <NAME>Citrix online plug-in (HDX)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{FA365307-1963-4D16-BD44-113C8F037AAD}</UNINSTALL_STRING>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>13/01/2016</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>9.0.8112.16421</VERSION>
+    </SOFTWARES>
+    <SOUNDS>
+      <CAPTION>Realtek High Definition Audio</CAPTION>
+      <DESCRIPTION>Realtek High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>Realtek</MANUFACTURER>
+      <NAME>Realtek High Definition Audio</NAME>
+    </SOUNDS>
+    <STORAGES>
+      <DESCRIPTION>Unidade de disco</DESCRIPTION>
+      <DISKSIZE>500106</DISKSIZE>
+      <FIRMWARE>1AG01118</FIRMWARE>
+      <INTERFACE>IDE</INTERFACE>
+      <MANUFACTURER>(Unidades de disco padrão)</MANUFACTURER>
+      <MODEL>SAMSUNG HD502HI</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>1</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>S1ZVJ50Z437257</SERIAL>
+      <SERIALNUMBER>S1ZVJ50Z437257</SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <STORAGES>
+      <DESCRIPTION>CD-ROM Drive</DESCRIPTION>
+      <MANUFACTURER>(Unidades de CD-ROM padrão)</MANUFACTURER>
+      <MODEL>TSSTcorp CDDVDW SH-S223C ATA Device</MODEL>
+      <NAME>TSSTcorp CDDVDW SH-S223C ATA Device</NAME>
+      <SERIALNUMBER/>  <TYPE>UNKNOWN</TYPE>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>USB Composite Device</CAPTION>
+      <MANUFACTURER>KYE Systems Corp. (Mouse Systems)</MANUFACTURER>
+      <NAME>USB Composite Device</NAME>
+      <PRODUCTID>0186</PRODUCTID>
+      <VENDORID>0458</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>USB Composite Device</CAPTION>
+      <MANUFACTURER>Lenovo</MANUFACTURER>
+      <NAME>USB Composite Device</NAME>
+      <PRODUCTID>6018</PRODUCTID>
+      <VENDORID>17EF</VENDORID>
+    </USBDEVICES>
+    <USERS>
+      <DOMAIN>HMD</DOMAIN>
+      <LOGIN>lucas.freire</LOGIN>
+    </USERS>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.18</VERSIONCLIENT>
+    <VIDEOS>
+      <CHIPSET>Intel(R) 4 Series Express Chipset Family</CHIPSET>
+      <NAME>Intel(R) G41 Express Chipset</NAME>
+      <RESOLUTION>1024x768</RESOLUTION>
+    </VIDEOS>
+  </CONTENT>
+  <DEVICEID>F-RADI-PC-003.hmd.local-2017-01-23-06-49-50</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>

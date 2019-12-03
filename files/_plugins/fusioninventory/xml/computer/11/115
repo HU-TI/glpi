@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2017-12-11 07:59:25</LOGDATE>
+    </ACCESSLOG>
+    <ANTIVIRUS>
+      <ENABLED>1</ENABLED>
+      <GUID>{1E5CB925-ABFC-68A9-91DC-4258BDE6C44A}</GUID>
+      <NAME>Trend Micro OfficeScan Antivirus</NAME>
+      <UPTODATE>1</UPTODATE>
+    </ANTIVIRUS>
+    <BIOS>
+      <ASSETTAG>To Be Filled By O.E.M.</ASSETTAG>
+      <BDATE>06/08/2011</BDATE>
+      <BMANUFACTURER>American Megatrends Inc.</BMANUFACTURER>
+      <BVERSION>4.6.4</BVERSION>
+      <MMANUFACTURER>AMD Corporation</MMANUFACTURER>
+      <MMODEL>Inagua CRB</MMODEL>
+      <MSN>To be filled by O.E.M.</MSN>
+      <SKUNUMBER>To be filled by O.E.M.</SKUNUMBER>
+      <SMANUFACTURER>To be filled by O.E.M.</SMANUFACTURER>
+      <SMODEL>CA201MA</SMODEL>
+      <SSN>M2026IB000030</SSN>
+    </BIOS>
+    <CONTROLLERS>
+      <CAPTION>SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]</NAME>
+      <PCISUBSYSTEMID>1b72:a201</PCISUBSYSTEMID>
+      <PRODUCTID>4390</PRODUCTID>
+      <TYPE>AMD SATA Controller (IDE Mode)</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>SB7x0/SB8x0/SB9x0 USB EHCI Controller</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>SB7x0/SB8x0/SB9x0 USB EHCI Controller</NAME>
+      <PCISUBSYSTEMID>1b72:a201</PCISUBSYSTEMID>
+      <PRODUCTID>4396</PRODUCTID>
+      <TYPE>Standard Enhanced PCI to USB Host Controller</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>SB7x0/SB8x0/SB9x0 USB OHCI0 Controller</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>SB7x0/SB8x0/SB9x0 USB OHCI0 Controller</NAME>
+      <PCISUBSYSTEMID>1b72:a201</PCISUBSYSTEMID>
+      <PRODUCTID>4397</PRODUCTID>
+      <TYPE>Standard OpenHCD USB Host Controller</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>SB7x0/SB8x0/SB9x0 USB OHCI2 Controller</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>SB7x0/SB8x0/SB9x0 USB OHCI2 Controller</NAME>
+      <PCISUBSYSTEMID>1b72:a201</PCISUBSYSTEMID>
+      <PRODUCTID>4399</PRODUCTID>
+      <TYPE>Standard OpenHCD USB Host Controller</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Wrestler [Radeon HD 6310]</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>Wrestler [Radeon HD 6310]</NAME>
+      <PCISUBSYSTEMID>1b72:a201</PCISUBSYSTEMID>
+      <PRODUCTID>9802</PRODUCTID>
+      <TYPE>Video Controller (VGA Compatible)</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 12h/14h Processor Function 5</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 12h/14h Processor Function 5</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1716</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 14h Processor Root Complex</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 14h Processor Root Complex</NAME>
+      <PCISUBSYSTEMID>1022:1510</PCISUBSYSTEMID>
+      <PRODUCTID>1510</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 12h/14h Processor Function 6</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 12h/14h Processor Function 6</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1718</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>SBx00 Azalia (Intel HDA)</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>SBx00 Azalia (Intel HDA)</NAME>
+      <PCISUBSYSTEMID>1b72:a201</PCISUBSYSTEMID>
+      <PRODUCTID>4383</PRODUCTID>
+      <TYPE>Controlador de High Definition Audio</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 14h Processor Root Port</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 14h Processor Root Port</NAME>
+      <PCISUBSYSTEMID>1022:1234</PCISUBSYSTEMID>
+      <PRODUCTID>1512</PRODUCTID>
+      <TYPE>PCI standard PCI-to-PCI bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 12h/14h Processor Function 7</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 12h/14h Processor Function 7</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1719</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>SBx00 PCI to PCI Bridge</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>SBx00 PCI to PCI Bridge</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>4384</PRODUCTID>
+      <TYPE>ATI I/O Communications Processor PCI Bus Controller</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 12h/14h Processor Function 0</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 12h/14h Processor Function 0</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1700</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller</CAPTION>
+      <MANUFACTURER>Realtek Semiconductor Co., Ltd.</MANUFACTURER>
+      <NAME>RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller</NAME>
+      <PCISUBSYSTEMID>1b72:a201</PCISUBSYSTEMID>
+      <PRODUCTID>8168</PRODUCTID>
+      <TYPE>Realtek PCIe GBE Family Controller</TYPE>
+      <VENDORID>10ec</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>SBx00 SMBus Controller</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>SBx00 SMBus Controller</NAME>
+      <PCISUBSYSTEMID>1b72:a201</PCISUBSYSTEMID>
+      <PRODUCTID>4385</PRODUCTID>
+      <TYPE>AMD SMBus</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 12h/14h Processor Function 1</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 12h/14h Processor Function 1</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1701</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>RTL8188CE 802.11b/g/n WiFi Adapter</CAPTION>
+      <MANUFACTURER>Realtek Semiconductor Co., Ltd.</MANUFACTURER>
+      <NAME>AW-NE139H Half-size Mini PCIe Card</NAME>
+      <PCISUBSYSTEMID>1a3b:1139</PCISUBSYSTEMID>
+      <PRODUCTID>8176</PRODUCTID>
+      <TYPE>Realtek RTL8188CE Wireless LAN 802.11n PCI-E NIC</TYPE>
+      <VENDORID>10ec</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>SB7x0/SB8x0/SB9x0 LPC host controller</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>SB7x0/SB8x0/SB9x0 LPC host controller</NAME>
+      <PCISUBSYSTEMID>1b72:a201</PCISUBSYSTEMID>
+      <PRODUCTID>439d</PRODUCTID>
+      <TYPE>PCI standard ISA bridge</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 12h/14h Processor Function 2</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 12h/14h Processor Function 2</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1702</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>SB700/SB800/SB900 PCI to PCI bridge (PCIE port 0)</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>SB700/SB800/SB900 PCI to PCI bridge (PCIE port 0)</NAME>
+      <PCISUBSYSTEMID>1002:0000</PCISUBSYSTEMID>
+      <PRODUCTID>43a0</PRODUCTID>
+      <TYPE>PCI standard PCI-to-PCI bridge</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 12h/14h Processor Function 3</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 12h/14h Processor Function 3</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1703</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>SB700/SB800/SB900 PCI to PCI bridge (PCIE port 1)</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>SB700/SB800/SB900 PCI to PCI bridge (PCIE port 1)</NAME>
+      <PCISUBSYSTEMID>1002:0000</PCISUBSYSTEMID>
+      <PRODUCTID>43a1</PRODUCTID>
+      <TYPE>PCI standard PCI-to-PCI bridge</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Family 12h/14h Processor Function 4</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD]</MANUFACTURER>
+      <NAME>Family 12h/14h Processor Function 4</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>1704</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>1022</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>2</CORE>
+      <DESCRIPTION>AMD64 Family 20 Model 1 Stepping 0</DESCRIPTION>
+      <FAMILYNUMBER>20</FAMILYNUMBER>
+      <ID>10 0F 50 00 FF FB 8B 17</ID>
+      <MANUFACTURER>AMD</MANUFACTURER>
+      <MODEL>1</MODEL>
+      <NAME>AMD E-350 Processor</NAME>
+      <SERIAL>ToBeFilledByO.E.M.</SERIAL>
+      <SPEED>1600</SPEED>
+      <STEPPING>0</STEPPING>
+      <THREAD>1</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Local Fixed Disk</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>25526</FREE>
+      <LABEL>OSDisk</LABEL>
+      <LETTER>C:</LETTER>
+      <SERIAL>D2CCA531</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>59999</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>OSDisk</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>CD-ROM Disc</DESCRIPTION>
+      <LETTER>D:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Compact Disc</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Removable Disk</DESCRIPTION>
+      <LETTER>E:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Removable Disk</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>455</FREE>
+      <LABEL>System</LABEL>
+      <LETTER>System</LETTER>
+      <SERIAL>08CA6EA0</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>499</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>System</VOLUMN>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>FP_NO_HOST_CHECK</KEY>
+      <VAL>NO</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>AMD64</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>2</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>20</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>AMD64 Family 20 Model 1 Stepping 0, AuthenticAMD</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>0100</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_logfile</KEY>
+      <VAL>C:\BVTBin\Tests\installpackage\csilogfile.log</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_flags</KEY>
+      <VAL>3</VAL>
+    </ENVS>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x64-multi-thread</ARCHNAME>
+      <CHASSIS_TYPE>Desktop</CHASSIS_TYPE>
+      <CHECKSUM>8705</CHECKSUM>
+      <DEFAULTGATEWAY>10.21.4.70</DEFAULTGATEWAY>
+      <DNS>10.21.1.10</DNS>
+      <ETIME>156</ETIME>
+      <IPADDR>10.21.100.108</IPADDR>
+      <LASTLOGGEDUSER>uparb.recep02</LASTLOGGEDUSER>
+      <MEMORY>3693</MEMORY>
+      <NAME>K-RECE-PC-001</NAME>
+      <OSCOMMENTS>Service Pack 1</OSCOMMENTS>
+      <OSNAME>Microsoft Windows 7 Professional </OSNAME>
+      <OSVERSION>6.1.7601</OSVERSION>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>1600</PROCESSORS>
+      <PROCESSORT>AMD E-350 Processor</PROCESSORT>
+      <USERID>uparb.recep02</USERID>
+      <UUID>03000200-0400-0500-0006-000700080009</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINCOMPANY>HMD</WINCOMPANY>
+      <WINLANG>1046</WINLANG>
+      <WINOWNER>HMD</WINOWNER>
+      <WINPRODID>55041-011-1797713-86817</WINPRODID>
+      <WORKGROUP>hmd.local</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Enhanced (101- or 102-key)</CAPTION>
+      <DESCRIPTION>Dispositivo de Entrada USB</DESCRIPTION>
+      <LAYOUT>00000416</LAYOUT>
+      <NAME>Enhanced (101- or 102-key)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>Dispositivo de Entrada USB</CAPTION>
+      <DESCRIPTION>Dispositivo de Entrada USB</DESCRIPTION>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Dispositivos padrão do sistema)</MANUFACTURER>
+      <NAME>Dispositivo de Entrada USB</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administradores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Convidados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Distributed COM - Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicadores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Leitores de log de eventos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Operadores criptográficos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Operadores de configuração de rede</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Operadores de cópia</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Usuários avançados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Usuários da área de trabalho remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Usuários de log de desempenho</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Usuários de monitor de desempenho</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1001</ID>
+      <NAME>Oferecer Auxiliares para Assistência Remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1009</ID>
+      <NAME>athoso</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1194</ID>
+      <NAME>brunoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1025</ID>
+      <NAME>carlose</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1195</ID>
+      <NAME>douglasb</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1023</ID>
+      <NAME>eduardof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1018</ID>
+      <NAME>ezequiela</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1026</ID>
+      <NAME>geziels</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1024</ID>
+      <NAME>leonardoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1008</ID>
+      <NAME>marcof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1193</ID>
+      <NAME>maxk</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1000</ID>
+      <NAME>TempAccount</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2410925850-3143482900-2023160685-1196</ID>
+      <NAME>victorg</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPACITY>2048</CAPACITY>
+      <CAPTION>A1_DIMM0</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <SERIALNUMBER>45050000</SERIALNUMBER>
+      <SPEED>1333 MHz</SPEED>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPACITY>2048</CAPACITY>
+      <CAPTION>A1_DIMM1</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+      <SERIALNUMBER>561A159C</SERIALNUMBER>
+      <SPEED>1333 MHz</SPEED>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <NETWORKS>
+      <DESCRIPTION>Realtek PCIe GBE Family Controller</DESCRIPTION>
+      <IPADDRESS>10.21.100.108</IPADDRESS>
+      <IPDHCP>10.21.1.10</IPDHCP>
+      <IPGATEWAY>10.21.4.70</IPGATEWAY>
+      <IPMASK>255.255.0.0</IPMASK>
+      <IPSUBNET>10.21.0.0</IPSUBNET>
+      <MACADDR>00:25:AB:0A:76:4C</MACADDR>
+      <PCIID>10EC:8168:A201:1B72</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8168&amp;SUBSYS_A2011B72&amp;REV_06\4&amp;186C6B44&amp;0&amp;00A9</PNPDEVICEID>
+      <SPEED>1000</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Realtek PCIe GBE Family Controller</DESCRIPTION>
+      <IPADDRESS6>fe80::190b:9ad9:b481:d66d</IPADDRESS6>
+      <IPMASK6>ffff:ffff:ffff:ffff::</IPMASK6>
+      <IPSUBNET6>fe80::</IPSUBNET6>
+      <MACADDR>00:25:AB:0A:76:4C</MACADDR>
+      <PCIID>10EC:8168:A201:1B72</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8168&amp;SUBSYS_A2011B72&amp;REV_06\4&amp;186C6B44&amp;0&amp;00A9</PNPDEVICEID>
+      <SPEED>1000</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>RAS Async Adapter</DESCRIPTION>
+      <MACADDR>20:41:53:59:4E:FF</MACADDR>
+      <PNPDEVICEID>SW\{EEAB7790-C514-11D1-B42B-00805FC1270E}\ASYNCMAC</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>64-bit</ARCH>
+      <BOOT_TIME>2017-12-10 11:20:13</BOOT_TIME>
+      <DNS_DOMAIN>hmd.local</DNS_DOMAIN>
+      <FQDN>K-RECE-PC-001.hmd.local</FQDN>
+      <FULL_NAME>Microsoft Windows 7 Professional </FULL_NAME>
+      <INSTALL_DATE>2012-08-21 11:07:31</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>6.1.7601</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK>Service Pack 1</SERVICE_PACK>
+    </OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>Mouse Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>Keyboard Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Centronics Type-14</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A1</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-9 male</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A2A</NAME>
+      <TYPE>Serial Port 16550A Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-15 female</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A2B</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9A1 - TPM HDR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9C1 - PCIE DOCKING CONN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2B3 - CPU FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J6C2 - EXT HDMI</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J3C1 - GMCH FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J1D1 - ITP</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E2 - MDC INTPSR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E4 - MDC INTPSR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E3 - LPC HOT DOCKING</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E1 - SCAN MATRIX</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9G1 - LPC SIDE BAND</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J8F1 - UNIFIED</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J6F1 - LVDS</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2F1 - LAI FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2G1 - GFX VID</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J1G6 - AC JACK</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1A1</CAPTION>
+      <DESCRIPTION>J1A1</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1A1</CAPTION>
+      <DESCRIPTION>J1A1</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A1</CAPTION>
+      <DESCRIPTION>J2A1</DESCRIPTION>
+      <NAME>J2A1</NAME>
+      <TYPE>Mini-Centronics Type-14</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A2A</CAPTION>
+      <DESCRIPTION>J2A2A</DESCRIPTION>
+      <NAME>J2A2A</NAME>
+      <TYPE>DB-9, Male</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A2B</CAPTION>
+      <DESCRIPTION>J2A2B</DESCRIPTION>
+      <NAME>J2A2B</NAME>
+      <TYPE>DB-15, Female</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3A1</CAPTION>
+      <DESCRIPTION>J3A1</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3A1</CAPTION>
+      <DESCRIPTION>J3A1</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3A1</CAPTION>
+      <DESCRIPTION>J3A1</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9A1 - TPM HDR</CAPTION>
+      <DESCRIPTION>J9A1 - TPM HDR</DESCRIPTION>
+      <NAME>J9A1 - TPM HDR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9C1 - PCIE DOCKING CONN</CAPTION>
+      <DESCRIPTION>J9C1 - PCIE DOCKING CONN</DESCRIPTION>
+      <NAME>J9C1 - PCIE DOCKING CONN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2B3 - CPU FAN</CAPTION>
+      <DESCRIPTION>J2B3 - CPU FAN</DESCRIPTION>
+      <NAME>J2B3 - CPU FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6C2 - EXT HDMI</CAPTION>
+      <DESCRIPTION>J6C2 - EXT HDMI</DESCRIPTION>
+      <NAME>J6C2 - EXT HDMI</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3C1 - GMCH FAN</CAPTION>
+      <DESCRIPTION>J3C1 - GMCH FAN</DESCRIPTION>
+      <NAME>J3C1 - GMCH FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1D1 - ITP</CAPTION>
+      <DESCRIPTION>J1D1 - ITP</DESCRIPTION>
+      <NAME>J1D1 - ITP</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E2 - MDC INTPSR</CAPTION>
+      <DESCRIPTION>J9E2 - MDC INTPSR</DESCRIPTION>
+      <NAME>J9E2 - MDC INTPSR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E4 - MDC INTPSR</CAPTION>
+      <DESCRIPTION>J9E4 - MDC INTPSR</DESCRIPTION>
+      <NAME>J9E4 - MDC INTPSR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E3 - LPC HOT DOCKING</CAPTION>
+      <DESCRIPTION>J9E3 - LPC HOT DOCKING</DESCRIPTION>
+      <NAME>J9E3 - LPC HOT DOCKING</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E1 - SCAN MATRIX</CAPTION>
+      <DESCRIPTION>J9E1 - SCAN MATRIX</DESCRIPTION>
+      <NAME>J9E1 - SCAN MATRIX</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9G1 - LPC SIDE BAND</CAPTION>
+      <DESCRIPTION>J9G1 - LPC SIDE BAND</DESCRIPTION>
+      <NAME>J9G1 - LPC SIDE BAND</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J8F1 - UNIFIED</CAPTION>
+      <DESCRIPTION>J8F1 - UNIFIED</DESCRIPTION>
+      <NAME>J8F1 - UNIFIED</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6F1 - LVDS</CAPTION>
+      <DESCRIPTION>J6F1 - LVDS</DESCRIPTION>
+      <NAME>J6F1 - LVDS</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2F1 - LAI FAN</CAPTION>
+      <DESCRIPTION>J2F1 - LAI FAN</DESCRIPTION>
+      <NAME>J2F1 - LAI FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2G1 - GFX VID</CAPTION>
+      <DESCRIPTION>J2G1 - GFX VID</DESCRIPTION>
+      <NAME>J2G1 - GFX VID</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1G6 - AC JACK</CAPTION>
+      <DESCRIPTION>J1G6 - AC JACK</DESCRIPTION>
+      <NAME>J1G6 - AC JACK</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>ZDesigner GK420t</DRIVER>
+      <NAME>ZDesigner GK420t</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>USB001</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>203x203</RESOLUTION>
+      <SERIAL>29J120200195</SERIAL>
+      <SHARED>1</SHARED>
+      <SHARENAME>IMP_ETQ</SHARENAME>
+      <STATUS>Unknown</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Kyocera FS-1320D KX</DRIVER>
+      <NAME>Triagem</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.21.150.13</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>KX DRIVER for Universal Printing</DRIVER>
+      <NAME>Recepcao</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.21.150.10</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Kyocera FS-1120D KX</DRIVER>
+      <NAME>Impressora AMARELA</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.21.150.11</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Kyocera FS-1320D KX</DRIVER>
+      <NAME>Farmácia</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.21.150.2</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <SLOTS>
+      <DESCRIPTION>x16 PCI Express</DESCRIPTION>
+      <DESIGNATION>0</DESIGNATION>
+      <NAME>J6B2</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>J6B1</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express</DESCRIPTION>
+      <DESIGNATION>2</DESIGNATION>
+      <NAME>J6D1</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>J6B2</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>J6B1</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>J6D1</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>http://forge.fusioninventory.org/projects/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>19/01/2017</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.3.18 (x64 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.18</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{2EDC2FA3-1F34-34E5-9085-588C9EFD1CC6}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>10/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{2EDC2FA3-1F34-34E5-9085-588C9EFD1CC6}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{764384C5-BCA9-307C-9AAC-FD443662686A}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>10/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{764384C5-BCA9-307C-9AAC-FD443662686A}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Advanced vulnerability shielding for endpoints</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8943BB61-6E48-4E2D-AFB9-7E16E6FEE9C8}</GUID>
+      <HELPLINK>http://www.trendmicro.com/</HELPLINK>
+      <INSTALLDATE>17/11/2017</INSTALLDATE>
+      <NAME>Vulnerability Protection Agent</NAME>
+      <PUBLISHER>Trend Micro</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{8943BB61-6E48-4E2D-AFB9-7E16E6FEE9C8}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>Trend Micro</URL_INFO_ABOUT>
+      <VERSION>9.6.8065</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>15/01/2016</INSTALLDATE>
+      <NAME>Internet Explorer (64bit)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>9.0.8112.16421</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Flash Player ActiveX</GUID>
+      <HELPLINK>http://www.adobe.com/go/flashplayer_support/</HELPLINK>
+      <INSTALLDATE>14/07/2015</INSTALLDATE>
+      <NAME>Adobe Flash Player 18 ActiveX</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>C:\Windows\SysWOW64\Macromed\Flash\FlashUtil32_18_0_0_209_ActiveX.exe -maintain activex</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>18.0.0.209</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>CitrixOnlinePluginFull</GUID>
+      <INSTALLDATE>17/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\ProgramData\Citrix\Citrix online plug-in\TrolleyExpress.exe /uninstall /cleanup</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>OCS Inventory NG Agent</GUID>
+      <INSTALLDATE>24/09/2014</INSTALLDATE>
+      <NAME>OCS Inventory NG Agent 2.1.0.1</NAME>
+      <PUBLISHER>OCS Inventory NG Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\OCS Inventory Agent\uninst.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.ocsinventory-ng.org</URL_INFO_ABOUT>
+      <VERSION>2.1.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>OfficeScanNT</GUID>
+      <INSTALLDATE>13/11/2017</INSTALLDATE>
+      <NAME>Trend Micro OfficeScan Agent</NAME>
+      <PUBLISHER>Trend Micro Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\Trend Micro\OfficeScan Client\ntrmv.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.trend.com</URL_INFO_ABOUT>
+      <VERSION>12.0.1708</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Ultravnc2_is1</GUID>
+      <HELPLINK>http://forum.ultravnc.info</HELPLINK>
+      <INSTALLDATE>22/08/2012</INSTALLDATE>
+      <NAME>UltraVNC 1.0.8.2</NAME>
+      <PUBLISHER>1.0.8.2</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\UltraVNC\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.uvnc.com</URL_INFO_ABOUT>
+      <VERSION>1.0.8.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WinRAR archiver</GUID>
+      <INSTALLDATE>21/08/2012</INSTALLDATE>
+      <NAME>WinRAR 4.00 beta 6 (32-bit)</NAME>
+      <PUBLISHER>win.rar GmbH</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\WinRAR\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>4.00.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Copyright (c) 2009 Zebra Technologies Corporation. All Rights Reserved</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>Zebra Font Downloader_is1</GUID>
+      <INSTALLDATE>02/07/2013</INSTALLDATE>
+      <NAME>Zebra Font Downloader</NAME>
+      <PUBLISHER>Zebra Technologies Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Zebra Technologies\Zebra Font Downloader\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.zebra.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>© 2012 ZIH Corp.  All rights reserved.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>Zebra Setup Utilities</GUID>
+      <HELPLINK>http://www.zebra.com/</HELPLINK>
+      <INSTALLDATE>02/07/2013</INSTALLDATE>
+      <NAME>Zebra Setup Utilities</NAME>
+      <PUBLISHER>Zebra Technologies</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\{6F9E8B22-7CC3-43A0-A6E8-5F715C9A1C7B}\TreeFrog.exe" REMOVE=TRUE MODIFY=FALSE</UNINSTALL_STRING>
+      <VERSION>1.1.9.1048</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Copyright (c) 2009 Zebra Technologies Corporation. All Rights Reserved</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>ZebraDesigner 2</GUID>
+      <HELPLINK>http://www.zebra.com</HELPLINK>
+      <INSTALLDATE>03/12/2012</INSTALLDATE>
+      <NAME>ZebraDesigner 2</NAME>
+      <PUBLISHER>Zebra Technologies Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\{AD55E916-8A04-4218-8D53-A7653B27079D}\Zebra Designer.exe" REMOVE=TRUE MODIFY=FALSE</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{26A24AE4-039D-4CA4-87B4-2F83218031F0}</GUID>
+      <HELPLINK>http://java.com</HELPLINK>
+      <INSTALLDATE>23/02/2015</INSTALLDATE>
+      <NAME>Java 8 Update 31</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{26A24AE4-039D-4CA4-87B4-2F83218031F0}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://java.com</URL_INFO_ABOUT>
+      <VERSION>8.0.310</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3D6AD258-61EA-35F5-812C-B7A02152996E}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>10/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{3D6AD258-61EA-35F5-812C-B7A02152996E}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4A03706F-666A-4037-7777-5F2748764D10}</GUID>
+      <INSTALLDATE>23/02/2015</INSTALLDATE>
+      <NAME>Java Auto Updater</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <VERSION>2.8.31.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{50ACF4F1-D38A-4DCE-8147-0F574CDEF45B}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>17/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (USB)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{50ACF4F1-D38A-4DCE-8147-0F574CDEF45B}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7681A1A9-D865-4DC0-A319-41A49F5E78DB}</GUID>
+      <INSTALLDATE>17/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (PNA)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{7681A1A9-D865-4DC0-A319-41A49F5E78DB}</UNINSTALL_STRING>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{95716cce-fc71-413f-8ad5-56c2892d4b3a}</GUID>
+      <INSTALLDATE>10/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{95716cce-fc71-413f-8ad5-56c2892d4b3a}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.60610.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{a1909659-0a08-4554-8af1-2175904903a1}</GUID>
+      <INSTALLDATE>10/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{a1909659-0a08-4554-8af1-2175904903a1}\vcredist_x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.60610.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B124E6D3-91B4-4E3C-AD03-BA959B223537}</GUID>
+      <INSTALLDATE>17/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (Web)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{B124E6D3-91B4-4E3C-AD03-BA959B223537}</UNINSTALL_STRING>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{BAC520D7-CE81-411D-A3A2-8D9C7F2DA3EF}</GUID>
+      <INSTALLDATE>17/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (SSON)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{BAC520D7-CE81-411D-A3A2-8D9C7F2DA3EF}</UNINSTALL_STRING>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{C05ED040-923C-4175-8B8D-A8693B93598B}</GUID>
+      <INSTALLDATE>02/07/2013</INSTALLDATE>
+      <NAME>Microsoft POS for .NET 1.1</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{C05ED040-923C-4175-8B8D-A8693B93598B}</UNINSTALL_STRING>
+      <VERSION>1.1.0603.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CAF27047-C758-4927-9699-BBB0C2B0E56F}</GUID>
+      <INSTALLDATE>03/12/2012</INSTALLDATE>
+      <NAME>ZebraDesigner 2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Zebra Technologies Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\ProgramData\{AD55E916-8A04-4218-8D53-A7653B27079D}\Zebra Designer.exe</UNINSTALL_STRING>
+      <VERSION>2.2.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D899C197-F8C1-4773-9EC4-6C1FBADB9B29}</GUID>
+      <INSTALLDATE>17/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (HDX)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{D899C197-F8C1-4773-9EC4-6C1FBADB9B29}</UNINSTALL_STRING>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D8D4ED7E-954C-449D-B21D-6F97036DF0E9}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>17/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (DV)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{D8D4ED7E-954C-449D-B21D-6F97036DF0E9}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D9025AAE-D02E-4400-9FCF-7261F1FAD7EB}</GUID>
+      <INSTALLDATE>02/07/2013</INSTALLDATE>
+      <NAME>Zebra OPOS</NAME>
+      <PUBLISHER>Zebra Technologies</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{D9025AAE-D02E-4400-9FCF-7261F1FAD7EB}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>www.zebra.com</URL_INFO_ABOUT>
+      <VERSION>1.0.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{E7D4E834-93EB-351F-B8FB-82CDAE623003}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>10/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{E7D4E834-93EB-351F-B8FB-82CDAE623003}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}</GUID>
+      <INSTALLDATE>21/08/2012</INSTALLDATE>
+      <NAME>Realtek High Definition Audio Driver</NAME>
+      <PUBLISHER>Realtek Semiconductor Corp.</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\Realtek\Audio\HDA\RtlUpd64.exe -r -m -nrg2709</UNINSTALL_STRING>
+      <VERSION>6.0.1.6622</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>15/01/2016</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>9.0.8112.16421</VERSION>
+    </SOFTWARES>
+    <SOUNDS>
+      <CAPTION>Realtek High Definition Audio</CAPTION>
+      <DESCRIPTION>Realtek High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>Realtek</MANUFACTURER>
+      <NAME>Realtek High Definition Audio</NAME>
+    </SOUNDS>
+    <STORAGES>
+      <DESCRIPTION>Unidade de disco</DESCRIPTION>
+      <DISKSIZE>500107</DISKSIZE>
+      <FIRMWARE>KC45</FIRMWARE>
+      <INTERFACE>IDE</INTERFACE>
+      <MANUFACTURER>(Unidades de disco padrão)</MANUFACTURER>
+      <MODEL>ST500DM002-1BD142</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>Z2AX5TSH</SERIAL>
+      <SERIALNUMBER>Z2AX5TSH</SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <STORAGES>
+      <DESCRIPTION>Unidade de disco</DESCRIPTION>
+      <FIRMWARE>1.00</FIRMWARE>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Unidades de disco padrão)</MANUFACTURER>
+      <MODEL>Generic- Multi-Card USB Device</MODEL>
+      <NAME>\\.\PHYSICALDRIVE1</NAME>
+      <SERIAL/>
+      <SERIALNUMBER/>
+    </STORAGES>
+    <STORAGES>
+      <DESCRIPTION>CD-ROM Drive</DESCRIPTION>
+      <MANUFACTURER>(Unidades de CD-ROM padrão)</MANUFACTURER>
+      <MODEL>HL-DT-ST DVDRAM GT60N ATA Device</MODEL>
+      <NAME>HL-DT-ST DVDRAM GT60N ATA Device</NAME>
+      <SCSI_COID>1</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIALNUMBER/>  <TYPE>DVD Writer</TYPE>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>RTS5138 Card Reader Controller</CAPTION>
+      <MANUFACTURER>Realtek Semiconductor Corp.</MANUFACTURER>
+      <NAME>RTS5138 Card Reader Controller</NAME>
+      <PRODUCTID>0138</PRODUCTID>
+      <SERIAL>20090516388200000</SERIAL>
+      <VENDORID>0BDA</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>USB Composite Device</CAPTION>
+      <MANUFACTURER>China Resource Semico Co., Ltd</MANUFACTURER>
+      <NAME>USB Composite Device</NAME>
+      <PRODUCTID>0C23</PRODUCTID>
+      <VENDORID>1A2C</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>USB Composite Device</CAPTION>
+      <MANUFACTURER>Z-Star Microelectronics Corp.</MANUFACTURER>
+      <NAME>USB Composite Device</NAME>
+      <PRODUCTID>3630</PRODUCTID>
+      <VENDORID>0AC8</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>M105 Optical Mouse</CAPTION>
+      <MANUFACTURER>Logitech, Inc.</MANUFACTURER>
+      <NAME>M105 Optical Mouse</NAME>
+      <PRODUCTID>C077</PRODUCTID>
+      <VENDORID>046D</VENDORID>
+    </USBDEVICES>
+    <USERS>
+      <DOMAIN>HMD</DOMAIN>
+      <LOGIN>uparb.recep02</LOGIN>
+    </USERS>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.18</VERSIONCLIENT>
+  </CONTENT>
+  <DEVICEID>K-RECE-PC-001.hmd.local-2017-08-21-17-06-36</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>

@@ -1,0 +1,3759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2017-12-11 08:29:15</LOGDATE>
+    </ACCESSLOG>
+    <ANTIVIRUS>
+      <ENABLED>1</ENABLED>
+      <GUID>{6458A697-CD62-2062-F924-44AA7F87C1E7}</GUID>
+      <NAME>Trend Micro OfficeScan Antivirus</NAME>
+      <UPTODATE>1</UPTODATE>
+    </ANTIVIRUS>
+    <BIOS>
+      <ASSETTAG>BRB51900SM</ASSETTAG>
+      <BDATE>01/24/2005</BDATE>
+      <BMANUFACTURER>Hewlett-Packard</BMANUFACTURER>
+      <BVERSION>786A5 v2.08</BVERSION>
+      <MMANUFACTURER>Hewlett-Packard</MMANUFACTURER>
+      <MMODEL>0830h</MMODEL>
+      <MSN>BRB51900SM</MSN>
+      <SKUNUMBER/>  <SMANUFACTURER>Hewlett-Packard</SMANUFACTURER>
+      <SMODEL>HP d325 uT(PX932LA)</SMODEL>
+      <SSN>BRB51900SM</SSN>
+    </BIOS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 IDE</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 IDE</NAME>
+      <PCISUBSYSTEMID>103c:12b9</PCISUBSYSTEMID>
+      <PRODUCTID>0065</PRODUCTID>
+      <TYPE>Controlador de canal duplo padrão PCI IDE</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 USB Controller</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 USB Controller</NAME>
+      <PCISUBSYSTEMID>103c:12b9</PCISUBSYSTEMID>
+      <PRODUCTID>0067</PRODUCTID>
+      <TYPE>Standard OpenHCD USB Host Controller</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 USB Controller</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 USB Controller</NAME>
+      <PCISUBSYSTEMID>103c:12b9</PCISUBSYSTEMID>
+      <PRODUCTID>0068</PRODUCTID>
+      <TYPE>Standard Enhanced PCI to USB Host Controller</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 SMBus (MCP)</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 SMBus (MCP)</NAME>
+      <PCISUBSYSTEMID>103c:12b9</PCISUBSYSTEMID>
+      <PRODUCTID>0064</PRODUCTID>
+      <TYPE>SM Bus Controller</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 IGP2</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 IGP2</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>01e0</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>RTL8169 PCI Gigabit Ethernet Controller</CAPTION>
+      <MANUFACTURER>Realtek Semiconductor Co., Ltd.</MANUFACTURER>
+      <NAME>RTL8169/8110 Family PCI Gigabit Ethernet NIC</NAME>
+      <PCISUBSYSTEMID>10ec:8169</PCISUBSYSTEMID>
+      <PRODUCTID>8169</PRODUCTID>
+      <TYPE>NIC Gigabit Ethernet PCI Realtek Família RTL8169/8110 (NDIS 6.20)</TYPE>
+      <VENDORID>10ec</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 AGP</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 AGP</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>01e8</PRODUCTID>
+      <TYPE>NVIDIA nForce2 AGP Host to PCI Bridge</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 Memory Controller 1</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 Memory Controller 1</NAME>
+      <PCISUBSYSTEMID>103c:12b9</PCISUBSYSTEMID>
+      <PRODUCTID>01eb</PRODUCTID>
+      <TYPE>PCI standard RAM Controller</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 Memory Controller 2</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 Memory Controller 2</NAME>
+      <PCISUBSYSTEMID>103c:12b9</PCISUBSYSTEMID>
+      <PRODUCTID>01ec</PRODUCTID>
+      <TYPE>PCI standard RAM Controller</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 Memory Controller 3</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 Memory Controller 3</NAME>
+      <PCISUBSYSTEMID>103c:12b9</PCISUBSYSTEMID>
+      <PRODUCTID>01ed</PRODUCTID>
+      <TYPE>PCI standard RAM Controller</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 AC97 Audio Controler (MCP)</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 AC97 Audio Controler (MCP)</NAME>
+      <PCISUBSYSTEMID>103c:12b9</PCISUBSYSTEMID>
+      <PRODUCTID>006a</PRODUCTID>
+      <TYPE>SoundMAX Integrated Digital Audio</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 Memory Controller 4</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 Memory Controller 4</NAME>
+      <PCISUBSYSTEMID>103c:12b9</PCISUBSYSTEMID>
+      <PRODUCTID>01ee</PRODUCTID>
+      <TYPE>PCI standard RAM Controller</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>3C920B-EMB Integrated Fast Ethernet Controller [Tornado]</CAPTION>
+      <MANUFACTURER>3Com Corporation</MANUFACTURER>
+      <NAME>3C920B-EMB Integrated Fast Ethernet Controller [Tornado]</NAME>
+      <PCISUBSYSTEMID>103c:12b8</PCISUBSYSTEMID>
+      <PRODUCTID>9201</PRODUCTID>
+      <TYPE>3Com 3C920B-EMB Integrated Fast Ethernet Controller</TYPE>
+      <VENDORID>10b7</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 External PCI Bridge</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 External PCI Bridge</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>006c</PRODUCTID>
+      <TYPE>PCI standard PCI-to-PCI bridge</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 Memory Controller 5</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 Memory Controller 5</NAME>
+      <PCISUBSYSTEMID>103c:12b9</PCISUBSYSTEMID>
+      <PRODUCTID>01ef</PRODUCTID>
+      <TYPE>PCI standard RAM Controller</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 ISA Bridge</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 ISA Bridge</NAME>
+      <PCISUBSYSTEMID>103c:12b9</PCISUBSYSTEMID>
+      <PRODUCTID>0060</PRODUCTID>
+      <TYPE>PCI standard ISA bridge</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>nForce2 PCI Bridge</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>nForce2 PCI Bridge</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>006d</PRODUCTID>
+      <TYPE>PCI standard PCI-to-PCI bridge</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>C17 [GeForce4 MX IGP]</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>C17 [GeForce4 MX IGP]</NAME>
+      <PCISUBSYSTEMID>103c:12b9</PCISUBSYSTEMID>
+      <PRODUCTID>01f0</PRODUCTID>
+      <TYPE>NVIDIA GeForce4 MX Integrated GPU</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>1</CORE>
+      <DESCRIPTION>x86 Family 6 Model 10 Stepping 0</DESCRIPTION>
+      <FAMILYNUMBER>6</FAMILYNUMBER>
+      <ID>A0 06 00 00 FF FB 83 03</ID>
+      <MANUFACTURER>AMD</MANUFACTURER>
+      <MODEL>10</MODEL>
+      <NAME>AMD Athlon(tm) XP 2800+</NAME>
+      <SPEED>2083</SPEED>
+      <STEPPING>0</STEPPING>
+      <THREAD>1</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Local Fixed Disk</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>44149</FREE>
+      <LABEL>OSDisk</LABEL>
+      <LETTER>C:</LETTER>
+      <SERIAL>A877318F</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>59999</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>OSDisk</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>454</FREE>
+      <LABEL>System</LABEL>
+      <LETTER>System</LETTER>
+      <SERIAL>E4737578</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>498</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>System</VOLUMN>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>FP_NO_HOST_CHECK</KEY>
+      <VAL>NO</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>x86</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>1</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>6</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>x86 Family 6 Model 10 Stepping 0, AuthenticAMD</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>0a00</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_logfile</KEY>
+      <VAL>C:\BVTBin\Tests\installpackage\csilogfile.log</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_flags</KEY>
+      <VAL>3</VAL>
+    </ENVS>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x86-multi-thread-64int</ARCHNAME>
+      <CHASSIS_TYPE>Desktop</CHASSIS_TYPE>
+      <CHECKSUM>95151</CHECKSUM>
+      <DEFAULTGATEWAY>10.20.1.1</DEFAULTGATEWAY>
+      <DNS>10.20.1.10</DNS>
+      <ETIME>202</ETIME>
+      <IPADDR>10.20.100.31</IPADDR>
+      <LASTLOGGEDUSER>juliano.silva</LASTLOGGEDUSER>
+      <MEMORY>959</MEMORY>
+      <NAME>D-SEGT-PC-006</NAME>
+      <OSCOMMENTS>Service Pack 1</OSCOMMENTS>
+      <OSNAME>Microsoft Windows 7 Professional </OSNAME>
+      <OSVERSION>6.1.7601</OSVERSION>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>2083</PROCESSORS>
+      <PROCESSORT>AMD Athlon(tm) XP 2800+</PROCESSORT>
+      <USERID>juliano.silva</USERID>
+      <UUID>59F40772-C289-11D9-BBD8-5E311C50000A</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINCOMPANY>SSMD</WINCOMPANY>
+      <WINLANG>1046</WINLANG>
+      <WINOWNER>SSMD</WINOWNER>
+      <WINPRODID>00371-868-0000007-85302</WINPRODID>
+      <WINPRODKEY>FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4</WINPRODKEY>
+      <WORKGROUP>hmd.local</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Enhanced (101- or 102-key)</CAPTION>
+      <DESCRIPTION>Dispositivo de Entrada USB</DESCRIPTION>
+      <LAYOUT>00000416</LAYOUT>
+      <NAME>Enhanced (101- or 102-key)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>Mouse compatível com HID</CAPTION>
+      <DESCRIPTION>Mouse compatível com HID</DESCRIPTION>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>Microsoft</MANUFACTURER>
+      <NAME>Mouse compatível com HID</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>Mouse compatível com PS/2</CAPTION>
+      <DESCRIPTION>Mouse compatível com PS/2</DESCRIPTION>
+      <INTERFACE>PS/2</INTERFACE>
+      <MANUFACTURER>Microsoft</MANUFACTURER>
+      <NAME>Mouse compatível com PS/2</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administradores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Convidados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Distributed COM - Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicadores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Leitores de log de eventos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Operadores criptográficos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Operadores de configuração de rede</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Operadores de cópia</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Usuários avançados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Usuários da área de trabalho remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Usuários de log de desempenho</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Usuários de monitor de desempenho</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-97883323-2678837042-3511618332-1012</ID>
+      <NAME>Oferecer Auxiliares para Assistência Remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-97883323-2678837042-3511618332-1002</ID>
+      <NAME>athoso</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-97883323-2678837042-3511618332-1009</ID>
+      <NAME>brunoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-97883323-2678837042-3511618332-1006</ID>
+      <NAME>carlose</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-97883323-2678837042-3511618332-1010</ID>
+      <NAME>douglasb</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-97883323-2678837042-3511618332-1004</ID>
+      <NAME>eduardof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-97883323-2678837042-3511618332-1003</ID>
+      <NAME>ezequiela</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-97883323-2678837042-3511618332-1007</ID>
+      <NAME>geziels</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-97883323-2678837042-3511618332-1005</ID>
+      <NAME>leonardoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-97883323-2678837042-3511618332-1001</ID>
+      <NAME>marcof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-97883323-2678837042-3511618332-1008</ID>
+      <NAME>maxk</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-97883323-2678837042-3511618332-1011</ID>
+      <NAME>victorg</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPACITY>1024</CAPACITY>
+      <CAPTION>DIMM1</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>JEDEC ID:00 00 00 00 00 00 00 00</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <SERIALNUMBER>00000000</SERIALNUMBER>
+      <SPEED>400 MHz</SPEED>
+      <TYPE>DDR</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>DIMM2</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>JEDEC ID:</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+    </MEMORIES>
+    <NETWORKS>
+      <DESCRIPTION>NIC Gigabit Ethernet PCI Realtek Família RTL8169/8110 (NDIS 6.20)</DESCRIPTION>
+      <MACADDR>00:E0:52:B7:39:4F</MACADDR>
+      <PCIID>10EC:8169:8169:10EC</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8169&amp;SUBSYS_816910EC&amp;REV_10\4&amp;D34C14C&amp;0&amp;2040</PNPDEVICEID>
+      <SPEED>9223372036854.78</SPEED>
+      <STATUS>Down</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>3Com 3C920B-EMB Integrated Fast Ethernet Controller</DESCRIPTION>
+      <IPADDRESS>10.20.100.31</IPADDRESS>
+      <IPDHCP>10.20.1.10</IPDHCP>
+      <IPGATEWAY>10.20.1.1</IPGATEWAY>
+      <IPMASK>255.255.0.0</IPMASK>
+      <IPSUBNET>10.20.0.0</IPSUBNET>
+      <MACADDR>00:0A:5E:31:1C:50</MACADDR>
+      <PCIID>10B7:9201:12B8:103C</PCIID>
+      <PNPDEVICEID>PCI\VEN_10B7&amp;DEV_9201&amp;SUBSYS_12B8103C&amp;REV_40\4&amp;74B74B9&amp;0&amp;0860</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>3Com 3C920B-EMB Integrated Fast Ethernet Controller</DESCRIPTION>
+      <IPADDRESS6>fe80::18eb:f63:96a8:f7c0</IPADDRESS6>
+      <IPMASK6>ffff:ffff:ffff:ffff::</IPMASK6>
+      <IPSUBNET6>fe80::</IPSUBNET6>
+      <MACADDR>00:0A:5E:31:1C:50</MACADDR>
+      <PCIID>10B7:9201:12B8:103C</PCIID>
+      <PNPDEVICEID>PCI\VEN_10B7&amp;DEV_9201&amp;SUBSYS_12B8103C&amp;REV_40\4&amp;74B74B9&amp;0&amp;0860</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>32-bit</ARCH>
+      <BOOT_TIME>2017-12-11 08:28:29</BOOT_TIME>
+      <DNS_DOMAIN>hmd.local</DNS_DOMAIN>
+      <FQDN>D-SEGT-PC-006.hmd.local</FQDN>
+      <FULL_NAME>Microsoft Windows 7 Professional </FULL_NAME>
+      <INSTALL_DATE>2017-12-01 15:33:19</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>6.1.7601</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK>Service Pack 1</SERVICE_PACK>
+    </OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>DB-9 male</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>SERIAL</NAME>
+      <TYPE>Serial Port 16550A Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-25 female</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>Parallel Port ECP/EPP</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>Keyboard Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>Mouse Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board Sound Input From CD-ROM</DESCRIPTION>
+      <NAME>CD</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board Sound Input From CD-ROM</DESCRIPTION>
+      <NAME>AUX</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board IDE</DESCRIPTION>
+      <NAME>PRIMARY</NAME>
+      <TYPE>None</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board IDE</DESCRIPTION>
+      <NAME>SECONDARY</NAME>
+      <TYPE>None</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board Floppy</DESCRIPTION>
+      <NAME>FLOPPY</NAME>
+      <TYPE>None</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini DIN</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini DIN</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini DIN</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini DIN</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>AUDIO</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini DIN</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>AUDIO</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>RJ-45</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>Network Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>CHAS FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>CPU FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>SPKR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-15 female</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-15 female</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Porta de comunicação (COM1)</CAPTION>
+      <DESCRIPTION>Porta de comunicação</DESCRIPTION>
+      <NAME>Porta de comunicação (COM1)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>LPT1</CAPTION>
+      <DESCRIPTION>LPT1</DESCRIPTION>
+      <NAME>LPT1</NAME>
+      <TYPE>Parallel</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>DB-25, Female</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB</CAPTION>
+      <DESCRIPTION>USB</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB</CAPTION>
+      <DESCRIPTION>USB</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>CD</CAPTION>
+      <DESCRIPTION>CD</DESCRIPTION>
+      <NAME>CD</NAME>
+      <TYPE>25 Pin Dual Inline</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>AUX</CAPTION>
+      <DESCRIPTION>AUX</DESCRIPTION>
+      <NAME>AUX</NAME>
+      <TYPE>25 Pin Dual Inline</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PRIMARY</CAPTION>
+      <DESCRIPTION>PRIMARY</DESCRIPTION>
+      <NAME>PRIMARY</NAME>
+      <TYPE>ATA 3-1/2 Inch (40 pins)</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SECONDARY</CAPTION>
+      <DESCRIPTION>SECONDARY</DESCRIPTION>
+      <NAME>SECONDARY</NAME>
+      <TYPE>ATA 3-1/2 Inch (40 pins)</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>FLOPPY</CAPTION>
+      <DESCRIPTION>FLOPPY</DESCRIPTION>
+      <NAME>FLOPPY</NAME>
+      <TYPE>SSA SCSI</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>Mini-DIN</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>Mini-DIN</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>Mini-DIN</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>AUDIO</CAPTION>
+      <DESCRIPTION>AUDIO</DESCRIPTION>
+      <NAME>AUDIO</NAME>
+      <TYPE>Mini-DIN</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>AUDIO</CAPTION>
+      <DESCRIPTION>AUDIO</DESCRIPTION>
+      <NAME>AUDIO</NAME>
+      <TYPE>Mini-DIN</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>RJ45</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>CHAS FAN</CAPTION>
+      <DESCRIPTION>CHAS FAN</DESCRIPTION>
+      <NAME>CHAS FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>CPU FAN</CAPTION>
+      <DESCRIPTION>CPU FAN</DESCRIPTION>
+      <NAME>CPU FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SPKR</CAPTION>
+      <DESCRIPTION>SPKR</DESCRIPTION>
+      <NAME>SPKR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>DB-15, Female</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>DB-15, Female</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>Microsoft XPS Document Writer</DRIVER>
+      <NAME>Microsoft XPS Document Writer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>XPSPort:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Shared Fax Driver</DRIVER>
+      <NAME>Fax</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>SHRFAX:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>200x200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Kyocera FS-1118MFP</DRIVER>
+      <NAME>Black RH</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.20.150.19</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <SLOTS>
+      <DESCRIPTION>32-bit AGP 8x</DESCRIPTION>
+      <DESIGNATION>0</DESIGNATION>
+      <NAME>AGP</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>Slot 1</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>2</DESIGNATION>
+      <NAME>Slot 2</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>3</DESIGNATION>
+      <NAME>Slot 3</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>AGP</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>Slot 1</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>Slot 2</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>Slot 3</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Flash Player ActiveX</GUID>
+      <HELPLINK>http://www.adobe.com/go/flashplayer_support/</HELPLINK>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Adobe Flash Player 11 ActiveX</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>C:\windows\system32\Macromed\Flash\FlashUtil11f_ActiveX.exe -maintain activex</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.1.102.62</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Shockwave Player</GUID>
+      <HELPLINK>http://www.adobe.com/support/shockwave</HELPLINK>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Adobe Shockwave Player 11.6</NAME>
+      <PUBLISHER>Adobe Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\windows\system32\Adobe\Shockwave 11\uninstaller.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.6.4.634</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>CitrixOnlinePluginFull</GUID>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Citrix online plug-in</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\ProgramData\Citrix\Citrix online plug-in\TrolleyExpress.exe /uninstall /cleanup</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>http://forge.fusioninventory.org/projects/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>05/12/2017</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.3.18 (x86 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.18</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft .NET Framework 4 Client Profile</GUID>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 4 Client Profile</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\Setup.exe /repair /x86 /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.microsoft.com/fwlink/?LinkId=164164</URL_INFO_ABOUT>
+      <VERSION>4.0.30319</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft .NET Framework 4 Extended</GUID>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 4 Extended</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\Setup.exe /repair /x86 /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.microsoft.com/fwlink/?LinkId=164164</URL_INFO_ABOUT>
+      <VERSION>4.0.30319</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>NVIDIA Drivers</GUID>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>NVIDIA Drivers</NAME>
+      <UNINSTALL_STRING>C:\windows\system32\nvudisp.exe UninstallGUI</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>OfficeScanNT</GUID>
+      <INSTALLDATE>05/12/2017</INSTALLDATE>
+      <NAME>Trend Micro OfficeScan Agent</NAME>
+      <PUBLISHER>Trend Micro Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\Trend Micro\OfficeScan Client\ntrmv.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.trend.com</URL_INFO_ABOUT>
+      <VERSION>12.0.1222</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WinRAR archiver</GUID>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>WinRAR 4.11 (32-bit)</NAME>
+      <PUBLISHER>win.rar GmbH</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\WinRAR\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>4.11.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2162169</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2162169</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2416472</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2416472</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2468871.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2468871</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2468871</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Extended (KB2468871)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {5E9CF3A4-ADB3-3080-A8BF-976A28340758} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2478063</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2478063</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2487367.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2487367</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2487367</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2487367)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {42A3562E-8B4E-39A4-B82D-CC12F82889E3} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2533523.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2533523</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2533523</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Extended (KB2533523)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {81EBB9D7-173C-32E3-B477-149C8DE075E4} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2544514</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2544514</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2572063</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2572063</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2599651</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2599651</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2600211</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2600211</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2600217.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2600217</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2600217</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Extended (KB2600217)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {5D9961AC-7C99-36A2-9EF0-34678AED5384} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2604121</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2604121</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2639327</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2639327</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2656351</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2656351</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2682543</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2682543</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2736428</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2736428</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2742595.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2742595</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2742595</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2742595)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {788818B1-B191-3217-A210-7ACFDE19CE4A} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2836939</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2836939</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2836939v2</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2836939v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2836939.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2836939v3</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2836939</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Extended (KB2836939v3)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {D5B80B17-2443-3296-A700-792FAA0748BD} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>3</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2858302</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2858302</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2858302.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2858302v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2858302</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2858302v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {8BA4E34D-95C5-3907-87E4-62FBB31A2190} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2894842</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2894842</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2894842.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2894842v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2894842</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB2894842v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {AE27A13B-C1EB-3973-8291-BC68A34F703C} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2901110</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2901110</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2901110v2</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB2901110v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3037578.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB3037578</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3037578</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB3037578)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {AA50D98E-1F34-3E89-A351-E303F5B3BCE2} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Extended.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3098778.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{0A0CADCF-78DA-33C4-A350-CD51849B9702}.KB3098778</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3098778</HELPLINK>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Extended (KB3098778)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Extended\setup.exe /uninstallpatch {12331AC3-D113-36C1-AC57-2B58B561852E} /parameterfolder Extended</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0F7319A9-083D-40B3-8256-00A6F3C2AAA2}</GUID>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Citrix online plug-in (SSON)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{0F7319A9-083D-40B3-8256-00A6F3C2AAA2}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{133236FE-E2F7-4313-8BF8-A10ACAAA7CB9}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Citrix online plug-in (USB)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{133236FE-E2F7-4313-8BF8-A10ACAAA7CB9}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{26A24AE4-039D-4CA4-87B4-2F83218025F0}</GUID>
+      <HELPLINK>http://java.com</HELPLINK>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Java 8 Update 25</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{26A24AE4-039D-4CA4-87B4-2F83218025F0}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://java.com</URL_INFO_ABOUT>
+      <VERSION>8.0.250</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2FC7287D-39DD-4A84-9806-D27D3CCDC51B}</GUID>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Citrix online plug-in (Web)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{2FC7287D-39DD-4A84-9806-D27D3CCDC51B}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2160841</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2160841</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2162169</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2162169</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2446708</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2446708</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2446708v2</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2446708v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2468871.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2468871</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2468871</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2468871)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {5E9CF3A4-ADB3-3080-A8BF-976A28340758} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2473228</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2473228</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2478063</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2478063</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2478663</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2478663</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2514805</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2514805</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2518870</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2518870</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2533523.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2533523</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2533523</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2533523)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {81EBB9D7-173C-32E3-B477-149C8DE075E4} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2539636</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2539636</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2544514</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2544514</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2572063</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2572063</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2572078</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2572078</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2599651</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2599651</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2600211</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2600211</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2600217.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2600217</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2600217</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2600217)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {5D9961AC-7C99-36A2-9EF0-34678AED5384} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2604121.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2604121</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2604121</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2604121)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {67A5F99B-5EBA-3812-8D2E-BC251490DD3F} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2633870</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2633870</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2639327</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2639327</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656351</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656351</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656368</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656368</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656368v2</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656368v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656405</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2656405</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2686827</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2686827</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2698021</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2698021</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2729449.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2729449</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2729449</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2729449)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {CD6D9B8A-BBC4-3FA7-B24D-D74CE90630CF} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2732797</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2732797</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2736428</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2736428</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2737019.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2737019</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2737019</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2737019)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {ECBEE23D-AB7E-3DAA-B66B-CD52003198F1} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2742595.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2742595</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2742595</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2742595)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {788818B1-B191-3217-A210-7ACFDE19CE4A} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2789642</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2789642</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2804576</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2804576</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2832407</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2832407</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2835393</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2835393</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939v2</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2836939.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939v3</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2836939</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2836939v3)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {D5B80B17-2443-3296-A700-792FAA0748BD} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>3</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2840628</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2840628</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2840628.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2840628v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2840628</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2840628v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {1E88AFAE-CEF7-3540-8FF6-6D00877B2767} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2858302</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2858302</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2858302.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2858302v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2858302</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2858302v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {8BA4E34D-95C5-3907-87E4-62FBB31A2190} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2861188</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2861188</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2894842</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2894842</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2894842.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2894842v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2894842</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2894842v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {AE27A13B-C1EB-3973-8291-BC68A34F703C} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2898842</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2898842</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2898855</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2898855</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2898855v2</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2898855v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2901110</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2901110</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2901110v2</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2901110v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2931365</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2931365</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2938780</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2938780</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2938780v2</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2938780v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2972106.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2972106</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2972106</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2972106)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {46A6AEB6-89CB-3DDF-AF98-5FBA7D58C423} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2972215.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2972215</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2972215</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2972215)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {A595E784-C204-339D-8460-9FE737C7BBBF} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2978125.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2978125</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2978125</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2978125)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {F97ADBB0-328A-3BAF-AA1A-0DDCEB094DF0} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2979575</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2979575</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2979575v2</GUID>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2979575v2</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3023221.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3023221</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3023221</HELPLINK>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3023221)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {E9A2467F-2553-330A-9D32-A6CE696A4D57} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3032662.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3032662</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3032662</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3032662)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {84609CC1-E875-3EC3-A326-6D183EB751A8} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3037578.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3037578</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3037578</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3037578)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {AA50D98E-1F34-3E89-A351-E303F5B3BCE2} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3048074</GUID>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3048074</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3072309</GUID>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3072309</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3074547.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3074547</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3074547</HELPLINK>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3074547)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {BF001367-7BA7-3E27-9E9B-0C54BC467164} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3097994.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3097994</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3097994</HELPLINK>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3097994)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {C89D031F-E75F-3D32-9446-5E65E01C7160} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/3098778.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3098778</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3098778</HELPLINK>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3098778)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\windows\Microsoft.NET\Framework\v4.0.30319\SetupCache\Client\setup.exe /uninstallpatch {12331AC3-D113-36C1-AC57-2B58B561852E} /parameterfolder Client</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3D6AD258-61EA-35F5-812C-B7A02152996E}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>05/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{3D6AD258-61EA-35F5-812C-B7A02152996E}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4A03706F-666A-4037-7777-5F2748764D10}</GUID>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Java Auto Updater</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <VERSION>2.8.25.18</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{57287FDF-27E6-45BC-9DD2-A33545C46C1A}</GUID>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Citrix online plug-in (HDX)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{57287FDF-27E6-45BC-9DD2-A33545C46C1A}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Adobe Shockwave Player Merge Module</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{612C34C7-5E90-47D8-9B5C-0F717DD82726}</GUID>
+      <HELPLINK>http://www.adobe.com/support</HELPLINK>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>swMSM</NAME>
+      <PUBLISHER>Adobe Systems, Inc</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{612C34C7-5E90-47D8-9B5C-0F717DD82726}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.0.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{6F2FDD50-E0F3-4117-B575-78E77F8D11EF}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Citrix online plug-in (DV)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{6F2FDD50-E0F3-4117-B575-78E77F8D11EF}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkID=91955</HELPLINK>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>Microsoft Silverlight</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</UNINSTALL_STRING>
+      <VERSION>5.1.50901.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{913778D3-E1D8-4B55-9246-3308C54D3162}</GUID>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Citrix online plug-in (PNA)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{913778D3-E1D8-4B55-9246-3308C54D3162}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{95716cce-fc71-413f-8ad5-56c2892d4b3a}</GUID>
+      <INSTALLDATE>05/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{95716cce-fc71-413f-8ad5-56c2892d4b3a}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.60610.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>   </COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-7AD7-1033-7B44-AA1000000001}</GUID>
+      <HELPLINK>http://www.adobe.com/support/main.html</HELPLINK>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>Adobe Reader X (10.1.2)</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-7AD7-1033-7B44-AA1000000001}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>10.1.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{E7D4E834-93EB-351F-B8FB-82CDAE623003}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>05/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{E7D4E834-93EB-351F-B8FB-82CDAE623003}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.0.9600.18524</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2849697</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2849696</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2841134</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2670838</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2479943</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2491683</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2506212</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2506928</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2509553</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2533552</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2533623</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Hotfix</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2534111</NAME>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2545698</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2547666</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2552343</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2560656</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2563227</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2564958</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2574819</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2579686</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2604115</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2620704</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2621440</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2631813</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Hotfix</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2639308</NAME>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2640148</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2653956</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2654428</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2660075</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2667402</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2676562</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2685811</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2685813</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2690533</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2698365</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2705219</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2726535</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2727528</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2729094</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2729452</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2731771</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2732059</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2736422</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2742599</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2750841</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2758857</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2761217</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2763523</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2770660</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2773072</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2786081</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>KB2798162</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2799926</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2800095</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2807986</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2808679</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2813430</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2834140</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2840631</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>KB2843630</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2847927</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2852386</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2853952</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2861698</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2862152</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2862330</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2864202</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2868038</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2868116</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2871997</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2882822</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2884256</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB2888049</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2891804</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2892074</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2893294</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2893519</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2894844</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2900986</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2908783</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2911501</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2912390</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2918077</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2919469</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2929733</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2931356</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2937610</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2943357</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2952664</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2957189</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2966583</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2968294</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2972100</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2972211</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2973112</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2973201</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>KB2973351</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2977292</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2978120</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2978742</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB2984972</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2985461</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2991963</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2992611</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB2993651</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3000483</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>KB3003743</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>KB3004361</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3004375</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3006121</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Hotfix</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3006137</NAME>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3010788</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3011780</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3019978</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3020370</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3021674</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3021917</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3022777</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3023215</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3030377</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3035126</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3037574</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3042553</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3045685</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3046017</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3046269</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3054476</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3055642</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>KB3059317</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3060716</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3061518</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3067903</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3068708</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3071756</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3072305</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3072630</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>KB3074543</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3075220</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3076895</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3078601</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3078667</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3080079</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3080149</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3080446</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3084135</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3086255</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3092601</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3092627</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3093513</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3097989</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3101722</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3102429</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3107998</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3108371</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3108381</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3108664</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3108670</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3109103</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3109560</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3110329</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3115858</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3118401</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>KB3121255</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3122648</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3123479</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3126587</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3127220</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3133977</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3135983</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3137061</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3138378</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3138612</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3138901</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3138910</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3139398</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3139914</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3140245</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3142024</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3146706</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3146963</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3149090</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3150220</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3155178</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3156016</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>KB3156017</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3156019</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3161102</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3161561</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2017</INSTALLDATE>
+      <NAME>KB3161949</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>KB3163245</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>KB3164035</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3170735</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3177186</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3177467</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3179573</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3184143</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3185911</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>KB3188730</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3188740</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3195789</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/12/2017</INSTALLDATE>
+      <NAME>KB958488</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>20/11/2010</INSTALLDATE>
+      <NAME>KB976902</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/12/2017</INSTALLDATE>
+      <NAME>KB3197869</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOUNDS>
+      <CAPTION>SoundMAX Integrated Digital Audio</CAPTION>
+      <DESCRIPTION>SoundMAX Integrated Digital Audio</DESCRIPTION>
+      <MANUFACTURER>Analog Devices, Inc.</MANUFACTURER>
+      <NAME>SoundMAX Integrated Digital Audio</NAME>
+    </SOUNDS>
+    <STORAGES>
+      <DESCRIPTION>Unidade de disco</DESCRIPTION>
+      <DISKSIZE>80060</DISKSIZE>
+      <FIRMWARE>TK200-04</FIRMWARE>
+      <INTERFACE>IDE</INTERFACE>
+      <MANUFACTURER>(Unidades de disco padrão)</MANUFACTURER>
+      <MODEL>SAMSUNG SP0802N</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>1360J1FYC22532</SERIAL>
+      <SERIALNUMBER>1360J1FYC22532</SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>USB Composite Device</CAPTION>
+      <MANUFACTURER>China Resource Semico Co., Ltd</MANUFACTURER>
+      <NAME>USB Composite Device</NAME>
+      <PRODUCTID>0C21</PRODUCTID>
+      <VENDORID>1A2C</VENDORID>
+    </USBDEVICES>
+    <USERS>
+      <DOMAIN>HMD</DOMAIN>
+      <LOGIN>juliano.silva</LOGIN>
+    </USERS>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.18</VERSIONCLIENT>
+    <VIDEOS>
+      <NAME>NVIDIA GeForce4 MX Integrated GPU</NAME>
+    </VIDEOS>
+  </CONTENT>
+  <DEVICEID>D-SEGT-PC-006.hmd.local-2017-12-05-14-26-13</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>

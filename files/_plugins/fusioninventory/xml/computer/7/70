@@ -1,0 +1,3468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2017-12-11 05:19:18</LOGDATE>
+    </ACCESSLOG>
+    <BIOS>
+      <ASSETTAG/>  <BDATE>12/29/2011</BDATE>
+      <BMANUFACTURER>Dell Inc.</BMANUFACTURER>
+      <BVERSION>A14</BVERSION>
+      <MMANUFACTURER>Dell Inc.</MMANUFACTURER>
+      <MMODEL>09KPNV</MMODEL>
+      <MSN>..BR10819242000J.</MSN>
+      <SKUNUMBER/>  <SMANUFACTURER>Dell Inc.</SMANUFACTURER>
+      <SMODEL>Precision WorkStation T3500</SMODEL>
+      <SSN>3DR32V1</SSN>
+    </BIOS>
+    <CONTROLLERS>
+      <CAPTION>SATA Controller [RAID mode]</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>SATA Controller [RAID mode]</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>2822</PRODUCTID>
+      <TYPE>Intel(R) ICH8R/ICH9R/ICH10R/DO SATA RAID Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JI (ICH10 Family) USB UHCI Controller #5</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JI (ICH10 Family) USB UHCI Controller #5</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a38</PRODUCTID>
+      <TYPE>Intel(R) ICH10 Family USB Universal Host Controller - 3A38</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JI (ICH10 Family) USB UHCI Controller #6</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JI (ICH10 Family) USB UHCI Controller #6</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a39</PRODUCTID>
+      <TYPE>Intel(R) ICH10 Family USB Universal Host Controller - 3A39</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JI (ICH10 Family) USB2 EHCI Controller #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JI (ICH10 Family) USB2 EHCI Controller #1</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a3a</PRODUCTID>
+      <TYPE>Intel(R) ICH10 Family USB Enhanced Host Controller - 3A3A</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JI (ICH10 Family) USB2 EHCI Controller #2</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JI (ICH10 Family) USB2 EHCI Controller #2</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a3c</PRODUCTID>
+      <TYPE>Intel(R) ICH10 Family USB Enhanced Host Controller - 3A3C</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JI (ICH10 Family) USB UHCI Controller #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JI (ICH10 Family) USB UHCI Controller #1</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a34</PRODUCTID>
+      <TYPE>Intel(R) ICH10 Family USB Universal Host Controller - 3A34</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JI (ICH10 Family) USB UHCI Controller #2</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JI (ICH10 Family) USB UHCI Controller #2</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a35</PRODUCTID>
+      <TYPE>Intel(R) ICH10 Family USB Universal Host Controller - 3A35</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JI (ICH10 Family) USB UHCI Controller #3</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JI (ICH10 Family) USB UHCI Controller #3</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a36</PRODUCTID>
+      <TYPE>Intel(R) ICH10 Family USB Universal Host Controller - 3A36</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JI (ICH10 Family) USB UHCI Controller #4</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JI (ICH10 Family) USB UHCI Controller #4</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a37</PRODUCTID>
+      <TYPE>Intel(R) ICH10 Family USB Universal Host Controller - 3A37</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>FW322/323 [TrueFire] 1394a Controller</CAPTION>
+      <MANUFACTURER>LSI Corporation</MANUFACTURER>
+      <NAME>FW322/323 [TrueFire] 1394a Controller</NAME>
+      <PCISUBSYSTEMID>1028:5811</PCISUBSYSTEMID>
+      <PRODUCTID>5811</PRODUCTID>
+      <TYPE>LSI 1394 OHCI Compliant Host Controller</TYPE>
+      <VENDORID>11c1</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NetXtreme BCM5761 Gigabit Ethernet PCIe</CAPTION>
+      <MANUFACTURER>Broadcom Corporation</MANUFACTURER>
+      <NAME>NetXtreme BCM5761 Gigabit Ethernet PCIe</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>1681</PRODUCTID>
+      <TYPE>Broadcom NetXtreme 57xx Gigabit Controller</TYPE>
+      <VENDORID>14e4</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>7500/5520/5500/X58 I/O Hub Control Status and RAS Registers</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>7500/5520/5500/X58 I/O Hub Control Status and RAS Registers</NAME>
+      <PCISUBSYSTEMID>0028:0093</PCISUBSYSTEMID>
+      <PRODUCTID>3423</PRODUCTID>
+      <TYPE>Intel(R) 5520/5500/X58 I/O Hub Control Status and RAS Registers - 3423</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801 PCI Bridge</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801 PCI Bridge</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>244e</PRODUCTID>
+      <TYPE>Intel(R) 82801 PCI Bridge - 244E</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>7500/5520/5500/X58 I/O Hub System Management Registers</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>7500/5520/5500/X58 I/O Hub System Management Registers</NAME>
+      <PCISUBSYSTEMID>0028:0093</PCISUBSYSTEMID>
+      <PRODUCTID>342e</PRODUCTID>
+      <TYPE>Intel(R) 5520/5500/X58 I/O Hub System Management Registers - 342E</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JIR (ICH10R) LPC Interface Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JIR (ICH10R) LPC Interface Controller</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a16</PRODUCTID>
+      <TYPE>Intel(R) ICH10R LPC Interface Controller - 3A16</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>5520/5500/X58 I/O Hub to ESI Port</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>5520/5500/X58 I/O Hub to ESI Port</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3405</PRODUCTID>
+      <TYPE>Intel(R) 5520/5500/X58 I/O Hub to ESI Port - 3405</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JI (ICH10 Family) SMBus Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JI (ICH10 Family) SMBus Controller</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a30</PRODUCTID>
+      <TYPE>Intel(R) ICH10 Family SMBus Controller - 3A30</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Juniper XT [FirePro V5800]</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>Juniper XT [FirePro V5800]</NAME>
+      <PCISUBSYSTEMID>13cc:3d20</PCISUBSYSTEMID>
+      <PRODUCTID>68a9</PRODUCTID>
+      <TYPE>Barco MXRT 5450 (WDDM v1.1)</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>5520/5500/X58 I/O Hub PCI Express Root Port 1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>5520/5500/X58 I/O Hub PCI Express Root Port 1</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3408</PRODUCTID>
+      <TYPE>Intel(R) 5520/5500/X58 I/O Hub PCI Express Root Port 1 - 3408</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JI (ICH10 Family) HD Audio Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JI (ICH10 Family) HD Audio Controller</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a3e</PRODUCTID>
+      <TYPE>Controlador de High Definition Audio</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>GF108 High Definition Audio Controller</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>GF108 High Definition Audio Controller</NAME>
+      <PCISUBSYSTEMID>10de:0835</PCISUBSYSTEMID>
+      <PRODUCTID>0bea</PRODUCTID>
+      <TYPE>Controlador de High Definition Audio</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>5520/5500/X58 I/O Hub PCI Express Root Port 3</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>5520/5500/X58 I/O Hub PCI Express Root Port 3</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>340a</PRODUCTID>
+      <TYPE>Intel(R) 5520/5500/X58 I/O Hub PCI Express Root Port 3 - 340A</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JI (ICH10 Family) PCI Express Root Port 1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JI (ICH10 Family) PCI Express Root Port 1</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a40</PRODUCTID>
+      <TYPE>Intel(R) ICH10 Family PCI Express Root Port 1 - 3A40</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>GF108GL [Quadro 600]</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>GF108GL [Quadro 600]</NAME>
+      <PCISUBSYSTEMID>10de:0835</PCISUBSYSTEMID>
+      <PRODUCTID>0df8</PRODUCTID>
+      <TYPE>NVIDIA Quadro 600</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>5520/5500/X58 I/O Hub PCI Express Root Port 7</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>5520/5500/X58 I/O Hub PCI Express Root Port 7</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>340e</PRODUCTID>
+      <TYPE>Intel(R) 5520/5500/X58 I/O Hub PCI Express Root Port 7 - 340E</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801JI (ICH10 Family) PCI Express Root Port 6</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801JI (ICH10 Family) PCI Express Root Port 6</NAME>
+      <PCISUBSYSTEMID>1028:0293</PCISUBSYSTEMID>
+      <PRODUCTID>3a4a</PRODUCTID>
+      <TYPE>Intel(R) ICH10 Family PCI Express Root Port 6 - 3A4A</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>7500/5520/5500/X58 I/O Hub GPIO and Scratch Pad Registers</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>7500/5520/5500/X58 I/O Hub GPIO and Scratch Pad Registers</NAME>
+      <PCISUBSYSTEMID>0028:0093</PCISUBSYSTEMID>
+      <PRODUCTID>3422</PRODUCTID>
+      <TYPE>Intel(R) 5520/5500/X58 I/O Hub GPIO and Scratch Pad Registers - 3422</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>4</CORE>
+      <DESCRIPTION>Intel64 Family 6 Model 26 Stepping 5</DESCRIPTION>
+      <FAMILYNUMBER>6</FAMILYNUMBER>
+      <ID>A5 06 01 00 FF FB EB BF</ID>
+      <MANUFACTURER>Intel</MANUFACTURER>
+      <MODEL>26</MODEL>
+      <NAME>Intel(R) Xeon(R) CPU W3530 @ 2.80GHz</NAME>
+      <SPEED>2800</SPEED>
+      <STEPPING>5</STEPPING>
+      <THREAD>2</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Local Fixed Disk</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>7964</FREE>
+      <LABEL>OSDisk</LABEL>
+      <LETTER>C:</LETTER>
+      <SERIAL>B26B73FC</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>59999</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>OSDisk</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Local Fixed Disk</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>299543</FREE>
+      <LABEL>IMAGENS</LABEL>
+      <LETTER>D:</LETTER>
+      <SERIAL>AC6CF594</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>299999</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>IMAGENS</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>CD-ROM Disc</DESCRIPTION>
+      <LETTER>E:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Compact Disc</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Removable Disk</DESCRIPTION>
+      <LETTER>F:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Removable Disk</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Removable Disk</DESCRIPTION>
+      <LETTER>G:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Removable Disk</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Removable Disk</DESCRIPTION>
+      <LETTER>H:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Removable Disk</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Removable Disk</DESCRIPTION>
+      <LETTER>I:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Removable Disk</TYPE>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>FP_NO_HOST_CHECK</KEY>
+      <VAL>NO</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>AMD64</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>4</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>6</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>Intel64 Family 6 Model 26 Stepping 5, GenuineIntel</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>1a05</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_logfile</KEY>
+      <VAL>C:\BVTBin\Tests\installpackage\csilogfile.log</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_flags</KEY>
+      <VAL>3</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>EFILM_INSTALL_DIR</KEY>
+      <VAL>C:\Program Files (x86)\Merge Healthcare\eFilm\</VAL>
+    </ENVS>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x64-multi-thread</ARCHNAME>
+      <CHASSIS_TYPE>Tower</CHASSIS_TYPE>
+      <CHECKSUM>512</CHECKSUM>
+      <DEFAULTGATEWAY>10.20.1.1</DEFAULTGATEWAY>
+      <DNS>10.20.1.10</DNS>
+      <ETIME>30</ETIME>
+      <IPADDR>10.20.10.13</IPADDR>
+      <LASTLOGGEDUSER>hpsc-laudos02</LASTLOGGEDUSER>
+      <MEMORY>12285</MEMORY>
+      <NAME>D-LAUD-PC-001</NAME>
+      <OSCOMMENTS>Service Pack 1</OSCOMMENTS>
+      <OSNAME>Microsoft Windows 7 Professional </OSNAME>
+      <OSVERSION>6.1.7601</OSVERSION>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>2800</PROCESSORS>
+      <PROCESSORT>Intel(R) Xeon(R) CPU W3530 @ 2.80GHz</PROCESSORT>
+      <USERID>hpsc-laudos02</USERID>
+      <UUID>4C4C4544-0044-5210-8033-B3C04F325631</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINCOMPANY>SSMD</WINCOMPANY>
+      <WINLANG>1046</WINLANG>
+      <WINOWNER>SSMD</WINOWNER>
+      <WINPRODID>00371-868-0000007-85890</WINPRODID>
+      <WINPRODKEY>FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4</WINPRODKEY>
+      <WORKGROUP>hmd.local</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Enhanced (101- or 102-key)</CAPTION>
+      <DESCRIPTION>Dispositivo de Entrada USB</DESCRIPTION>
+      <LAYOUT>00000416</LAYOUT>
+      <NAME>Enhanced (101- or 102-key)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>Dispositivo de Entrada USB</CAPTION>
+      <DESCRIPTION>Dispositivo de Entrada USB</DESCRIPTION>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Dispositivos padrão do sistema)</MANUFACTURER>
+      <NAME>Dispositivo de Entrada USB</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administradores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Convidados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Distributed COM - Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicadores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Leitores de log de eventos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Operadores criptográficos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Operadores de configuração de rede</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Operadores de cópia</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Usuários avançados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Usuários da área de trabalho remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Usuários de log de desempenho</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Usuários de monitor de desempenho</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1001</ID>
+      <NAME>IIS_WPG</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1023</ID>
+      <NAME>Oferecer Auxiliares para Assistência Remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1004</ID>
+      <NAME>SQLServer2005MSSQLServerADHelperUser$D-LAUD-PC-001</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1005</ID>
+      <NAME>SQLServer2005MSSQLUser$D-LAUD-PC-001$SQLEXPRESSEFILM</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1003</ID>
+      <NAME>SQLServer2005SQLBrowserUser$D-LAUD-PC-001</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1002</ID>
+      <NAME>ASPNET</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1010</ID>
+      <NAME>athoso</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1020</ID>
+      <NAME>brunoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1017</ID>
+      <NAME>carlose</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1021</ID>
+      <NAME>douglasb</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1015</ID>
+      <NAME>eduardof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1013</ID>
+      <NAME>ezequiela</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1018</ID>
+      <NAME>geziels</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1016</ID>
+      <NAME>leonardoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1009</ID>
+      <NAME>marcof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1019</ID>
+      <NAME>maxk</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-406363561-1034489009-1266066835-1022</ID>
+      <NAME>victorg</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPACITY>4096</CAPACITY>
+      <CAPTION>DIMM 1</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>80CE000080CE</MANUFACTURER>
+      <MEMORYCORRECTION>Multi-bit ECC</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <SERIALNUMBER>02FF9A77</SERIALNUMBER>
+      <SPEED>1333 MHz</SPEED>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPACITY>4096</CAPACITY>
+      <CAPTION>DIMM 2</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>80CE000080CE</MANUFACTURER>
+      <MEMORYCORRECTION>Multi-bit ECC</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+      <SERIALNUMBER>02FF9A72</SERIALNUMBER>
+      <SPEED>1333 MHz</SPEED>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPACITY>4096</CAPACITY>
+      <CAPTION>DIMM 3</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>80CE000080CE</MANUFACTURER>
+      <MEMORYCORRECTION>Multi-bit ECC</MEMORYCORRECTION>
+      <NUMSLOTS>3</NUMSLOTS>
+      <SERIALNUMBER>02FF9A29</SERIALNUMBER>
+      <SPEED>1333 MHz</SPEED>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>DIMM 4</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>FFFFFFFFFFFF</MANUFACTURER>
+      <MEMORYCORRECTION>Multi-bit ECC</MEMORYCORRECTION>
+      <NUMSLOTS>4</NUMSLOTS>
+      <SERIALNUMBER>FFFFFFFF</SERIALNUMBER>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>DIMM 5</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>FFFFFFFFFFFF</MANUFACTURER>
+      <MEMORYCORRECTION>Multi-bit ECC</MEMORYCORRECTION>
+      <NUMSLOTS>5</NUMSLOTS>
+      <SERIALNUMBER>FFFFFFFF</SERIALNUMBER>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>DIMM 6</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>FFFFFFFFFFFF</MANUFACTURER>
+      <MEMORYCORRECTION>Multi-bit ECC</MEMORYCORRECTION>
+      <NUMSLOTS>6</NUMSLOTS>
+      <SERIALNUMBER>FFFFFFFF</SERIALNUMBER>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <MONITORS>
+      <BASE64>AP///////wAQrFpAVUtYQgMWAQMOJh547u6Vo1RMmSYPUFSlSwBxT4GAAQEBAQEBAQEBAQEBMCoAmFEAKkAwcBMAeC0RAAAeAAAA/wBNRzBKSjIxSkJYS1UKAAAA/ABERUxMIFAxOTBTCiAgAAAA/QA4TB5RDgAKICAgICAgAKQ=</BASE64>
+      <CAPTION>DELL P190S</CAPTION>
+      <DESCRIPTION>3/2012</DESCRIPTION>
+      <MANUFACTURER>Dell Inc.</MANUFACTURER>
+      <SERIAL>MG0JJ21JBXKU</SERIAL>
+    </MONITORS>
+    <MONITORS>
+      <BASE64>AP///////wAIkwB2Hl6rcBMWAQOAKyCd6qWVplRKnCYPUFQhCAABAQEBAQEBAQEBAQEBAQEBPCgAoIAAFmAwIDQAsUURAAAaAAAADwAxODkwMjc4OTQyCiAEAAAA/ABNRE5DLTMxMjEKICAgAAAA/QAUZBnIIQAKICAgICAgAQc=</BASE64>
+      <CAPTION>MDNC-3121</CAPTION>
+      <DESCRIPTION>19/2012</DESCRIPTION>
+      <MANUFACTURER>Barco Display Systems</MANUFACTURER>
+      <SERIAL>70ab5e1e</SERIAL>
+    </MONITORS>
+    <MONITORS>
+      <BASE64>AP///////wAIkwB2Hl6rcBMWAQOAKyCd6qWVplRKnCYPUFQhCAABAQEBAQEBAQEBAQEBAQEBPCgAoIAAFmAwIDQAsUURAAAaAAAADwAxODkwMjc4OTQyCiAEAAAA/ABNRE5DLTMxMjEKICAgAAAA/QAUZBnIIQAKICAgICAgAQc=</BASE64>
+      <CAPTION>MDNC-3121</CAPTION>
+      <DESCRIPTION>19/2012</DESCRIPTION>
+      <MANUFACTURER>Barco Display Systems</MANUFACTURER>
+      <NAME>Barco MDNC-3121</NAME>
+      <SERIAL>70ab5e1e</SERIAL>
+      <TYPE>Barco MDNC-3121</TYPE>
+    </MONITORS>
+    <MONITORS>
+      <BASE64>AP///////wAQrFpAVUtYQgMWAQMOJh547u6Vo1RMmSYPUFSlSwBxT4GAAQEBAQEBAQEBAQEBMCoAmFEAKkAwcBMAeC0RAAAeAAAA/wBNRzBKSjIxSkJYS1UKAAAA/ABERUxMIFAxOTBTCiAgAAAA/QA4TB5RDgAKICAgICAgAKQ=</BASE64>
+      <CAPTION>DELL P190S</CAPTION>
+      <DESCRIPTION>3/2012</DESCRIPTION>
+      <MANUFACTURER>Dell Inc.</MANUFACTURER>
+      <NAME>Monitor Genérico PnP</NAME>
+      <SERIAL>MG0JJ21JBXKU</SERIAL>
+      <TYPE>Monitor Genérico PnP</TYPE>
+    </MONITORS>
+    <NETWORKS>
+      <DESCRIPTION>Broadcom NetXtreme 57xx Gigabit Controller</DESCRIPTION>
+      <IPADDRESS>10.20.10.13</IPADDRESS>
+      <IPGATEWAY>10.20.1.1</IPGATEWAY>
+      <IPMASK>255.255.0.0</IPMASK>
+      <IPSUBNET>10.20.0.0</IPSUBNET>
+      <MACADDR>78:2B:CB:BB:DE:1D</MACADDR>
+      <PCIID>14E4:1681:0293:1028</PCIID>
+      <PNPDEVICEID>PCI\VEN_14E4&amp;DEV_1681&amp;SUBSYS_02931028&amp;REV_10\4&amp;170BFACC&amp;0&amp;00E5</PNPDEVICEID>
+      <SPEED>1000</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Broadcom NetXtreme 57xx Gigabit Controller</DESCRIPTION>
+      <IPADDRESS6>fe80::4c1d:8c66:713b:1a05</IPADDRESS6>
+      <IPMASK6>ffff:ffff:ffff:ffff::</IPMASK6>
+      <IPSUBNET6>fe80::</IPSUBNET6>
+      <MACADDR>78:2B:CB:BB:DE:1D</MACADDR>
+      <PCIID>14E4:1681:0293:1028</PCIID>
+      <PNPDEVICEID>PCI\VEN_14E4&amp;DEV_1681&amp;SUBSYS_02931028&amp;REV_10\4&amp;170BFACC&amp;0&amp;00E5</PNPDEVICEID>
+      <SPEED>1000</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>RAS Async Adapter</DESCRIPTION>
+      <MACADDR>20:41:53:59:4E:FF</MACADDR>
+      <PNPDEVICEID>SW\{EEAB7790-C514-11D1-B42B-00805FC1270E}\ASYNCMAC</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>64-bit</ARCH>
+      <BOOT_TIME>2017-12-10 19:58:50</BOOT_TIME>
+      <DNS_DOMAIN>hmd.local</DNS_DOMAIN>
+      <FQDN>D-LAUD-PC-001.hmd.local</FQDN>
+      <FULL_NAME>Microsoft Windows 7 Professional </FULL_NAME>
+      <INSTALL_DATE>2015-12-23 16:32:21</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>6.1.7601</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK>Service Pack 1</SERVICE_PACK>
+    </OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>DB-25 female</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>PARALLEL</NAME>
+      <TYPE>Parallel Port PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-9 male</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>SERIAL1</NAME>
+      <TYPE>Serial Port 16550A Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>KYBD</NAME>
+      <TYPE>Keyboard Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>MOUSE</NAME>
+      <TYPE>Mouse Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB2</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB3</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB4</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB5</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB6</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB7</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB8</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>RJ-45</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>ENET</NAME>
+      <TYPE>Network Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Jack (headphones)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>MIC</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Jack (headphones)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>LINE-OUT</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Jack (headphones)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>LINE-IN</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Jack (headphones)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>HP-OUT</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Porta de comunicação (COM1)</CAPTION>
+      <DESCRIPTION>Porta de comunicação</DESCRIPTION>
+      <NAME>Porta de comunicação (COM1)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>LPT1</CAPTION>
+      <DESCRIPTION>LPT1</DESCRIPTION>
+      <NAME>LPT1</NAME>
+      <TYPE>Parallel</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>KYBD</CAPTION>
+      <DESCRIPTION>KYBD</DESCRIPTION>
+      <NAME>KYBD</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>MOUSE</CAPTION>
+      <DESCRIPTION>MOUSE</DESCRIPTION>
+      <NAME>MOUSE</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB1</CAPTION>
+      <DESCRIPTION>USB1</DESCRIPTION>
+      <NAME>USB1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB2</CAPTION>
+      <DESCRIPTION>USB2</DESCRIPTION>
+      <NAME>USB2</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB3</CAPTION>
+      <DESCRIPTION>USB3</DESCRIPTION>
+      <NAME>USB3</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB4</CAPTION>
+      <DESCRIPTION>USB4</DESCRIPTION>
+      <NAME>USB4</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB5</CAPTION>
+      <DESCRIPTION>USB5</DESCRIPTION>
+      <NAME>USB5</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB6</CAPTION>
+      <DESCRIPTION>USB6</DESCRIPTION>
+      <NAME>USB6</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB7</CAPTION>
+      <DESCRIPTION>USB7</DESCRIPTION>
+      <NAME>USB7</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB8</CAPTION>
+      <DESCRIPTION>USB8</DESCRIPTION>
+      <NAME>USB8</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>ENET</CAPTION>
+      <DESCRIPTION>ENET</DESCRIPTION>
+      <NAME>ENET</NAME>
+      <TYPE>RJ45</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>MIC</CAPTION>
+      <DESCRIPTION>MIC</DESCRIPTION>
+      <NAME>MIC</NAME>
+      <TYPE>PCI-X</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>LINE-OUT</CAPTION>
+      <DESCRIPTION>LINE-OUT</DESCRIPTION>
+      <NAME>LINE-OUT</NAME>
+      <TYPE>PCI-X</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>LINE-IN</CAPTION>
+      <DESCRIPTION>LINE-IN</DESCRIPTION>
+      <NAME>LINE-IN</NAME>
+      <TYPE>PCI-X</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>HP-OUT</CAPTION>
+      <DESCRIPTION>HP-OUT</DESCRIPTION>
+      <NAME>HP-OUT</NAME>
+      <TYPE>PCI-X</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>Microsoft XPS Document Writer</DRIVER>
+      <NAME>Microsoft XPS Document Writer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>XPSPort:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Kyocera FS-4000DN</DRIVER>
+      <NAME>Kyocera FS-4000DN</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.20.150.28</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Shared Fax Driver</DRIVER>
+      <NAME>Fax</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>SHRFAX:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>200x200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <SLOTS>
+      <DESCRIPTION>x4 PCI Express</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>SLOT1</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x16 PCI Express</DESCRIPTION>
+      <DESIGNATION>2</DESIGNATION>
+      <NAME>SLOT2</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x4 PCI Express</DESCRIPTION>
+      <DESIGNATION>3</DESIGNATION>
+      <NAME>SLOT3</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x16 PCI Express</DESCRIPTION>
+      <DESIGNATION>4</DESIGNATION>
+      <NAME>SLOT4</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>5</DESIGNATION>
+      <NAME>SLOT5</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>6</DESIGNATION>
+      <NAME>SLOT6</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>SLOT1  </DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>SLOT2  </DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>SLOT3  </DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>SLOT4  </DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>SLOT5  </DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>SLOT6  </DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Flash Player ActiveX</GUID>
+      <HELPLINK>http://www.adobe.com/go/flashplayer_support/</HELPLINK>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>Adobe Flash Player 11 ActiveX 64-bit</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>C:\windows\system32\Macromed\Flash\FlashUtil64_11_1_102_ActiveX.exe -maintain activex</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.1.102.62</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Barco Display Driver</GUID>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>Barco MXRT Display Driver (WDDM v1.1)</NAME>
+      <PUBLISHER>Barco</PUBLISHER>
+      <UNINSTALL_STRING>%programfiles%\Barco\UnInstall.exe -uninstall</UNINSTALL_STRING>
+      <VERSION>8.743.BARCO.7.5</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>http://forge.fusioninventory.org/projects/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>19/01/2017</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.3.18 (x64 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.18</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>NVIDIA Display Control Panel</GUID>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>NVIDIA Display Control Panel</NAME>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\NVIDIA Corporation\Uninstall\nvuninst.exe DisplayControlPanel</UNINSTALL_STRING>
+      <VERSION>6.14.12.5993</VERSION>
+      <VERSION_MAJOR>6</VERSION_MAJOR>
+      <VERSION_MINOR>14</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>NVIDIA Drivers</GUID>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>NVIDIA Drivers</NAME>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\NVIDIA Corporation\Uninstall\nvuninst.exe UninstallGUI</UNINSTALL_STRING>
+      <VERSION>1.10.62.40</VERSION>
+      <VERSION_MAJOR>1</VERSION_MAJOR>
+      <VERSION_MINOR>10</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{1AD147D0-BE0E-3D6C-AC11-64F6DC4163F1}</GUID>
+      <INSTALLDATE>23/07/2017</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 4.5</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{1AD147D0-BE0E-3D6C-AC11-64F6DC4163F1}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.microsoft.com/fwlink/?LinkId=249109</URL_INFO_ABOUT>
+      <VERSION>4.5.50709</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{2EDC2FA3-1F34-34E5-9085-588C9EFD1CC6}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{2EDC2FA3-1F34-34E5-9085-588C9EFD1CC6}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{764384C5-BCA9-307C-9AAC-FD443662686A}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{764384C5-BCA9-307C-9AAC-FD443662686A}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkID=91955</HELPLINK>
+      <INSTALLDATE>12/10/2016</INSTALLDATE>
+      <NAME>Microsoft Silverlight</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</UNINSTALL_STRING>
+      <VERSION>5.1.50901.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{9ACF3FDB-C8E6-444C-8C64-13A221F7BFFD}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=52153</HELPLINK>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>Microsoft SQL Server Native Client</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{9ACF3FDB-C8E6-444C-8C64-13A221F7BFFD}</UNINSTALL_STRING>
+      <VERSION>9.00.5000.00</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B636C9B9-A3F2-4DCE-ADCC-72E095018385}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=52155</HELPLINK>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>Microsoft SQL Server VSS Writer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{B636C9B9-A3F2-4DCE-ADCC-72E095018385}</UNINSTALL_STRING>
+      <VERSION>9.00.5000.00</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D4AD39AD-091E-4D33-BB2B-59F6FCB8ADC3}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=81488</HELPLINK>
+      <INSTALLDATE>07/01/2016</INSTALLDATE>
+      <NAME>Microsoft SQL Server Compact 3.5 SP2 x64 ENU</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{D4AD39AD-091E-4D33-BB2B-59F6FCB8ADC3}</UNINSTALL_STRING>
+      <VERSION>3.5.8080.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{FDA4BA56-BCE2-4AA7-82B9-C828F988550D}</GUID>
+      <HELPLINK>http://www.barcomedical.com</HELPLINK>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>MediCal QAWeb Agent</NAME>
+      <PUBLISHER>Barco</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{FDA4BA56-BCE2-4AA7-82B9-C828F988550D}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.barcomedical.com</URL_INFO_ABOUT>
+      <VERSION>1.11.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>13/01/2016</INSTALLDATE>
+      <NAME>Internet Explorer (64bit)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>9.0.8112.16421</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Shockwave Player</GUID>
+      <HELPLINK>http://www.adobe.com/support/shockwave</HELPLINK>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>Adobe Shockwave Player 11.6</NAME>
+      <PUBLISHER>Adobe Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\windows\system32\Adobe\Shockwave 11\uninstaller.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.6.4.634</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>CitrixOnlinePluginFull</GUID>
+      <INSTALLDATE>24/02/2016</INSTALLDATE>
+      <NAME>Citrix online plug-in</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\ProgramData\Citrix\Citrix online plug-in\TrolleyExpress.exe /uninstall /cleanup</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Google Chrome</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Google Chrome</NAME>
+      <PUBLISHER>Google Inc.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Google\Chrome\Application\62.0.3202.94\Installer\setup.exe" --uninstall --system-level --verbose-logging</UNINSTALL_STRING>
+      <VERSION>62.0.3202.94</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>eFilm - Diagnostic Workstation Software</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>InstallShield_{41C19266-47B6-4919-9909-22DA50FB4310}</GUID>
+      <HELPLINK>http://www.merge.com/helpcenter</HELPLINK>
+      <INSTALLDATE>20/11/2017</INSTALLDATE>
+      <NAME>eFilm Workstation</NAME>
+      <PUBLISHER>Merge Healthcare</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\InstallShield Installation Information\{41C19266-47B6-4919-9909-22DA50FB4310}\setup.exe" -runfromtemp -l0x0416 -removeonly</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.microdata.com.br</URL_INFO_ABOUT>
+      <VERSION>3.3.5.7230</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>mDicomViewer64</GUID>
+      <INSTALLDATE>19/04/2017</INSTALLDATE>
+      <NAME>mDicomViewer 64</NAME>
+      <PUBLISHER>Microdata Tecnologia Ltda</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files\Microdata\mDicomViewer\DesinstalarmDicomViewer64.exe"</UNINSTALL_STRING>
+      <VERSION>1.9.38</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft .NET Framework 1.1  (1033)</GUID>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 1.1</NAME>
+      <UNINSTALL_STRING>msiexec.exe /X {CB2F7EDD-9D1F-43C1-90FC-4F52EAE172A1}</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft SQL Server 2005</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=52152</HELPLINK>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>Microsoft SQL Server 2005</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Microsoft SQL Server\90\Setup Bootstrap\ARPWrapper.exe" /Remove</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>OCS Inventory NG Agent</GUID>
+      <INSTALLDATE>24/12/2015</INSTALLDATE>
+      <NAME>OCS Inventory NG Agent 2.1.0.1</NAME>
+      <PUBLISHER>OCS Inventory NG Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\OCS Inventory Agent\uninst.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.ocsinventory-ng.org</URL_INFO_ABOUT>
+      <VERSION>2.1.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>TeamViewer</GUID>
+      <HELPLINK>http://www.teamviewer.com</HELPLINK>
+      <INSTALLDATE>06/12/2017</INSTALLDATE>
+      <NAME>TeamViewer 11</NAME>
+      <PUBLISHER>TeamViewer</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\TeamViewer\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>11.0.89975</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WinRAR archiver</GUID>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>WinRAR 4.11 (32-bit)</NAME>
+      <PUBLISHER>win.rar GmbH</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\WinRAR\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>4.11.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{26A24AE4-039D-4CA4-87B4-2F32180151F0}</GUID>
+      <HELPLINK>http://java.com/help</HELPLINK>
+      <INSTALLDATE>13/11/2017</INSTALLDATE>
+      <NAME>Java 8 Update 151</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{26A24AE4-039D-4CA4-87B4-2F32180151F0}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://java.com</URL_INFO_ABOUT>
+      <VERSION>8.0.1510.12</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2750B389-A2D2-4953-99CA-27C1F2A8E6FD}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=52152</HELPLINK>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>Microsoft SQL Server 2005 Tools Express Edition</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{2750B389-A2D2-4953-99CA-27C1F2A8E6FD}</UNINSTALL_STRING>
+      <VERSION>9.4.5000.00</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2AFFFDD7-ED85-4A90-8C52-5DA9EBDC9B8F}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=52152</HELPLINK>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>Microsoft SQL Server 2005 Express Edition (SQLEXPRESSEFILM)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{2AFFFDD7-ED85-4A90-8C52-5DA9EBDC9B8F}</UNINSTALL_STRING>
+      <VERSION>9.4.5000.00</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3A9FC03D-C685-4831-94CF-4EDFD3749497}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=81488</HELPLINK>
+      <INSTALLDATE>07/01/2016</INSTALLDATE>
+      <NAME>Microsoft SQL Server Compact 3.5 SP2 ENU</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{3A9FC03D-C685-4831-94CF-4EDFD3749497}</UNINSTALL_STRING>
+      <VERSION>3.5.8080.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3D6AD258-61EA-35F5-812C-B7A02152996E}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{3D6AD258-61EA-35F5-812C-B7A02152996E}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3E6CAE76-6409-40D8-9EBA-B167D00C6C65}_is1</GUID>
+      <HELPLINK>www.microdata.com.br</HELPLINK>
+      <INSTALLDATE>13/11/2017</INSTALLDATE>
+      <NAME>mIntegrador versão 2014.10.1.1</NAME>
+      <PUBLISHER>Microdata Tecnologia</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Microdata\mIntegrador\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>www.microdata.com.br</URL_INFO_ABOUT>
+      <VERSION>2014.10.1.1</VERSION>
+      <VERSION_MAJOR>2014</VERSION_MAJOR>
+      <VERSION_MINOR>10</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4A03706F-666A-4037-7777-5F2748764D10}</GUID>
+      <INSTALLDATE>13/11/2017</INSTALLDATE>
+      <NAME>Java Auto Updater</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <VERSION>2.8.151.12</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{50ACF4F1-D38A-4DCE-8147-0F574CDEF45B}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>24/02/2016</INSTALLDATE>
+      <NAME>Citrix online plug-in (USB)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{50ACF4F1-D38A-4DCE-8147-0F574CDEF45B}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{53F5C3EE-05ED-4830-994B-50B2F0D50FCE}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=52154</HELPLINK>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>Microsoft SQL Server Setup Support Files (English)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{53F5C3EE-05ED-4830-994B-50B2F0D50FCE}</UNINSTALL_STRING>
+      <VERSION>9.00.5000.00</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</GUID>
+      <INSTALLDATE>19/11/2017</INSTALLDATE>
+      <NAME>Google Update Helper</NAME>
+      <PUBLISHER>Google Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</UNINSTALL_STRING>
+      <VERSION>1.3.33.7</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Adobe Shockwave Player Merge Module</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{612C34C7-5E90-47D8-9B5C-0F717DD82726}</GUID>
+      <HELPLINK>http://www.adobe.com/support</HELPLINK>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>swMSM</NAME>
+      <PUBLISHER>Adobe Systems, Inc</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{612C34C7-5E90-47D8-9B5C-0F717DD82726}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.0.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7681A1A9-D865-4DC0-A319-41A49F5E78DB}</GUID>
+      <INSTALLDATE>24/02/2016</INSTALLDATE>
+      <NAME>Citrix online plug-in (PNA)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{7681A1A9-D865-4DC0-A319-41A49F5E78DB}</UNINSTALL_STRING>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2737083.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2737083</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2737083</HELPLINK>
+      <INSTALLDATE>21/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2737083)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {00909A54-CC11-3F00-9279-3CE090432A91}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2742613.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2742613</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2742613</HELPLINK>
+      <INSTALLDATE>21/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2742613)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {36E5C79E-06D3-32C3-9251-D284B9F3F7E7}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2840642.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2840642v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2840642</HELPLINK>
+      <INSTALLDATE>21/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2840642v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {4F658047-A12E-38D9-8EA9-D941E4A84B7D}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2861208.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2861208</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2861208</HELPLINK>
+      <INSTALLDATE>21/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2861208)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {6AF12FE8-C359-3748-BDF6-B437C0A42154}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2894854v2.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2894854v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2894854v2</HELPLINK>
+      <INSTALLDATE>21/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2894854v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {F7CBA1C7-E5B5-39E9-9631-459E1FE08C45}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2898864.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2898864</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2898864</HELPLINK>
+      <INSTALLDATE>21/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2898864)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {FD9140E9-6192-38CC-BCF6-4869B2AEBBCD}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2901118.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2901118</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2901118</HELPLINK>
+      <INSTALLDATE>21/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2901118)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {D052AECC-7A45-3B76-B62C-F5093799DF8D}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{95716cce-fc71-413f-8ad5-56c2892d4b3a}</GUID>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{95716cce-fc71-413f-8ad5-56c2892d4b3a}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.60610.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{96F2FC1B-8404-4C07-A789-72601BA2E5F0}</GUID>
+      <INSTALLDATE>11/07/2017</INSTALLDATE>
+      <NAME>Philips Device Control Center</NAME>
+      <PUBLISHER>Speech Processing Solutions GmbH</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{96F2FC1B-8404-4C07-A789-72601BA2E5F0}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.philips.com/dictation</URL_INFO_ABOUT>
+      <VERSION>3.5.350.05</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{a1909659-0a08-4554-8af1-2175904903a1}</GUID>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{a1909659-0a08-4554-8af1-2175904903a1}\vcredist_x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.60610.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A2884AF3-F105-4CB0-8DC9-F71AC1D196A2}_is1</GUID>
+      <HELPLINK>http://www.optixpacs.com.br/</HELPLINK>
+      <INSTALLDATE>21/11/2017</INSTALLDATE>
+      <NAME>Optix Agent versão 1.0</NAME>
+      <PUBLISHER>Optix Imagens Médicas</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Optix\Optix Agent\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.optixpacs.com.br/</URL_INFO_ABOUT>
+      <VERSION>1.0</VERSION>
+      <VERSION_MAJOR>1</VERSION_MAJOR>
+      <VERSION_MINOR>0</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-0804-1033-1959-001824161310}</GUID>
+      <HELPLINK>http://www.adobe.com/support/main.html</HELPLINK>
+      <INSTALLDATE>06/01/2016</INSTALLDATE>
+      <NAME>Adobe Refresh Manager</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-0804-1033-1959-001824161310}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.8.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>   </COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-7AD7-1033-7B44-AA1000000001}</GUID>
+      <HELPLINK>http://www.adobe.com/support/main.html</HELPLINK>
+      <INSTALLDATE>12/01/2016</INSTALLDATE>
+      <NAME>Adobe Reader X (10.1.16)</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-7AD7-1033-7B44-AA1000000001}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>10.1.16</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B124E6D3-91B4-4E3C-AD03-BA959B223537}</GUID>
+      <INSTALLDATE>24/02/2016</INSTALLDATE>
+      <NAME>Citrix online plug-in (Web)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{B124E6D3-91B4-4E3C-AD03-BA959B223537}</UNINSTALL_STRING>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{BAC520D7-CE81-411D-A3A2-8D9C7F2DA3EF}</GUID>
+      <INSTALLDATE>24/02/2016</INSTALLDATE>
+      <NAME>Citrix online plug-in (SSON)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{BAC520D7-CE81-411D-A3A2-8D9C7F2DA3EF}</UNINSTALL_STRING>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CB2F7EDD-9D1F-43C1-90FC-4F52EAE172A1}</GUID>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 1.1</NAME>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{CB2F7EDD-9D1F-43C1-90FC-4F52EAE172A1}</UNINSTALL_STRING>
+      <VERSION>1.1.4322</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D899C197-F8C1-4773-9EC4-6C1FBADB9B29}</GUID>
+      <INSTALLDATE>24/02/2016</INSTALLDATE>
+      <NAME>Citrix online plug-in (HDX)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{D899C197-F8C1-4773-9EC4-6C1FBADB9B29}</UNINSTALL_STRING>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D8D4ED7E-954C-449D-B21D-6F97036DF0E9}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>24/02/2016</INSTALLDATE>
+      <NAME>Citrix online plug-in (DV)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{D8D4ED7E-954C-449D-B21D-6F97036DF0E9}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.0.3.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{E7D4E834-93EB-351F-B8FB-82CDAE623003}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{E7D4E834-93EB-351F-B8FB-82CDAE623003}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>13/01/2016</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>9.0.8112.16421</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>KB982861</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2592687</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2479943</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2488113</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2491683</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2505438</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2506014</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2506212</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2506928</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2509553</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2511250</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2522422</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Hotfix</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>KB2534111</NAME>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2545698</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2547666</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2552343</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2560656</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2563227</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2564958</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2574819</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2579686</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2603229</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2604115</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2620704</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2621440</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2631813</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2640148</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2654428</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2660075</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2667402</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2676562</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2685811</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2685813</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2690533</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2698365</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2705219</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2712808</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2719857</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2726535</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2727528</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2729094</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2732059</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>28/12/2015</INSTALLDATE>
+      <NAME>KB2732487</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2736422</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2742599</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2750841</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2761217</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2763523</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2770660</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2773072</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2786081</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2791765</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2799926</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2800095</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2807986</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2808679</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2813430</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2834140</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2840631</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2843630</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2847927</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2852386</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2853952</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2861698</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2862152</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2862330</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2862335</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2862973</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2864202</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2868038</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2868116</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2871997</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2884256</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2891804</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2892074</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2893294</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2893519</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2894844</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2900986</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2908783</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2911501</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2918077</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>28/01/2016</INSTALLDATE>
+      <NAME>KB2919469</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2929733</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2931356</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2937610</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2943357</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>06/10/2016</INSTALLDATE>
+      <NAME>KB2952664</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2966583</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2968294</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>28/12/2015</INSTALLDATE>
+      <NAME>KB2970228</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2972100</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2972211</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2973112</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2973201</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2973351</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2977292</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2978120</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2978742</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2984972</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>28/12/2015</INSTALLDATE>
+      <NAME>KB2984976</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2985461</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2991963</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2992611</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB2999226</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>28/01/2016</INSTALLDATE>
+      <NAME>KB3000483</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3003743</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>28/01/2016</INSTALLDATE>
+      <NAME>KB3004361</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3004375</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3006121</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Hotfix</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3006137</NAME>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3010788</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3011780</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3013531</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3020369</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3020370</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>28/12/2015</INSTALLDATE>
+      <NAME>KB3020387</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3021674</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3021917</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3022777</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3023215</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3030377</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3032655</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3035126</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3037574</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3042553</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3045685</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3046017</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3046269</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3054476</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3055642</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3059317</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3060716</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>28/01/2016</INSTALLDATE>
+      <NAME>KB3067903</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3068708</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3071756</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2016</INSTALLDATE>
+      <NAME>KB3072305</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3074543</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>28/12/2015</INSTALLDATE>
+      <NAME>KB3075222</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3078601</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3078667</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3080079</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3080149</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3084135</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3086255</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3092601</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3092627</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3093513</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3097989</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3101722</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>28/01/2016</INSTALLDATE>
+      <NAME>KB3102429</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3107998</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3108371</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3108381</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>13/01/2016</INSTALLDATE>
+      <NAME>KB3108664</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3108670</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3109103</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>13/01/2016</INSTALLDATE>
+      <NAME>KB3109560</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>13/01/2016</INSTALLDATE>
+      <NAME>KB3110329</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>25/12/2015</INSTALLDATE>
+      <NAME>KB3112343</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>20/02/2016</INSTALLDATE>
+      <NAME>KB3118401</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>20/02/2016</INSTALLDATE>
+      <NAME>KB3121255</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>13/01/2016</INSTALLDATE>
+      <NAME>KB3121461</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2016</INSTALLDATE>
+      <NAME>KB3122648</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>13/01/2016</INSTALLDATE>
+      <NAME>KB3123479</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>13/01/2016</INSTALLDATE>
+      <NAME>KB3124275</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2016</INSTALLDATE>
+      <NAME>KB3126446</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2016</INSTALLDATE>
+      <NAME>KB3126587</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/02/2016</INSTALLDATE>
+      <NAME>KB3127220</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>18/03/2016</INSTALLDATE>
+      <NAME>KB3133977</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>03/02/2016</INSTALLDATE>
+      <NAME>KB3135445</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/03/2016</INSTALLDATE>
+      <NAME>KB3135983</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>18/03/2016</INSTALLDATE>
+      <NAME>KB3137061</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>20/04/2016</INSTALLDATE>
+      <NAME>KB3138378</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>02/03/2016</INSTALLDATE>
+      <NAME>KB3138612</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>18/03/2016</INSTALLDATE>
+      <NAME>KB3138901</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/03/2016</INSTALLDATE>
+      <NAME>KB3138910</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/03/2016</INSTALLDATE>
+      <NAME>KB3139398</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/03/2016</INSTALLDATE>
+      <NAME>KB3139914</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>21/04/2016</INSTALLDATE>
+      <NAME>KB3140245</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>12/05/2016</INSTALLDATE>
+      <NAME>KB3142024</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>14/04/2016</INSTALLDATE>
+      <NAME>KB3142042</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>14/04/2016</INSTALLDATE>
+      <NAME>KB3145739</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>14/04/2016</INSTALLDATE>
+      <NAME>KB3146706</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>14/04/2016</INSTALLDATE>
+      <NAME>KB3146963</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>14/04/2016</INSTALLDATE>
+      <NAME>KB3147071</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>14/04/2016</INSTALLDATE>
+      <NAME>KB3149090</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>12/05/2016</INSTALLDATE>
+      <NAME>KB3150220</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>12/05/2016</INSTALLDATE>
+      <NAME>KB3150513</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>12/05/2016</INSTALLDATE>
+      <NAME>KB3156016</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>12/05/2016</INSTALLDATE>
+      <NAME>KB3156017</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>12/05/2016</INSTALLDATE>
+      <NAME>KB3156019</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>29/07/2016</INSTALLDATE>
+      <NAME>KB3161102</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/06/2016</INSTALLDATE>
+      <NAME>KB3161608</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/06/2016</INSTALLDATE>
+      <NAME>KB3161949</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/06/2016</INSTALLDATE>
+      <NAME>KB3161958</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/06/2016</INSTALLDATE>
+      <NAME>KB3164035</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>15/09/2016</INSTALLDATE>
+      <NAME>KB3172605</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>15/09/2016</INSTALLDATE>
+      <NAME>KB3177186</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>24/09/2016</INSTALLDATE>
+      <NAME>KB3177467</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>21/08/2016</INSTALLDATE>
+      <NAME>KB3179573</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>24/09/2016</INSTALLDATE>
+      <NAME>KB3181988</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>24/09/2016</INSTALLDATE>
+      <NAME>KB3184143</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>15/09/2016</INSTALLDATE>
+      <NAME>KB3185911</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>13/10/2016</INSTALLDATE>
+      <NAME>KB3192391</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>17/11/2016</INSTALLDATE>
+      <NAME>KB3195789</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>23/12/2015</INSTALLDATE>
+      <NAME>KB958488</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>21/11/2010</INSTALLDATE>
+      <NAME>KB976902</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>28/12/2015</INSTALLDATE>
+      <NAME>KB982018</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>17/11/2016</INSTALLDATE>
+      <NAME>KB3197869</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOUNDS>
+      <CAPTION>SoundMAX Integrated Digital High Definition Audio</CAPTION>
+      <DESCRIPTION>SoundMAX Integrated Digital High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>Analog Devices</MANUFACTURER>
+      <NAME>SoundMAX Integrated Digital High Definition Audio</NAME>
+    </SOUNDS>
+    <SOUNDS>
+      <CAPTION>NVIDIA High Definition Audio</CAPTION>
+      <DESCRIPTION>NVIDIA High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>NVIDIA</MANUFACTURER>
+      <NAME>NVIDIA High Definition Audio</NAME>
+    </SOUNDS>
+    <SOUNDS>
+      <CAPTION>NVIDIA High Definition Audio</CAPTION>
+      <DESCRIPTION>NVIDIA High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>NVIDIA</MANUFACTURER>
+      <NAME>NVIDIA High Definition Audio</NAME>
+    </SOUNDS>
+    <SOUNDS>
+      <CAPTION>Dispositivo de áudio USB</CAPTION>
+      <DESCRIPTION>Dispositivo de áudio USB</DESCRIPTION>
+      <MANUFACTURER>(Áudio USB genérico)</MANUFACTURER>
+      <NAME>Dispositivo de áudio USB</NAME>
+    </SOUNDS>
+    <SOUNDS>
+      <CAPTION>NVIDIA High Definition Audio</CAPTION>
+      <DESCRIPTION>NVIDIA High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>NVIDIA</MANUFACTURER>
+      <NAME>NVIDIA High Definition Audio</NAME>
+    </SOUNDS>
+    <SOUNDS>
+      <CAPTION>NVIDIA High Definition Audio</CAPTION>
+      <DESCRIPTION>NVIDIA High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>NVIDIA</MANUFACTURER>
+      <NAME>NVIDIA High Definition Audio</NAME>
+    </SOUNDS>
+    <STORAGES>
+      <DESCRIPTION>Unidade de disco</DESCRIPTION>
+      <DISKSIZE>1000204</DISKSIZE>
+      <FIRMWARE>JC4A</FIRMWARE>
+      <INTERFACE>SCSI</INTERFACE>
+      <MANUFACTURER>(Unidades de disco padrão)</MANUFACTURER>
+      <MODEL>ST31000524AS</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>6VPJLWME</SERIAL>
+      <SERIALNUMBER>6VPJLWME</SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <STORAGES>
+      <DESCRIPTION>Unidade de disco</DESCRIPTION>
+      <FIRMWARE>1.01</FIRMWARE>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Unidades de disco padrão)</MANUFACTURER>
+      <MODEL>Generic- Compact Flash USB Device</MODEL>
+      <NAME>\\.\PHYSICALDRIVE2</NAME>
+      <SERIALNUMBER/></STORAGES>
+    <STORAGES>
+      <DESCRIPTION>Unidade de disco</DESCRIPTION>
+      <FIRMWARE>1.03</FIRMWARE>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Unidades de disco padrão)</MANUFACTURER>
+      <MODEL>Generic- MS/MS-Pro USB Device</MODEL>
+      <NAME>\\.\PHYSICALDRIVE4</NAME>
+      <SERIALNUMBER/></STORAGES>
+    <STORAGES>
+      <DESCRIPTION>Unidade de disco</DESCRIPTION>
+      <FIRMWARE>1.00</FIRMWARE>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Unidades de disco padrão)</MANUFACTURER>
+      <MODEL>Generic- SD/MMC USB Device</MODEL>
+      <NAME>\\.\PHYSICALDRIVE1</NAME>
+      <SERIALNUMBER/></STORAGES>
+    <STORAGES>
+      <DESCRIPTION>Unidade de disco</DESCRIPTION>
+      <FIRMWARE>1.02</FIRMWARE>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Unidades de disco padrão)</MANUFACTURER>
+      <MODEL>Generic- SM/xD Picture USB Device</MODEL>
+      <NAME>\\.\PHYSICALDRIVE3</NAME>
+      <SERIALNUMBER/></STORAGES>
+    <STORAGES>
+      <DESCRIPTION>CD-ROM Drive</DESCRIPTION>
+      <MANUFACTURER>(Unidades de CD-ROM padrão)</MANUFACTURER>
+      <MODEL>HL-DT-ST DVD+-RW GH70N</MODEL>
+      <NAME>HL-DT-ST DVD+-RW GH70N</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>1</SCSI_UNID>
+      <SERIAL>1KCU431J59 6        </SERIAL>
+      <SERIALNUMBER>1KCU431J59 6        </SERIALNUMBER>
+      <TYPE>DVD Writer</TYPE>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>M105 Optical Mouse</CAPTION>
+      <MANUFACTURER>Logitech, Inc.</MANUFACTURER>
+      <NAME>M105 Optical Mouse</NAME>
+      <PRODUCTID>C077</PRODUCTID>
+      <VENDORID>046D</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>Keyboard</CAPTION>
+      <MANUFACTURER>Monterey International Corp.</MANUFACTURER>
+      <NAME>Keyboard</NAME>
+      <PRODUCTID>3107</PRODUCTID>
+      <VENDORID>0566</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>USB Composite Device</CAPTION>
+      <MANUFACTURER>Philips Speech Processing</MANUFACTURER>
+      <NAME>USB Composite Device</NAME>
+      <PRODUCTID>0C1C</PRODUCTID>
+      <VENDORID>0911</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>Flash Card Reader/Writer</CAPTION>
+      <MANUFACTURER>Alcor Micro Corp.</MANUFACTURER>
+      <NAME>Flash Card Reader/Writer</NAME>
+      <PRODUCTID>6362</PRODUCTID>
+      <SERIAL>058F63626420</SERIAL>
+      <VENDORID>058F</VENDORID>
+    </USBDEVICES>
+    <USERS>
+      <DOMAIN>HMD</DOMAIN>
+      <LOGIN>hpsc-laudos02</LOGIN>
+    </USERS>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.18</VERSIONCLIENT>
+    <VIDEOS>
+      <NAME>Barco MXRT 5450 (WDDM v1.1)</NAME>
+      <RESOLUTION>2048x1536</RESOLUTION>
+    </VIDEOS>
+    <VIDEOS>
+      <CHIPSET>Quadro 600</CHIPSET>
+      <NAME>NVIDIA Quadro 600</NAME>
+      <RESOLUTION>1280x1024</RESOLUTION>
+    </VIDEOS>
+  </CONTENT>
+  <DEVICEID>D-LAUD-PC-001.hmd.local-2017-01-19-12-25-54</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>

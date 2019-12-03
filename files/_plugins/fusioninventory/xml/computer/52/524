@@ -1,0 +1,2903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2017-12-11 02:18:55</LOGDATE>
+    </ACCESSLOG>
+    <BATTERIES>
+      <CHEMISTRY>Nickel Cadmium</CHEMISTRY>
+      <DATE>08/11/1997</DATE>
+      <MANUFACTURER>Nikon Battery</MANUFACTURER>
+      <NAME>Nikon Ultra Plus</NAME>
+      <SERIAL>NI00123</SERIAL>
+    </BATTERIES>
+    <BIOS>
+      <ASSETTAG/>  <BDATE>08/18/2010</BDATE>
+      <BMANUFACTURER>Desenvolvida para Positivo Informatica SA</BMANUFACTURER>
+      <BVERSION>0302</BVERSION>
+      <MMANUFACTURER>Positivo Informatica SA</MMANUFACTURER>
+      <MMODEL>POS-PIG41BO</MMODEL>
+      <MSN>1A3861Y72</MSN>
+      <SKUNUMBER/>  <SMANUFACTURER>POSITIVO</SMANUFACTURER>
+      <SMODEL>POS-PIG41BO</SMODEL>
+      <SSN>1A3861Y72</SSN>
+    </BIOS>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x86-multi-thread-64int</ARCHNAME>
+      <CHASSIS_TYPE>Desktop</CHASSIS_TYPE>
+      <ETIME>1</ETIME>
+      <NAME>D-LABO-PC-007</NAME>
+      <UUID>00020003-0004-0005-0006-000700080009</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINPRODKEY>RVKTB-XM3R6-TGCTX-837GX-T92WM</WINPRODKEY>
+    </HARDWARE>
+    <MEMORIES>
+      <CAPACITY>2048</CAPACITY>
+      <CAPTION>DIMM0</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <SERIALNUMBER>SerNum00</SERIALNUMBER>
+      <TYPE>DDR2</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>DIMM2</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+      <SERIALNUMBER>SerNum01</SERIALNUMBER>
+    </MEMORIES>
+    <OPERATINGSYSTEM>
+      <ARCH>32-bit</ARCH>
+      <BOOT_TIME/>  <DNS_DOMAIN>hmd.local</DNS_DOMAIN>
+      <FQDN>D-LABO-PC-007.hmd.local</FQDN>
+      <FULL_NAME/>  <INSTALL_DATE>2013-06-13 17:27:33</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION/>  <NAME>Windows</NAME>
+      <SERVICE_PACK/></OPERATINGSYSTEM>
+    <SLOTS>
+      <DESCRIPTION>32-bit AGP 4x</DESCRIPTION>
+      <DESIGNATION>0</DESIGNATION>
+      <NAME>AGP</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>PCI1</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Branding</GUID>
+      <INSTALLDATE>13/06/2013</INSTALLDATE>
+      <NAME>Branding</NAME>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>CitrixOnlinePluginFull</GUID>
+      <INSTALLDATE>17/06/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\Documents and Settings\All Users\Dados de aplicativos\Citrix\Citrix online plug-in\TrolleyExpress.exe /uninstall /cleanup</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>http://forge.fusioninventory.org/projects/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>28/01/2017</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.3.18 (x86 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Arquivos de programas\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.18</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>GestAm_is1</GUID>
+      <HELPLINK>http://www.vfr.com.br/</HELPLINK>
+      <INSTALLDATE>27/09/2017</INSTALLDATE>
+      <NAME>GestAm</NAME>
+      <PUBLISHER>VFR Sistemas</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Arquivos de programas\VFR Sistemas\GestAm-NOVO\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.vfr.com.br/</URL_INFO_ABOUT>
+      <VERSION>3.5.1</VERSION>
+      <VERSION_MAJOR>3</VERSION_MAJOR>
+      <VERSION_MINOR>5</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>HTPE3</GUID>
+      <INSTALLDATE>08/11/2013</INSTALLDATE>
+      <NAME>HyperTerminal Private Edition v7.0</NAME>
+      <UNINSTALL_STRING>C:\WINDOWS\system32\Unwise32.exe /Z C:\ARQUIV~1\HYPERT~1\Install.log</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>HyperTerminal Private Edition</GUID>
+      <HELPLINK>C:\WINDOWS\Help\HypertrmPE.hlp</HELPLINK>
+      <INSTALLDATE>08/11/2013</INSTALLDATE>
+      <NAME>HyperTerminal Private Edition</NAME>
+      <PUBLISHER>Hilgraeve, Inc.</PUBLISHER>
+      <URL_INFO_ABOUT>http://www.hilgraeve.com</URL_INFO_ABOUT>
+      <VERSION>7.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>IDNMitigationAPIs</GUID>
+      <INSTALLDATE>19/06/2013</INSTALLDATE>
+      <NAME>IDNMitigationAPIs</NAME>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>ie7</GUID>
+      <INSTALLDATE>19/06/2013</INSTALLDATE>
+      <NAME>ie7</NAME>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>ie8</GUID>
+      <HELPLINK>http://www.microsoft.com/ie</HELPLINK>
+      <INSTALLDATE>19/06/2013</INSTALLDATE>
+      <NAME>Windows Internet Explorer 8</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.microsoft.com/ie</URL_INFO_ABOUT>
+      <VERSION>20090308.140743</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2115168</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2115168</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2115168)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2115168$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2229593</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2229593</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2229593)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2229593$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2264107</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2264107</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows XP (KB2264107)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2264107$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2296011</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2296011</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2296011)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2296011$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2345886</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2345886</HELPLINK>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows XP (KB2345886)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2345886$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2347290</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2347290</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2347290)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2347290$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2360937</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2360937</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2360937)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2360937$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2378111_WM9</GUID>
+      <HELPLINK>http://support.microsoft.com/?kbid=2378111</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para o Windows Media Player (KB2378111)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2378111_WM9$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2387149</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2387149</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2387149)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2387149$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2393802</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2393802</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2393802)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2393802$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2419632</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2419632</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2419632)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2419632$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2423089</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2423089</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2423089)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2423089$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2440591</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2440591</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2440591)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2440591$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2443105</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2443105</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2443105)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2443105$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2478960</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2478960</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2478960)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2478960$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2478971</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2478971</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2478971)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2478971$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2479943</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2479943</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2479943)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2479943$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2483185</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2483185</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2483185)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2483185$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2485663</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2485663</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2485663)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2485663$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2491683</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2491683</HELPLINK>
+      <INSTALLDATE>17/12/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2491683)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2491683$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2492386</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2492386</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows XP (KB2492386)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2492386$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2506212</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2506212</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2506212)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2506212$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2507938</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2507938</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2507938)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2507938$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2508429</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2508429</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2508429)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2508429$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2509553</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2509553</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2509553)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2509553$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2510531-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2510531</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows Internet Explorer 8 (KB2510531)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2510531-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2535512</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2535512</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2535512)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2535512$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2536276-v2</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2536276</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2536276-v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2536276-v2$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2544893-v2</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2544893</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2544893-v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2544893-v2$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2564958</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2564958</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Microsoft Windows (KB2564958)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>%HOTFIX%</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2564958$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2566454</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2566454</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2566454)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2566454$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2570947</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2570947</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2570947)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2570947$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2584146</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2584146</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2584146)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2584146$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2585542</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2585542</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2585542)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2585542$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2592799</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2592799</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2592799)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2592799$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2598479</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2598479</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2598479)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2598479$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2598845-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2598845</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows Internet Explorer 8 (KB2598845)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2598845-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2603381</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2603381</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2603381)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2603381$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2618451</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2618451</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2618451)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2618451$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2619339</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2619339</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2619339)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2619339$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2620712</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2620712</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2620712)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2620712$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2624667</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2624667</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2624667)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2624667$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2631813</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2631813</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2631813)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2631813$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2632503-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2632503</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows Internet Explorer 8 (KB2632503)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2632503-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2653956</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2653956</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2653956)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2653956$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2655992</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2655992</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2655992)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2655992$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2659262</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2659262</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2659262)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2659262$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2661637</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2661637</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2661637)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2661637$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2676562</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2676562</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2676562)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2676562$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2686509</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2686509</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2686509)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2686509$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2691442</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2691442</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2691442)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2691442$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2698365</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2698365</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2698365)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2698365$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2705219-v2</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2705219</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2705219-v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2705219-v2$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2712808</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2712808</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2712808)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2712808$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2719985</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2719985</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2719985)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2719985$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2723135-v2</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2723135</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2723135-v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2723135-v2$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2727528</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2727528</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2727528)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2727528$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2749655</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2749655</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows XP (KB2749655)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2749655$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2753842-v2</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2753842</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2753842-v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2753842-v2$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2757638</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2757638</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2757638)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2757638$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2758857</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2758857</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2758857)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2758857$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2770660</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2770660</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2770660)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2770660$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2780091</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2780091</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2780091)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2780091$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2802968</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2802968</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2802968)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2802968$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2807986</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2807986</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2807986)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2807986$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2808679</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2808679</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows XP (KB2808679)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2808679$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2813345</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2813345</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2813345)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2813345$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2813347-v2</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2813347</HELPLINK>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows XP (KB2813347-v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2813347-v2$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2820197</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2820197</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2820197)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2820197$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2820917</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2820917</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2820917)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2820917$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2834886</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2834886</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2834886)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2834886$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2834904-v2_WM11</GUID>
+      <HELPLINK>http://support.microsoft.com/?kbid=2834904-v2</HELPLINK>
+      <INSTALLDATE>20/09/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para o Windows Media Player (KB2834904-v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2834904-v2_WM11$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2834904_WM11</GUID>
+      <HELPLINK>http://support.microsoft.com/?kbid=2834904</HELPLINK>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para o Windows Media Player (KB2834904)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2834904_WM11$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2839229</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2839229</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2839229)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2839229$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2845187</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2845187</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2845187)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2845187$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2846071-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2846071</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows Internet Explorer 8 (KB2846071)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2846071-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2847311</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2847311</HELPLINK>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2847311)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2847311$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2849470</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2849470</HELPLINK>
+      <INSTALLDATE>14/08/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2849470)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2849470$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2850851</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2850851</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2850851)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2850851$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2850869</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2850869</HELPLINK>
+      <INSTALLDATE>14/08/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2850869)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2850869$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2859537</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2859537</HELPLINK>
+      <INSTALLDATE>14/08/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2859537)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2859537$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2862152</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2862152</HELPLINK>
+      <INSTALLDATE>14/11/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2862152)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2862152$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2862330</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2862330</HELPLINK>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2862330)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2862330$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2862335</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2862335</HELPLINK>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2862335)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2862335$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2862772-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2862772</HELPLINK>
+      <INSTALLDATE>14/08/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows Internet Explorer 8 (KB2862772)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2862772-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2863058</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2863058</HELPLINK>
+      <INSTALLDATE>28/09/2013</INSTALLDATE>
+      <NAME>Atualização para Windows XP (KB2863058)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2863058$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2864063</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2864063</HELPLINK>
+      <INSTALLDATE>20/09/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2864063)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2864063$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2868038</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2868038</HELPLINK>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2868038)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2868038$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2868626</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2868626</HELPLINK>
+      <INSTALLDATE>14/11/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2868626)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2868626$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2870699-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2870699</HELPLINK>
+      <INSTALLDATE>20/09/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows Internet Explorer 8 (KB2870699)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2870699-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2876217</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2876217</HELPLINK>
+      <INSTALLDATE>20/09/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2876217)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2876217$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2876315</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2876315</HELPLINK>
+      <INSTALLDATE>20/09/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2876315)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2876315$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2876331</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2876331</HELPLINK>
+      <INSTALLDATE>14/11/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2876331)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2876331$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2879017-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2879017</HELPLINK>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows Internet Explorer 8 (KB2879017)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2879017-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2883150</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2883150</HELPLINK>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2883150)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2883150$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2888505-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2888505</HELPLINK>
+      <INSTALLDATE>14/11/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows Internet Explorer 8 (KB2888505)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2888505-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2892075</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2892075</HELPLINK>
+      <INSTALLDATE>11/12/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2892075)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2892075$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2893294</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2893294</HELPLINK>
+      <INSTALLDATE>11/12/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2893294)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2893294$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2893984</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2893984</HELPLINK>
+      <INSTALLDATE>11/12/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2893984)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2893984$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2898715</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2898715</HELPLINK>
+      <INSTALLDATE>11/12/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2898715)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2898715$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2898785-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2898785</HELPLINK>
+      <INSTALLDATE>11/12/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows Internet Explorer 8 (KB2898785)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2898785-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2900986</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2900986</HELPLINK>
+      <INSTALLDATE>14/11/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2900986)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2900986$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2909210-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2909210</HELPLINK>
+      <INSTALLDATE>13/02/2014</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows Internet Explorer 8 (KB2909210)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2909210-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2909921-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2909921</HELPLINK>
+      <INSTALLDATE>13/02/2014</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows Internet Explorer 8 (KB2909921)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2909921-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2914368</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2914368</HELPLINK>
+      <INSTALLDATE>16/01/2014</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2914368)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2914368$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2916036</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2916036</HELPLINK>
+      <INSTALLDATE>13/02/2014</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2916036)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2916036$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2922229</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2922229</HELPLINK>
+      <INSTALLDATE>10/04/2014</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2922229)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2922229$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2925418-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2925418</HELPLINK>
+      <INSTALLDATE>12/03/2014</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows Internet Explorer 8 (KB2925418)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2925418-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2929961</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2929961</HELPLINK>
+      <INSTALLDATE>12/03/2014</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2929961)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2929961$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2930275</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2930275</HELPLINK>
+      <INSTALLDATE>12/03/2014</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB2930275)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB2930275$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2936068-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2936068</HELPLINK>
+      <INSTALLDATE>10/04/2014</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows Internet Explorer 8 (KB2936068)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2936068-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB2964358-IE8</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=2964358</HELPLINK>
+      <INSTALLDATE>03/05/2014</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows Internet Explorer 8 (KB2964358)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8updates\KB2964358-IE8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB898461</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=898461</HELPLINK>
+      <INSTALLDATE>13/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows XP (KB898461)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB898461$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB923561</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=923561</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB923561)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB923561$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB923789</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=923789</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB923789)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\WINDOWS\system32\MacroMed\Flash\genuinst.exe C:\WINDOWS\system32\MacroMed\Flash\KB923789.inf</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB929399</GUID>
+      <HELPLINK>http://support.microsoft.com/?kbid=929399</HELPLINK>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>Hotfix for Windows Media Format 11 SDK (KB929399)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB929399$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB939683</GUID>
+      <HELPLINK>http://support.microsoft.com/?kbid=939683</HELPLINK>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>Hotfix para o Windows Media Player 11 (KB939683)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB939683$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB941569</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=941569</HELPLINK>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB941569)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB941569$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB943729</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=943729</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização para o Windows XP (KB943729)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB943729$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB946648</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=946648</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB946648)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB946648$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB950762</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=950762</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB950762)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB950762$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB950974</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=950974</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB950974)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB950974$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB951376-v2</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=951376</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB951376-v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB951376-v2$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB951978</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=951978</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows XP (KB951978)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB951978$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB952004</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=952004</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB952004)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB952004$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB952069_WM9</GUID>
+      <HELPLINK>http://support.microsoft.com/?kbid=952069</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para o Windows Media Player (KB952069)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB952069_WM9$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB952287</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=952287</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Hotfix para Windows XP (KB952287)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB952287$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB952954</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=952954</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB952954)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB952954$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB954154_WM11</GUID>
+      <HELPLINK>http://support.microsoft.com/?kbid=954154</HELPLINK>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para o Windows Media Player 11 (KB954154)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB954154_WM11$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB954155_WM9</GUID>
+      <HELPLINK>http://support.microsoft.com/?kbid=954155</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para o Windows Media Player (KB954155)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB954155_WM9$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB954550-v5</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=954550</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Hotfix for Windows XP (KB954550-v5)</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>5</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB956572</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=956572</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB956572)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB956572$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB956802</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=956802</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB956802)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB956802$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB956844</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=956844</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB956844)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB956844$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB959426</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=959426</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB959426)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB959426$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB960803</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=960803</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB960803)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB960803$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB960859</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=960859</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB960859)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB960859$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB961118</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=961118</HELPLINK>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>Hotfix para Windows XP (KB961118)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB961118$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB968389</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=968389</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows XP (KB968389)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB968389$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB968930</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkID=163790</HELPLINK>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>Windows Management Framework Core</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Atualização de Software</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$968930Uinstall_KB968930$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.microsoft.com/fwlink/?LinkID=163792</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB969059</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=969059</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB969059)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB969059$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB969084</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=969084</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Hotfix para Windows XP (KB969084)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB969084$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>3</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB970430</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=970430</HELPLINK>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB970430)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB970430$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB971029</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=971029</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows XP (KB971029)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB971029$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB971513</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/971513</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização do Microsoft Windows (KB971513)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>%HOTFIX%</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB971513$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB971657</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=971657</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB971657)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB971657$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB972270</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=972270</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB972270)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB972270$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB973507</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=973507</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB973507)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB973507$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB973540_WM9</GUID>
+      <HELPLINK>http://support.microsoft.com/?kbid=973540</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para o Windows Media Player (KB973540)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB973540_WM9$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB973815</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=973815</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização para Windows XP (KB973815)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB973815$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB973869</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=973869</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB973869)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB973869$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB973904</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=973904</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB973904)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB973904$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB974112</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=974112</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB974112)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB974112$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB974318</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=974318</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB974318)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB974318$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB974392</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=974392</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB974392)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB974392$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB974571</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=974571</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB974571)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB974571$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB975025</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=975025</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB975025)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB975025$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB975467</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=975467</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB975467)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB975467$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB975558_WM8</GUID>
+      <HELPLINK>http://support.microsoft.com/?kbid=975558</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para o Windows Media Player (KB975558)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB975558_WM8$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB975560</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=975560</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB975560)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB975560$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB975713</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=975713</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB975713)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB975713$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB977816</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=977816</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB977816)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB977816$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB977914</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=977914</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB977914)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB977914$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB978338</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=978338</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB978338)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB978338$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB978542</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=978542</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB978542)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB978542$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB978695_WM9</GUID>
+      <HELPLINK>http://support.microsoft.com/?kbid=978695</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para o Windows Media Player (KB978695)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB978695_WM9$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB978706</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=978706</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB978706)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB978706$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB979309</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=979309</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB979309)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB979309$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB979482</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=979482</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB979482)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB979482$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB979687</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=979687</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB979687)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB979687$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB981322</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=981322</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB981322)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB981322$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB981997</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=981997</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB981997)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB981997$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB982132</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=982132</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB982132)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB982132$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB982665</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=982665</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Atualização de Segurança para Windows XP (KB982665)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB982665$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft .NET Framework 3.0 Brazilian Portuguese Language Pack</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=51019</HELPLINK>
+      <INSTALLDATE>21/09/2013</INSTALLDATE>
+      <NAME>Pacote de Idiomas do Português (Brasil) para Microsoft .NET Framework 3.0</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>c:\WINDOWS\Microsoft.NET\Framework\v3.0\Microsoft .NET Framework 3.0 Brazilian Portuguese Language Pack\setup.exe</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft .NET Framework 3.5 Language Pack SP1 - ptb</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=120337</HELPLINK>
+      <INSTALLDATE>22/09/2013</INSTALLDATE>
+      <NAME>Pacote de Idiomas do Microsoft .NET Framework 3.5 SP1 - PTB</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>c:\WINDOWS\Microsoft.NET\Framework\v3.5\Microsoft .NET Framework 3.5 Language Pack SP1 - ptb\setup.exe</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft .NET Framework 3.5 SP1</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=120337</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 3.5 SP1</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\WINDOWS\Microsoft.NET\Framework\v3.5\Microsoft .NET Framework 3.5 SP1\setup.exe</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>MSCompPackV1</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=74087</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Microsoft Compression Client Pack 1.0 for Windows XP</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallMSCompPackV1$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>NLSDownlevelMapping</GUID>
+      <INSTALLDATE>19/06/2013</INSTALLDATE>
+      <NAME>NLSDownlevelMapping</NAME>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>OCS Inventory NG Agent</GUID>
+      <INSTALLDATE>24/09/2014</INSTALLDATE>
+      <NAME>OCS Inventory NG Agent 2.1.0.1</NAME>
+      <PUBLISHER>OCS Inventory NG Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Arquivos de programas\OCS Inventory Agent\uninst.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.ocsinventory-ng.org</URL_INFO_ABOUT>
+      <VERSION>2.1.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>PCHealth</GUID>
+      <INSTALLDATE>13/06/2013</INSTALLDATE>
+      <NAME>PCHealth</NAME>
+      <UNINSTALL_STRING>rundll32.exe setupapi.dll,InstallHinfSection DefaultUninstall 132 C:\WINDOWS\INF\PCHealth.inf</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Windows Media Format Runtime</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=62768</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Windows Media Format 11 runtime</NAME>
+      <UNINSTALL_STRING>"C:\Arquivos de programas\Windows Media Player\wmsetsdk.exe" /UninstallAll</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Windows Media Player</GUID>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Windows Media Player 11</NAME>
+      <UNINSTALL_STRING>"C:\Arquivos de programas\Windows Media Player\Setup_wm.exe" /Uninstall</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Windows XP Service Pack</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=936929</HELPLINK>
+      <INSTALLDATE>13/06/2013</INSTALLDATE>
+      <NAME>Windows XP Service Pack 3</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtServicePackUninstall$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>20080413.144515</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WinRAR archiver</GUID>
+      <INSTALLDATE>17/06/2013</INSTALLDATE>
+      <NAME>WinRAR 4.20 (32-bit)</NAME>
+      <PUBLISHER>win.rar GmbH</PUBLISHER>
+      <UNINSTALL_STRING>C:\Arquivos de programas\WinRAR\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>4.20.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Build Number 5716</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>Wudf01000</GUID>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Microsoft User-Mode Driver Framework Feature Pack 1.0</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallWudf01000$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>XPSEPSCLP</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=test</HELPLINK>
+      <INSTALLDATE>21/09/2013</INSTALLDATE>
+      <NAME>XML Paper Specification Shared Components Language Pack 1.0</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallXPSEPSCLP$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{002D9D5E-29BA-3E6D-9BC4-3D7D6DBC735C}</GUID>
+      <INSTALLDATE>09/11/2013</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2008 ATL Update kb973924 - x86 9.0.30729.4148</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{002D9D5E-29BA-3E6D-9BC4-3D7D6DBC735C}</UNINSTALL_STRING>
+      <VERSION>9.0.30729.4148</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0F7319A9-083D-40B3-8256-00A6F3C2AAA2}</GUID>
+      <INSTALLDATE>17/06/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (SSON)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{0F7319A9-083D-40B3-8256-00A6F3C2AAA2}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{133236FE-E2F7-4313-8BF8-A10ACAAA7CB9}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>17/06/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (USB)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{133236FE-E2F7-4313-8BF8-A10ACAAA7CB9}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{1438B41C-658C-35B7-9253-780F2E0A0B8E}</GUID>
+      <INSTALLDATE>22/09/2013</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 3.5 Language Pack SP1 - ptb</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{1438B41C-658C-35B7-9253-780F2E0A0B8E}</UNINSTALL_STRING>
+      <VERSION>3.5.30729</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2FC7287D-39DD-4A84-9806-D27D3CCDC51B}</GUID>
+      <INSTALLDATE>17/06/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (Web)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{2FC7287D-39DD-4A84-9806-D27D3CCDC51B}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{350C9416-3D7C-4EE8-BAA9-00BCB3D54227}</GUID>
+      <HELPLINK>http://www.microsoft.com/windows</HELPLINK>
+      <INSTALLDATE>13/06/2013</INSTALLDATE>
+      <NAME>WebFldrs XP</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>9.50.7523</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3F31F3B5-C1FF-3708-8611-869DE39C0CB6}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=98073</HELPLINK>
+      <INSTALLDATE>22/09/2013</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 2.0 Service Pack 2 Language Pack - PTB</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{3F31F3B5-C1FF-3708-8611-869DE39C0CB6}</UNINSTALL_STRING>
+      <VERSION>2.2.30729</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{57287FDF-27E6-45BC-9DD2-A33545C46C1A}</GUID>
+      <INSTALLDATE>17/06/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (HDX)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{57287FDF-27E6-45BC-9DD2-A33545C46C1A}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{6F2FDD50-E0F3-4117-B575-78E77F8D11EF}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>17/06/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (DV)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{6F2FDD50-E0F3-4117-B575-78E77F8D11EF}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{913778D3-E1D8-4B55-9246-3308C54D3162}</GUID>
+      <INSTALLDATE>17/06/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (PNA)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{913778D3-E1D8-4B55-9246-3308C54D3162}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{93676FC6-C7DB-45A6-A62B-74A324F17313}</GUID>
+      <INSTALLDATE>21/09/2013</INSTALLDATE>
+      <NAME>Windows Presentation Foundation Language Pack (PTB)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{93676FC6-C7DB-45A6-A62B-74A324F17313}</UNINSTALL_STRING>
+      <VERSION>3.0.6920.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=98075</HELPLINK>
+      <INSTALLDATE>11/10/2013</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 3.0 Service Pack 2</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}</UNINSTALL_STRING>
+      <VERSION>3.2.30729</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B1FA73D8-AB79-3A2E-81AC-DBBAC155B2FE}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=98075</HELPLINK>
+      <INSTALLDATE>22/09/2013</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 3.0 Service Pack 2 Language Pack - PTB</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{B1FA73D8-AB79-3A2E-81AC-DBBAC155B2FE}</UNINSTALL_STRING>
+      <VERSION>3.2.30729</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=98073</HELPLINK>
+      <INSTALLDATE>13/02/2014</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 2.0 Service Pack 2</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}</UNINSTALL_STRING>
+      <VERSION>2.2.30729</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{C9BED750-1211-4480-B1A5-718A3BE15525}</GUID>
+      <INSTALLDATE>13/06/2013</INSTALLDATE>
+      <NAME>REALTEK GbE &amp; FE Ethernet PCI-E NIC Driver</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Realtek</PUBLISHER>
+      <UNINSTALL_STRING>C:\Arquivos de programas\InstallShield Installation Information\{C9BED750-1211-4480-B1A5-718A3BE15525}\setup.exe -runfromtemp -l0x0416 -removeonly</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Realtek.com.tw</URL_INFO_ABOUT>
+      <VERSION>1.19.0000</VERSION>
+      <VERSION_MAJOR>1</VERSION_MAJOR>
+      <VERSION_MINOR>19</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}</GUID>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 3.5 SP1</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}</UNINSTALL_STRING>
+      <VERSION>3.5.30729</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB2416473</GUID>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB2416473</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 3.5 SP1.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2604111.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB2604111</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2604111</HELPLINK>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 3.5 SP1 (KB2604111)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\WINDOWS\system32\msiexec.exe /package {CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9} /uninstall {94EFE014-E577-310B-B2D5-6973A21D8A90} /qb+ REBOOTPROMPT=""</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB2657424</GUID>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB2657424</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB2695869</GUID>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB2695869</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 3.5 SP1.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2736416.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB2736416</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2736416</HELPLINK>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 3.5 SP1 (KB2736416)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\WINDOWS\system32\msiexec.exe /package {CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9} /uninstall {939AF4BC-EC42-38D1-AE82-91D4A7ED8911} /qb+ REBOOTPROMPT=""</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB2836940</GUID>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB2836940</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 3.5 SP1.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2840629.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB2840629</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2840629</HELPLINK>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 3.5 SP1 (KB2840629)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\WINDOWS\system32\msiexec.exe /package {CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9} /uninstall {A8433C01-319F-3370-850E-87C35496299A} /qb+ REBOOTPROMPT=""</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 3.5 SP1.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2861697.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB2861697</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2861697</HELPLINK>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 3.5 SP1 (KB2861697)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\WINDOWS\system32\msiexec.exe /package {CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9} /uninstall {48B0C142-A0F4-3263-90E1-1984CBB8DD18} /qb+ REBOOTPROMPT=""</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB350003</GUID>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB350003</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This hotfix is for Microsoft .NET Framework 3.5 SP1.If you later install a more recent service pack, this hotfix will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/953595.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB953595</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/953595</HELPLINK>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595)</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\WINDOWS\system32\msiexec.exe /package {CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9} /uninstall  /qb+ REBOOTPROMPT=""</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This hotfix is for Microsoft .NET Framework 3.5 SP1.If you later install a more recent service pack, this hotfix will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/958484.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB958484</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/958484</HELPLINK>
+      <INSTALLDATE>10/10/2013</INSTALLDATE>
+      <NAME>Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Hotfix</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\WINDOWS\system32\msiexec.exe /package {CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9} /uninstall {A7EEA2F2-BFCD-4A54-A575-7B81A786E658} /qb+ REBOOTPROMPT=""</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB960043</GUID>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB960043</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This update is for Microsoft .NET Framework 3.5 SP1.If you later install a more recent service pack, this update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/963707.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB963707</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/963707</HELPLINK>
+      <INSTALLDATE>15/07/2013</INSTALLDATE>
+      <NAME>Update for Microsoft .NET Framework 3.5 SP1 (KB963707)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\WINDOWS\system32\msiexec.exe /package {CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9} /uninstall {B2AE9C82-DC7B-3641-BFC8-87275C4F3607} /qb+ REBOOTPROMPT=""</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{EBF3D65F-011E-44D2-8F4F-C74B52682EDD}</GUID>
+      <HELPLINK>https://mysupport.mcafee.com</HELPLINK>
+      <INSTALLDATE>06/05/2014</INSTALLDATE>
+      <NAME>McAfee Agent</NAME>
+      <PUBLISHER>McAfee, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{EBF3D65F-011E-44D2-8F4F-C74B52682EDD}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Mcafee.com</URL_INFO_ABOUT>
+      <VERSION>4.8.0.1500</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F0E3AD40-2BBD-4360-9C76-B9AC9A5886EA}</GUID>
+      <INSTALLDATE>13/04/2016</INSTALLDATE>
+      <NAME>Intel(R) Graphics Media Accelerator Driver</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Arquivos de programas\Intel\Intel(R) Graphics Media Accelerator Driver\Uninstall\setup.exe -uninstall</UNINSTALL_STRING>
+      <VERSION>6.14.10.5420</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}</GUID>
+      <INSTALLDATE>14/06/2013</INSTALLDATE>
+      <NAME>Realtek High Definition Audio Driver</NAME>
+      <PUBLISHER>Realtek Semiconductor Corp.</PUBLISHER>
+      <UNINSTALL_STRING>RtlUpd.exe -r -m -nrg2709</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F407D6FB-D3AD-44CC-B77B-5B3F0FF1F22C}</GUID>
+      <INSTALLDATE>21/09/2013</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 3.0 Brazilian Portuguese Language Pack</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{F407D6FB-D3AD-44CC-B77B-5B3F0FF1F22C}</UNINSTALL_STRING>
+      <VERSION>3.0.04506.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4}</GUID>
+      <INSTALLDATE>12/07/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4}</UNINSTALL_STRING>
+      <VERSION>9.0.21022</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>14/07/2013</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>8.0.6001.18702</VERSION>
+    </SOFTWARES>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.18</VERSIONCLIENT>
+  </CONTENT>
+  <DEVICEID>D-LABO-PC-007.hmd.local-2017-01-28-12-14-38</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>

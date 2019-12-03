@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2017-12-11 07:09:11</LOGDATE>
+    </ACCESSLOG>
+    <ANTIVIRUS>
+      <ENABLED>1</ENABLED>
+      <GUID>{1E5CB925-ABFC-68A9-91DC-4258BDE6C44A}</GUID>
+      <NAME>Trend Micro OfficeScan Antivirus</NAME>
+      <UPTODATE>1</UPTODATE>
+    </ANTIVIRUS>
+    <BATTERIES>
+      <CHEMISTRY>Nickel Cadmium</CHEMISTRY>
+      <DATE>08/11/1997</DATE>
+      <MANUFACTURER>Nikon Battery</MANUFACTURER>
+      <NAME>Nikon Ultra Plus</NAME>
+      <SERIAL>NI00123</SERIAL>
+    </BATTERIES>
+    <BIOS>
+      <ASSETTAG/>  <BDATE>08/18/2010</BDATE>
+      <BMANUFACTURER>Desenvolvida para Positivo Informatica SA</BMANUFACTURER>
+      <BVERSION>0302</BVERSION>
+      <MMANUFACTURER>Positivo Informatica SA</MMANUFACTURER>
+      <MMODEL>POS-PIG41BO</MMODEL>
+      <MSN>1A3861V39</MSN>
+      <SKUNUMBER/>  <SMANUFACTURER>POSITIVO</SMANUFACTURER>
+      <SMODEL>POS-PIG41BO</SMODEL>
+      <SSN>1A3861V39</SSN>
+    </BIOS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family SATA Controller [IDE mode]</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>NM10/ICH7 Family SATA Controller [IDE mode]</NAME>
+      <PCISUBSYSTEMID>1b0a:0005</PCISUBSYSTEMID>
+      <PRODUCTID>27c0</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family Serial ATA Storage Controller - 27C0</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801G (ICH7 Family) IDE Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801G (ICH7 Family) IDE Controller</NAME>
+      <PCISUBSYSTEMID>1b0a:0005</PCISUBSYSTEMID>
+      <PRODUCTID>27df</PRODUCTID>
+      <TYPE>Intel(R) ICH7 Family Ultra ATA Storage Controllers - 27DF</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family USB UHCI Controller #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>NM10/ICH7 Family USB UHCI Controller #1</NAME>
+      <PCISUBSYSTEMID>1b0a:0005</PCISUBSYSTEMID>
+      <PRODUCTID>27c8</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family USB Universal Host Controller - 27C8</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family USB UHCI Controller #2</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>NM10/ICH7 Family USB UHCI Controller #2</NAME>
+      <PCISUBSYSTEMID>1b0a:0005</PCISUBSYSTEMID>
+      <PRODUCTID>27c9</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family USB Universal Host Controller - 27C9</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family USB UHCI Controller #3</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>NM10/ICH7 Family USB UHCI Controller #3</NAME>
+      <PCISUBSYSTEMID>1b0a:0005</PCISUBSYSTEMID>
+      <PRODUCTID>27ca</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family USB Universal Host Controller - 27CA</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family USB UHCI Controller #4</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>NM10/ICH7 Family USB UHCI Controller #4</NAME>
+      <PCISUBSYSTEMID>1b0a:0005</PCISUBSYSTEMID>
+      <PRODUCTID>27cb</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family USB Universal Host Controller - 27CB</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family USB2 EHCI Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>NM10/ICH7 Family USB2 EHCI Controller</NAME>
+      <PCISUBSYSTEMID>1b0a:0005</PCISUBSYSTEMID>
+      <PRODUCTID>27cc</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family USB2 Enhanced Host Controller - 27CC</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family High Definition Audio Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>NM10/ICH7 Family High Definition Audio Controller</NAME>
+      <PCISUBSYSTEMID>1b0a:0001</PCISUBSYSTEMID>
+      <PRODUCTID>27d8</PRODUCTID>
+      <TYPE>Controlador de High Definition Audio</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family SMBus Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>NM10/ICH7 Family SMBus Controller</NAME>
+      <PCISUBSYSTEMID>1b0a:0005</PCISUBSYSTEMID>
+      <PRODUCTID>27da</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family SMBus Controller - 27DA</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>4 Series Chipset DRAM Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>4 Series Chipset DRAM Controller</NAME>
+      <PCISUBSYSTEMID>1b0a:0004</PCISUBSYSTEMID>
+      <PRODUCTID>2e30</PRODUCTID>
+      <TYPE>Intel(R) 4 Series Chipset Processor to I/O Controller - 2E30</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>4 Series Chipset Integrated Graphics Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>4 Series Chipset Integrated Graphics Controller</NAME>
+      <PCISUBSYSTEMID>1b0a:0004</PCISUBSYSTEMID>
+      <PRODUCTID>2e32</PRODUCTID>
+      <TYPE>Intel(R) G41 Express Chipset</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller</CAPTION>
+      <MANUFACTURER>Realtek Semiconductor Co., Ltd.</MANUFACTURER>
+      <NAME>RTL8111/8168 PCI Express Gigabit Ethernet controller</NAME>
+      <PCISUBSYSTEMID>10ec:8168</PCISUBSYSTEMID>
+      <PRODUCTID>8168</PRODUCTID>
+      <TYPE>NIC Gigabit Ethernet PCI-E Realtek Família RTL8168D/8111D (NDIS 6.20)</TYPE>
+      <VENDORID>10ec</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801 PCI Bridge</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801 PCI Bridge</NAME>
+      <PCISUBSYSTEMID>1b0a:0005</PCISUBSYSTEMID>
+      <PRODUCTID>244e</PRODUCTID>
+      <TYPE>Intel(R) 82801 PCI Bridge - 244E</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family PCI Express Port 1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>NM10/ICH7 Family PCI Express Port 1</NAME>
+      <PCISUBSYSTEMID>1b0a:0005</PCISUBSYSTEMID>
+      <PRODUCTID>27d0</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family PCI Express Root Port - 27D0</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801GB/GR (ICH7 Family) LPC Interface Bridge</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801GB/GR (ICH7 Family) LPC Interface Bridge</NAME>
+      <PCISUBSYSTEMID>1b0a:0005</PCISUBSYSTEMID>
+      <PRODUCTID>27b8</PRODUCTID>
+      <TYPE>Intel(R) ICH7 Family LPC Interface Controller - 27B8</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>NM10/ICH7 Family PCI Express Port 2</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>NM10/ICH7 Family PCI Express Port 2</NAME>
+      <PCISUBSYSTEMID>1b0a:0005</PCISUBSYSTEMID>
+      <PRODUCTID>27d2</PRODUCTID>
+      <TYPE>Intel(R) N10/ICH7 Family PCI Express Root Port - 27D2</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>2</CORE>
+      <DESCRIPTION>Intel64 Family 6 Model 23 Stepping 10</DESCRIPTION>
+      <FAMILYNUMBER>6</FAMILYNUMBER>
+      <ID>7A 06 01 00 FF FB EB BF</ID>
+      <MANUFACTURER>Intel</MANUFACTURER>
+      <MODEL>23</MODEL>
+      <NAME>Pentium(R) Dual-Core CPU E5800 @ 3.20GHz</NAME>
+      <SERIAL>ToBeFilledByO.E.M.</SERIAL>
+      <SPEED>3200</SPEED>
+      <STEPPING>10</STEPPING>
+      <THREAD>2</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Local Fixed Disk</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>21643</FREE>
+      <LABEL>OSDisk</LABEL>
+      <LETTER>C:</LETTER>
+      <SERIAL>92DC5CE2</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>59999</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>OSDisk</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>455</FREE>
+      <LABEL>System</LABEL>
+      <LETTER>System</LETTER>
+      <SERIAL>70DB1BA8</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>499</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>System</VOLUMN>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>FP_NO_HOST_CHECK</KEY>
+      <VAL>NO</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>AMD64</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>2</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>6</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>Intel64 Family 6 Model 23 Stepping 10, GenuineIntel</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>170a</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_logfile</KEY>
+      <VAL>C:\BVTBin\Tests\installpackage\csilogfile.log</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windows_tracing_flags</KEY>
+      <VAL>3</VAL>
+    </ENVS>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x64-multi-thread</ARCHNAME>
+      <CHASSIS_TYPE>Desktop</CHASSIS_TYPE>
+      <CHECKSUM>513</CHECKSUM>
+      <DEFAULTGATEWAY>10.20.1.1</DEFAULTGATEWAY>
+      <DNS>10.20.1.10</DNS>
+      <ETIME>133</ETIME>
+      <IPADDR>10.20.100.227</IPADDR>
+      <LASTLOGGEDUSER>hpsc.digit01</LASTLOGGEDUSER>
+      <MEMORY>2013</MEMORY>
+      <NAME>D-DIGI-PC-002</NAME>
+      <OSCOMMENTS>Service Pack 1</OSCOMMENTS>
+      <OSNAME>Microsoft Windows 7 Professional </OSNAME>
+      <OSVERSION>6.1.7601</OSVERSION>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>3200</PROCESSORS>
+      <PROCESSORT>Pentium(R) Dual-Core CPU E5800 @ 3.20GHz</PROCESSORT>
+      <USERID>hpsc.digit01</USERID>
+      <UUID>03000200-0400-0500-0006-000700080009</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINCOMPANY>HMD</WINCOMPANY>
+      <WINLANG>1046</WINLANG>
+      <WINOWNER>HMD</WINOWNER>
+      <WINPRODID>55041-011-1797713-86204</WINPRODID>
+      <WORKGROUP>hmd.local</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Enhanced (101- or 102-key)</CAPTION>
+      <DESCRIPTION>Dispositivo de Entrada USB</DESCRIPTION>
+      <LAYOUT>00000416</LAYOUT>
+      <NAME>Enhanced (101- or 102-key)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>Microsoft PS/2 Mouse</CAPTION>
+      <DESCRIPTION>Microsoft PS/2 Mouse</DESCRIPTION>
+      <INTERFACE>PS/2</INTERFACE>
+      <MANUFACTURER>Microsoft</MANUFACTURER>
+      <NAME>Microsoft PS/2 Mouse</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administradores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Convidados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Distributed COM - Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicadores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Leitores de log de eventos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Operadores criptográficos</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Operadores de configuração de rede</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Operadores de cópia</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Usuários avançados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Usuários da área de trabalho remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Usuários de log de desempenho</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Usuários de monitor de desempenho</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1002</ID>
+      <NAME>Oferecer Auxiliares para Assistência Remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1010</ID>
+      <NAME>athoso</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1031</ID>
+      <NAME>brunog</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1026</ID>
+      <NAME>carlose</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1034</ID>
+      <NAME>douglasb</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1004</ID>
+      <NAME>douglasm</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1024</ID>
+      <NAME>eduardof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1019</ID>
+      <NAME>ezequiela</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1018</ID>
+      <NAME>fabianom</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1027</ID>
+      <NAME>geziels</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1025</ID>
+      <NAME>leonardoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1009</ID>
+      <NAME>marcof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1033</ID>
+      <NAME>maxk</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1032</ID>
+      <NAME>rafaelc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1022</ID>
+      <NAME>renand</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1011</ID>
+      <NAME>rodrigom</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1020</ID>
+      <NAME>rogeriom</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2926879765-3183293360-710835507-1035</ID>
+      <NAME>victorg</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPACITY>2048</CAPACITY>
+      <CAPTION>DIMM0</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <SERIALNUMBER>SerNum00</SERIALNUMBER>
+      <TYPE>DDR2</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>DIMM2</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+      <SERIALNUMBER>SerNum01</SERIALNUMBER>
+    </MEMORIES>
+    <MONITORS>
+      <BASE64>AP///////wBMLeMCNzFFUBQSAQMOJReHKsvVplVRkSUXUFS/74CVAJUPgYCBQHFPAQEBAQEBmimg0FGEIjBQmDYAb+UQAAAcAAAA/QA4Sx5RDgAKICAgICAgAAAA/ABTeW5jTWFzdGVyCiAgAAAA/wBIWElRNTAxNjMxCiAgAHk=</BASE64>
+      <CAPTION>SyncMaster</CAPTION>
+      <DESCRIPTION>20/2008</DESCRIPTION>
+      <MANUFACTURER>Samsung Electric Company</MANUFACTURER>
+      <SERIAL>HXIQ501631</SERIAL>
+    </MONITORS>
+    <MONITORS>
+      <BASE64>AP///////wBMLeMCNzFFUBQSAQMOJReHKsvVplVRkSUXUFS/74CVAJUPgYCBQHFPAQEBAQEBmimg0FGEIjBQmDYAb+UQAAAcAAAA/QA4Sx5RDgAKICAgICAgAAAA/ABTeW5jTWFzdGVyCiAgAAAA/wBIWElRNTAxNjMxCiAgAHk=</BASE64>
+      <CAPTION>SyncMaster</CAPTION>
+      <DESCRIPTION>20/2008</DESCRIPTION>
+      <MANUFACTURER>Samsung Electric Company</MANUFACTURER>
+      <NAME>Monitor Genérico PnP</NAME>
+      <SERIAL>HXIQ501631</SERIAL>
+      <TYPE>Monitor Genérico PnP</TYPE>
+    </MONITORS>
+    <NETWORKS>
+      <DESCRIPTION>NIC Gigabit Ethernet PCI-E Realtek Família RTL8168D/8111D (NDIS 6.20)</DESCRIPTION>
+      <IPADDRESS>10.20.100.227</IPADDRESS>
+      <IPDHCP>10.20.1.10</IPDHCP>
+      <IPGATEWAY>10.20.1.1</IPGATEWAY>
+      <IPMASK>255.255.0.0</IPMASK>
+      <IPSUBNET>10.20.0.0</IPSUBNET>
+      <MACADDR>E0:69:95:AF:A3:DC</MACADDR>
+      <PCIID>10EC:8168:8168:10EC</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8168&amp;SUBSYS_816810EC&amp;REV_03\4&amp;175DEF48&amp;0&amp;00E1</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>NIC Gigabit Ethernet PCI-E Realtek Família RTL8168D/8111D (NDIS 6.20)</DESCRIPTION>
+      <IPADDRESS6>fe80::996a:e3f1:c2d2:9cfe</IPADDRESS6>
+      <IPMASK6>ffff:ffff:ffff:ffff::</IPMASK6>
+      <IPSUBNET6>fe80::</IPSUBNET6>
+      <MACADDR>E0:69:95:AF:A3:DC</MACADDR>
+      <PCIID>10EC:8168:8168:10EC</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8168&amp;SUBSYS_816810EC&amp;REV_03\4&amp;175DEF48&amp;0&amp;00E1</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>64-bit</ARCH>
+      <BOOT_TIME>2017-12-08 13:41:16</BOOT_TIME>
+      <DNS_DOMAIN>hmd.local</DNS_DOMAIN>
+      <FQDN>D-DIGI-PC-002.hmd.local</FQDN>
+      <FULL_NAME>Microsoft Windows 7 Professional </FULL_NAME>
+      <INSTALL_DATE>2013-01-19 20:49:21</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>6.1.7601</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK>Service Pack 1</SERVICE_PACK>
+    </OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>Porta de comunicação (COM1)</CAPTION>
+      <DESCRIPTION>Porta de comunicação</DESCRIPTION>
+      <NAME>Porta de comunicação (COM1)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>LPT1</CAPTION>
+      <DESCRIPTION>LPT1</DESCRIPTION>
+      <NAME>LPT1</NAME>
+      <TYPE>Parallel</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>Kyocera FS-1128MFP KX</DRIVER>
+      <ERRSTATUS>Other</ERRSTATUS>
+      <NAME>UPA CAÇAPAVA</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.20.150.70_2</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Other</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Kyocera FS-1120D KX</DRIVER>
+      <NAME>SUTURA</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.20.150.45</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Kyocera FS-4020DN</DRIVER>
+      <NAME>Kyocera FS-4020DN</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.20.150.28</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>1</SHARED>
+      <SHARENAME>Kyocera FS-4020DN</SHARENAME>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Kyocera FS-4020DN</DRIVER>
+      <NAME>FLUXO_EXAMES</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.20.150.9</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Kyocera FS-1300D</DRIVER>
+      <NAME>BACKUP_FS1300D</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>10.20.150.28_1</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <SLOTS>
+      <DESCRIPTION>32-bit AGP 4x</DESCRIPTION>
+      <DESIGNATION>0</DESIGNATION>
+      <NAME>AGP</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>PCI1</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>AGP</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>System Slot</DESCRIPTION>
+      <DESIGNATION>PCI1</DESIGNATION>
+      <NAME>System Slot</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Flash Player ActiveX</GUID>
+      <HELPLINK>http://www.adobe.com/go/flashplayer_support/</HELPLINK>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>Adobe Flash Player 11 ActiveX 64-bit</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>C:\Windows\system32\Macromed\Flash\FlashUtil64_11_1_102_ActiveX.exe -maintain activex</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.1.102.62</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>http://forge.fusioninventory.org/projects/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>20/01/2017</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.3.18 (x64 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.18</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Mozilla Maintenance Service</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>MozillaMaintenanceService</GUID>
+      <INSTALLDATE>14/08/2017</INSTALLDATE>
+      <NAME>Mozilla Maintenance Service</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Mozilla Maintenance Service\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>54.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{1AD147D0-BE0E-3D6C-AC11-64F6DC4163F1}</GUID>
+      <INSTALLDATE>07/11/2017</INSTALLDATE>
+      <NAME>Microsoft .NET Framework 4.5</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{1AD147D0-BE0E-3D6C-AC11-64F6DC4163F1}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.microsoft.com/fwlink/?LinkId=249109</URL_INFO_ABOUT>
+      <VERSION>4.5.50709</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{2EDC2FA3-1F34-34E5-9085-588C9EFD1CC6}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{2EDC2FA3-1F34-34E5-9085-588C9EFD1CC6}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{764384C5-BCA9-307C-9AAC-FD443662686A}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{764384C5-BCA9-307C-9AAC-FD443662686A}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Advanced vulnerability shielding for endpoints</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{8943BB61-6E48-4E2D-AFB9-7E16E6FEE9C8}</GUID>
+      <HELPLINK>http://www.trendmicro.com/</HELPLINK>
+      <INSTALLDATE>17/11/2017</INSTALLDATE>
+      <NAME>Vulnerability Protection Agent</NAME>
+      <PUBLISHER>Trend Micro</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{8943BB61-6E48-4E2D-AFB9-7E16E6FEE9C8}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>Trend Micro</URL_INFO_ABOUT>
+      <VERSION>9.6.8065</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkID=91955</HELPLINK>
+      <INSTALLDATE>08/07/2017</INSTALLDATE>
+      <NAME>Microsoft Silverlight</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</UNINSTALL_STRING>
+      <VERSION>5.1.50907.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>13/01/2016</INSTALLDATE>
+      <NAME>Internet Explorer (64bit)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>9.0.8112.16421</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Shockwave Player</GUID>
+      <HELPLINK>http://www.adobe.com/support/shockwave</HELPLINK>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>Adobe Shockwave Player 11.6</NAME>
+      <PUBLISHER>Adobe Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Windows\system32\Adobe\Shockwave 11\uninstaller.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.6.4.634</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>CitrixOnlinePluginFull</GUID>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\ProgramData\Citrix\Citrix online plug-in\TrolleyExpress.exe /uninstall /cleanup</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FBDBServer_1_5_is1</GUID>
+      <HELPLINK>http://www.firebirdsql.org</HELPLINK>
+      <INSTALLDATE>04/03/2013</INSTALLDATE>
+      <NAME>Firebird 1.5.6</NAME>
+      <PUBLISHER>Firebird Project</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Firebird\Firebird_1_5\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.firebirdsql.org</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Google Chrome</GUID>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>Google Chrome</NAME>
+      <PUBLISHER>Google Inc.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Google\Chrome\Application\63.0.3239.84\Installer\setup.exe" --uninstall --system-level --verbose-logging</UNINSTALL_STRING>
+      <VERSION>63.0.3239.84</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>mDicomViewer</GUID>
+      <INSTALLDATE>04/03/2013</INSTALLDATE>
+      <NAME>mDicomViewer</NAME>
+      <UNINSTALL_STRING>C:\Microdata\mDicomViewer\Uninstal.exe</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Mozilla Firefox 56.0 (x86 pt-BR)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>Mozilla Firefox 56.0 (x86 pt-BR)</GUID>
+      <HELPLINK>https://support.mozilla.org</HELPLINK>
+      <INSTALLDATE>04/11/2017</INSTALLDATE>
+      <NAME>Mozilla Firefox 56.0 (x86 pt-BR)</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Mozilla Firefox\uninstall\helper.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.mozilla.org</URL_INFO_ABOUT>
+      <VERSION>56.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>OCS Inventory NG Agent</GUID>
+      <INSTALLDATE>24/09/2014</INSTALLDATE>
+      <NAME>OCS Inventory NG Agent 2.1.0.1</NAME>
+      <PUBLISHER>OCS Inventory NG Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\OCS Inventory Agent\uninst.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.ocsinventory-ng.org</URL_INFO_ABOUT>
+      <VERSION>2.1.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>OfficeScanNT</GUID>
+      <INSTALLDATE>13/11/2017</INSTALLDATE>
+      <NAME>Trend Micro OfficeScan Agent</NAME>
+      <PUBLISHER>Trend Micro Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\Trend Micro\OfficeScan Client\ntrmv.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.trend.com</URL_INFO_ABOUT>
+      <VERSION>12.0.1708</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WinRAR archiver</GUID>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>WinRAR 4.11 (32-bit)</NAME>
+      <PUBLISHER>win.rar GmbH</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\WinRAR\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>4.11.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0F7319A9-083D-40B3-8256-00A6F3C2AAA2}</GUID>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (SSON)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{0F7319A9-083D-40B3-8256-00A6F3C2AAA2}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{133236FE-E2F7-4313-8BF8-A10ACAAA7CB9}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (USB)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{133236FE-E2F7-4313-8BF8-A10ACAAA7CB9}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{26A24AE4-039D-4CA4-87B4-2F32180111F0}</GUID>
+      <HELPLINK>http://java.com/help</HELPLINK>
+      <INSTALLDATE>27/12/2016</INSTALLDATE>
+      <NAME>Java 8 Update 111</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{26A24AE4-039D-4CA4-87B4-2F32180111F0}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://java.com</URL_INFO_ABOUT>
+      <VERSION>8.0.1110.14</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{26A24AE4-039D-4CA4-87B4-2F83217051FF}</GUID>
+      <HELPLINK>http://java.com/help</HELPLINK>
+      <INSTALLDATE>14/02/2014</INSTALLDATE>
+      <NAME>Java 7 Update 55</NAME>
+      <PUBLISHER>Oracle</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{26A24AE4-039D-4CA4-87B4-2F83217051FF}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://java.com</URL_INFO_ABOUT>
+      <VERSION>7.0.550</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2FC7287D-39DD-4A84-9806-D27D3CCDC51B}</GUID>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (Web)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{2FC7287D-39DD-4A84-9806-D27D3CCDC51B}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{39B91884-4688-49DE-B84D-F434A971AD90}</GUID>
+      <INSTALLDATE>27/03/2013</INSTALLDATE>
+      <NAME>Philips Device Control Center</NAME>
+      <PUBLISHER>Philips Austria GmbH - Speech Processing</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{39B91884-4688-49DE-B84D-F434A971AD90}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.philips.com/dictation</URL_INFO_ABOUT>
+      <VERSION>2.9.270.10</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{3D6AD258-61EA-35F5-812C-B7A02152996E}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{3D6AD258-61EA-35F5-812C-B7A02152996E}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4A03706F-666A-4037-7777-5F2748764D10}</GUID>
+      <INSTALLDATE>27/12/2016</INSTALLDATE>
+      <NAME>Java Auto Updater</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <VERSION>2.8.111.14</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{57287FDF-27E6-45BC-9DD2-A33545C46C1A}</GUID>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (HDX)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{57287FDF-27E6-45BC-9DD2-A33545C46C1A}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</GUID>
+      <INSTALLDATE>08/11/2017</INSTALLDATE>
+      <NAME>Google Update Helper</NAME>
+      <PUBLISHER>Google Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</UNINSTALL_STRING>
+      <VERSION>1.3.33.7</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Adobe Shockwave Player Merge Module</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{612C34C7-5E90-47D8-9B5C-0F717DD82726}</GUID>
+      <HELPLINK>http://www.adobe.com/support</HELPLINK>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>swMSM</NAME>
+      <PUBLISHER>Adobe Systems, Inc</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{612C34C7-5E90-47D8-9B5C-0F717DD82726}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.0.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{6F2FDD50-E0F3-4117-B575-78E77F8D11EF}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (DV)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{6F2FDD50-E0F3-4117-B575-78E77F8D11EF}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{78F24F78-0969-4E48-8B01-7096BF22B984}</GUID>
+      <INSTALLDATE>27/03/2013</INSTALLDATE>
+      <NAME>Philips SpMikeCtrl</NAME>
+      <PUBLISHER>Philips Speech Processing - Dictation Systems</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{78F24F78-0969-4E48-8B01-7096BF22B984}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.philips.com/dictation</URL_INFO_ABOUT>
+      <VERSION>2.8.260.26</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{913778D3-E1D8-4B55-9246-3308C54D3162}</GUID>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>Citrix online plug-in (PNA)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{913778D3-E1D8-4B55-9246-3308C54D3162}</UNINSTALL_STRING>
+      <VERSION>12.3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2737083.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2737083</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2737083</HELPLINK>
+      <INSTALLDATE>07/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2737083)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {00909A54-CC11-3F00-9279-3CE090432A91}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2742613.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2742613</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2742613</HELPLINK>
+      <INSTALLDATE>07/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2742613)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {36E5C79E-06D3-32C3-9251-D284B9F3F7E7}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2840642.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2840642v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2840642</HELPLINK>
+      <INSTALLDATE>07/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2840642v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {4F658047-A12E-38D9-8EA9-D941E4A84B7D}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2861208.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2861208</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2861208</HELPLINK>
+      <INSTALLDATE>07/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2861208)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {6AF12FE8-C359-3748-BDF6-B437C0A42154}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2894854v2.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2894854v2</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2894854v2</HELPLINK>
+      <INSTALLDATE>07/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2894854v2)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {F7CBA1C7-E5B5-39E9-9631-459E1FE08C45}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2898864.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2898864</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2898864</HELPLINK>
+      <INSTALLDATE>07/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2898864)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {FD9140E9-6192-38CC-BCF6-4869B2AEBBCD}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>This security update is for Microsoft .NET Framework 4.5.If you later install a more recent service pack, this security update will be uninstalled automatically.For more information, visit http://support.microsoft.com/kb/2901118.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{92FB6C44-E685-45AD-9B20-CADF4CABA132}.KB2901118</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2901118</HELPLINK>
+      <INSTALLDATE>07/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft .NET Framework 4.5 (KB2901118)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <UNINSTALL_STRING>c:\Windows\Microsoft.NET\Framework64\v4.0.30319\SetupCache\setup.exe /uninstallpatch {D052AECC-7A45-3B76-B62C-F5093799DF8D}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+      <VERSION>1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{95716cce-fc71-413f-8ad5-56c2892d4b3a}</GUID>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{95716cce-fc71-413f-8ad5-56c2892d4b3a}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.60610.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{a1909659-0a08-4554-8af1-2175904903a1}</GUID>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{a1909659-0a08-4554-8af1-2175904903a1}\vcredist_x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.60610.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A2884AF3-F105-4CB0-8DC9-F71AC1D196A2}_is1</GUID>
+      <HELPLINK>http://www.optixpacs.com.br/</HELPLINK>
+      <INSTALLDATE>06/11/2017</INSTALLDATE>
+      <NAME>Optix Agent versão 1.0</NAME>
+      <PUBLISHER>Optix Imagens Médicas</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Optix\Optix Agent\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.optixpacs.com.br/</URL_INFO_ABOUT>
+      <VERSION>1.0</VERSION>
+      <VERSION_MAJOR>1</VERSION_MAJOR>
+      <VERSION_MINOR>0</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-0804-1033-1959-001824205020}</GUID>
+      <HELPLINK>http://www.adobe.com/support/main.html</HELPLINK>
+      <INSTALLDATE>27/12/2016</INSTALLDATE>
+      <NAME>Adobe Refresh Manager</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-0804-1033-1959-001824205020}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.8.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>   </COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-7AD7-1033-7B44-AA1000000001}</GUID>
+      <HELPLINK>http://www.adobe.com/support/main.html</HELPLINK>
+      <INSTALLDATE>04/12/2016</INSTALLDATE>
+      <NAME>Adobe Reader X (10.1.16)</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-7AD7-1033-7B44-AA1000000001}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>10.1.16</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{E7D4E834-93EB-351F-B8FB-82CDAE623003}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{E7D4E834-93EB-351F-B8FB-82CDAE623003}</UNINSTALL_STRING>
+      <VERSION>11.0.60610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F0E3AD40-2BBD-4360-9C76-B9AC9A5886EA}</GUID>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>Intel(R) Graphics Media Accelerator Driver</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\Intel\Intel(R) Graphics Media Accelerator Driver\Uninstall\setup.exe -uninstall</UNINSTALL_STRING>
+      <VERSION>8.15.10.1995</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}</GUID>
+      <INSTALLDATE>19/01/2013</INSTALLDATE>
+      <NAME>Realtek High Definition Audio Driver</NAME>
+      <PUBLISHER>Realtek Semiconductor Corp.</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\Realtek\Audio\HDA\RtlUpd64.exe -r -m -nrg2709</UNINSTALL_STRING>
+      <VERSION>6.0.1.5953</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>13/01/2016</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>9.0.8112.16421</VERSION>
+    </SOFTWARES>
+    <SOUNDS>
+      <CAPTION>Realtek High Definition Audio</CAPTION>
+      <DESCRIPTION>Realtek High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>Realtek</MANUFACTURER>
+      <NAME>Realtek High Definition Audio</NAME>
+    </SOUNDS>
+    <STORAGES>
+      <DESCRIPTION>Unidade de disco</DESCRIPTION>
+      <DISKSIZE>500107</DISKSIZE>
+      <FIRMWARE>JC4B</FIRMWARE>
+      <INTERFACE>IDE</INTERFACE>
+      <MANUFACTURER>(Unidades de disco padrão)</MANUFACTURER>
+      <MODEL>ST3500413AS</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>5VMWFGE4</SERIAL>
+      <SERIALNUMBER>5VMWFGE4</SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>Keyboard</CAPTION>
+      <MANUFACTURER>Monterey International Corp.</MANUFACTURER>
+      <NAME>Keyboard</NAME>
+      <PRODUCTID>3107</PRODUCTID>
+      <VENDORID>0566</VENDORID>
+    </USBDEVICES>
+    <USERS>
+      <DOMAIN>HMD</DOMAIN>
+      <LOGIN>hpsc.digit01</LOGIN>
+    </USERS>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.18</VERSIONCLIENT>
+    <VIDEOS>
+      <CHIPSET>Intel(R) 4 Series Express Chipset Family</CHIPSET>
+      <NAME>Intel(R) G41 Express Chipset</NAME>
+      <RESOLUTION>1440x900</RESOLUTION>
+    </VIDEOS>
+  </CONTENT>
+  <DEVICEID>D-DIGI-PC-002.hmd.local-2017-01-20-20-15-25</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>

@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2017-12-07 14:05:58</LOGDATE>
+    </ACCESSLOG>
+    <BIOS>
+      <ASSETTAG/>  <BDATE>12/21/2006</BDATE>
+      <BMANUFACTURER>Phoenix Technologies, LTD</BMANUFACTURER>
+      <BVERSION>6.00 PG</BVERSION>
+      <MMANUFACTURER>Digitron Ind Com S.A.</MMANUFACTURER>
+      <MMODEL>DG-865GM</MMODEL>
+      <MSN/>  <SKUNUMBER/>  <SMANUFACTURER/>  <SMODEL/>  <SSN/></BIOS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) IDE Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801EB/ER (ICH5/ICH5R) IDE Controller</NAME>
+      <PCISUBSYSTEMID>105b:0c71</PCISUBSYSTEMID>
+      <PRODUCTID>24db</PRODUCTID>
+      <TYPE>Intel(R) 82801EB Ultra ATA Storage Controllers - 24DB</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB (ICH5) SATA Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801EB (ICH5) SATA Controller</NAME>
+      <PCISUBSYSTEMID>105b:0c71</PCISUBSYSTEMID>
+      <PRODUCTID>24d1</PRODUCTID>
+      <TYPE>Intel(R) 82801EB Ultra ATA Storage Controllers - 24D1</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) USB UHCI Controller #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801EB/ER (ICH5/ICH5R) USB UHCI Controller #1</NAME>
+      <PCISUBSYSTEMID>105b:0c71</PCISUBSYSTEMID>
+      <PRODUCTID>24d2</PRODUCTID>
+      <TYPE>Intel(R) 82801EB USB Universal Host Controller - 24D2</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) USB UHCI Controller #2</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801EB/ER (ICH5/ICH5R) USB UHCI Controller #2</NAME>
+      <PCISUBSYSTEMID>105b:0c71</PCISUBSYSTEMID>
+      <PRODUCTID>24d4</PRODUCTID>
+      <TYPE>Intel(R) 82801EB USB Universal Host Controller - 24D4</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) USB UHCI Controller #3</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801EB/ER (ICH5/ICH5R) USB UHCI Controller #3</NAME>
+      <PCISUBSYSTEMID>105b:0c71</PCISUBSYSTEMID>
+      <PRODUCTID>24d7</PRODUCTID>
+      <TYPE>Intel(R) 82801EB USB Universal Host Controller - 24D7</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) USB UHCI Controller #4</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801EB/ER (ICH5/ICH5R) USB UHCI Controller #4</NAME>
+      <PCISUBSYSTEMID>105b:0c71</PCISUBSYSTEMID>
+      <PRODUCTID>24de</PRODUCTID>
+      <TYPE>Intel(R) 82801EB USB Universal Host Controller - 24DE</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) USB2 EHCI Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801EB/ER (ICH5/ICH5R) USB2 EHCI Controller</NAME>
+      <PCISUBSYSTEMID>105b:0c71</PCISUBSYSTEMID>
+      <PRODUCTID>24dd</PRODUCTID>
+      <TYPE>Intel(R) 82801EB USB2 Enhanced Host Controller - 24DD</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82865G/PE/P DRAM Controller/Host-Hub Interface</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82865G/PE/P DRAM Controller/Host-Hub Interface</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>2570</PRODUCTID>
+      <TYPE>Intel(R) 82865G/PE/P/GV/82848P Processor to I/O Controller - 2570</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82865G Integrated Graphics Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82865G Integrated Graphics Controller</NAME>
+      <PCISUBSYSTEMID>105b:0c71</PCISUBSYSTEMID>
+      <PRODUCTID>2572</PRODUCTID>
+      <TYPE>Controlador de vídeo (Compatível com VGA)</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801 PCI Bridge</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801 PCI Bridge</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>244e</PRODUCTID>
+      <TYPE>Intel(R) 82801 PCI Bridge - 244E</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>RTL-8100/8101L/8139 PCI Fast Ethernet Adapter</CAPTION>
+      <MANUFACTURER>Realtek Semiconductor Co., Ltd.</MANUFACTURER>
+      <NAME>RTL-8100/8101L/8139 PCI Fast Ethernet Adapter</NAME>
+      <PCISUBSYSTEMID>10cf:12ce</PCISUBSYSTEMID>
+      <PRODUCTID>8139</PRODUCTID>
+      <TYPE>Realtek RTL8139 Family PCI Fast Ethernet NIC</TYPE>
+      <VENDORID>10ec</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) LPC Interface Bridge</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801EB/ER (ICH5/ICH5R) LPC Interface Bridge</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>24d0</PRODUCTID>
+      <TYPE>Intel(R) 82801EB LPC Interface Controller - 24D0</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) SMBus Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801EB/ER (ICH5/ICH5R) SMBus Controller</NAME>
+      <PCISUBSYSTEMID>105b:0c71</PCISUBSYSTEMID>
+      <PRODUCTID>24d3</PRODUCTID>
+      <TYPE>Intel(R) 82801EB SMBus Controller - 24D3</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller</NAME>
+      <PCISUBSYSTEMID>105b:0c71</PCISUBSYSTEMID>
+      <PRODUCTID>24d5</PRODUCTID>
+      <TYPE>Controlador de áudio de multimídia</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>1</CORE>
+      <DESCRIPTION>x86 Family 15 Model 4 Stepping 9</DESCRIPTION>
+      <FAMILYNUMBER>15</FAMILYNUMBER>
+      <ID>49 0F 00 00 FF FB EB BF</ID>
+      <MANUFACTURER>Intel</MANUFACTURER>
+      <MODEL>4</MODEL>
+      <NAME>Intel(R) Pentium(R) 4 CPU 3.00GHz</NAME>
+      <SPEED>3000</SPEED>
+      <STEPPING>9</STEPPING>
+      <THREAD>2</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Unidade de disquete de 3 1/2 polegadas</DESCRIPTION>
+      <LETTER>A:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Removable Disk</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disco fixo local</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>27593</FREE>
+      <LABEL/>
+      <LETTER>C:</LETTER>
+      <SERIAL>30756315</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>38193</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN/>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>C:\Documents and Settings\All Users\Dados de aplicativos\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>FP_NO_HOST_CHECK</KEY>
+      <VAL>NO</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>x86</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>15</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>x86 Family 15 Model 4 Stepping 9, GenuineIntel</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>0409</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>2</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>DEFLOGDIR</KEY>
+      <VAL>C:\Documents and Settings\All Users\Dados de aplicativos\McAfee\DesktopProtection</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>VSEDEFLOGDIR</KEY>
+      <VAL>C:\Documents and Settings\All Users\Dados de aplicativos\McAfee\DesktopProtection</VAL>
+    </ENVS>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x86-multi-thread-64int</ARCHNAME>
+      <CHASSIS_TYPE>Desktop</CHASSIS_TYPE>
+      <CHECKSUM>513</CHECKSUM>
+      <DEFAULTGATEWAY>10.100.1.1</DEFAULTGATEWAY>
+      <DNS>10.100.1.10</DNS>
+      <ETIME>27</ETIME>
+      <IPADDR>10.100.201.143</IPADDR>
+      <LASTLOGGEDUSER>guilherme.domingues</LASTLOGGEDUSER>
+      <MEMORY>502</MEMORY>
+      <NAME>f-scih-pc-001</NAME>
+      <OSCOMMENTS>Service Pack 3</OSCOMMENTS>
+      <OSNAME>Microsoft Windows XP Professional</OSNAME>
+      <OSVERSION>5.1.2600</OSVERSION>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>3000</PROCESSORS>
+      <PROCESSORT>Intel(R) Pentium(R) 4 CPU 3.00GHz</PROCESSORT>
+      <USERID>guilherme.domingues</USERID>
+      <UUID>FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINCOMPANY>HMD</WINCOMPANY>
+      <WINLANG>1046</WINLANG>
+      <WINOWNER>HMD</WINOWNER>
+      <WINPRODID>76503-642-7420465-23903</WINPRODID>
+      <WINPRODKEY>MJDHX-RV7GQ-MQW76-3QDXQ-VQB96</WINPRODKEY>
+      <WORKGROUP>hmd.local</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Aperfeiçoado (101 ou 102 teclas)</CAPTION>
+      <DESCRIPTION>Teclado padrão com 101/102 teclas ou Microsoft Natural PS/2 Keyboard</DESCRIPTION>
+      <LAYOUT>00000416</LAYOUT>
+      <NAME>Aperfeiçoado (101 ou 102 teclas)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>Dispositivo de interface humana USB</CAPTION>
+      <DESCRIPTION>Dispositivo de interface humana USB</DESCRIPTION>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Dispositivos de sistema padrão)</MANUFACTURER>
+      <NAME>Dispositivo de interface humana USB</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administradores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Convidados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicadores</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Operadores de configuração de rede</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Operadores de cópia</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Usuários</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Usuários avançados</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Usuários da área de trabalho remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1001</ID>
+      <NAME>HelpServicesGroup</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1004</ID>
+      <NAME>Oferecer Auxiliares para Assistência Remota</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1034</ID>
+      <NAME>andred</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1012</ID>
+      <NAME>athoso</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1035</ID>
+      <NAME>brunoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1028</ID>
+      <NAME>carlose</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1036</ID>
+      <NAME>douglasb</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1026</ID>
+      <NAME>eduardof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1021</ID>
+      <NAME>ezequiela</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1029</ID>
+      <NAME>geziels</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1038</ID>
+      <NAME>leonardoc</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1011</ID>
+      <NAME>marcof</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1013</ID>
+      <NAME>rodrigom</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-583907252-1417001333-1177238915-1037</ID>
+      <NAME>victorg</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPACITY>256</CAPACITY>
+      <CAPTION>A0</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <TYPE>SDRAM</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>A1</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPACITY>256</CAPACITY>
+      <CAPTION>A2</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>3</NUMSLOTS>
+      <TYPE>SDRAM</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>A3</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>4</NUMSLOTS>
+    </MEMORIES>
+    <NETWORKS>
+      <DESCRIPTION>Realtek RTL8139 Family PCI Fast Ethernet NIC - Miniporta do agendador de pacotes</DESCRIPTION>
+      <IPADDRESS>10.100.201.143</IPADDRESS>
+      <IPDHCP>10.100.1.10</IPDHCP>
+      <IPGATEWAY>10.100.1.1</IPGATEWAY>
+      <IPMASK>255.255.0.0</IPMASK>
+      <IPSUBNET>10.100.0.0</IPSUBNET>
+      <MACADDR>00:15:58:B2:25:63</MACADDR>
+      <PCIID>10EC:8139:12CE:10CF</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8139&amp;SUBSYS_12CE10CF&amp;REV_10\4&amp;1F7DBC9F&amp;0&amp;18F0</PNPDEVICEID>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Miniporta do agendador de pacotes</DESCRIPTION>
+      <MACADDR>00:15:58:B2:25:63</MACADDR>
+      <PNPDEVICEID>ROOT\MS_PSCHEDMP\0000</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>WAN Miniport (PPTP)</DESCRIPTION>
+      <MACADDR>50:50:54:50:30:30</MACADDR>
+      <PNPDEVICEID>ROOT\MS_PPTPMINIPORT\0000</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Miniporta WAN (PPPOE)</DESCRIPTION>
+      <MACADDR>33:50:6F:45:30:30</MACADDR>
+      <PNPDEVICEID>ROOT\MS_PPPOEMINIPORT\0000</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Miniporta do agendador de pacotes</DESCRIPTION>
+      <MACADDR>A0:D5:20:52:41:53</MACADDR>
+      <PNPDEVICEID>ROOT\MS_PSCHEDMP\0001</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>32-bit</ARCH>
+      <BOOT_TIME>2017-12-07 13:13:37</BOOT_TIME>
+      <DNS_DOMAIN>hmd.local</DNS_DOMAIN>
+      <FQDN>f-scih-pc-001.hmd.local</FQDN>
+      <FULL_NAME>Microsoft Windows XP Professional</FULL_NAME>
+      <INSTALL_DATE>2012-09-27 17:20:24</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>5.1.2600</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK>Service Pack 3</SERVICE_PACK>
+    </OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board IDE</DESCRIPTION>
+      <NAME>PRIMARY IDE</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board IDE</DESCRIPTION>
+      <NAME>SECONDARY IDE</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>On Board Floppy</DESCRIPTION>
+      <NAME>FDD</NAME>
+      <TYPE>8251 FIFO Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-9 male</CAPTION>
+      <DESCRIPTION>9 Pin Dual Inline (pin 10 cut)</DESCRIPTION>
+      <NAME>COM1</NAME>
+      <TYPE>Serial Port 16450 Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-9 male</CAPTION>
+      <DESCRIPTION>9 Pin Dual Inline (pin 10 cut)</DESCRIPTION>
+      <NAME>COM2</NAME>
+      <TYPE>Serial Port 16450 Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-25 female</CAPTION>
+      <DESCRIPTION>DB-25 female</DESCRIPTION>
+      <NAME>LPT1</NAME>
+      <TYPE>Parallel Port ECP/EPP</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>PS/2</DESCRIPTION>
+      <NAME>Keyboard</NAME>
+      <TYPE>Keyboard Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>PS/2</DESCRIPTION>
+      <NAME>PS/2 Mouse</NAME>
+      <TYPE>Mouse Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Other</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Other</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Porta de comunicação (COM1)</CAPTION>
+      <DESCRIPTION>Porta de comunicação</DESCRIPTION>
+      <NAME>Porta de comunicação (COM1)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Porta de comunicação (COM2)</CAPTION>
+      <DESCRIPTION>Porta de comunicação</DESCRIPTION>
+      <NAME>Porta de comunicação (COM2)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>LPT1</CAPTION>
+      <DESCRIPTION>LPT1</DESCRIPTION>
+      <NAME>LPT1</NAME>
+      <TYPE>Parallel</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PRIMARY IDE</CAPTION>
+      <DESCRIPTION>PRIMARY IDE</DESCRIPTION>
+      <NAME>PRIMARY IDE</NAME>
+      <TYPE>ATA 3-1/2 Inch (40 pins)</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SECONDARY IDE</CAPTION>
+      <DESCRIPTION>SECONDARY IDE</DESCRIPTION>
+      <NAME>SECONDARY IDE</NAME>
+      <TYPE>ATA 3-1/2 Inch (40 pins)</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>FDD</CAPTION>
+      <DESCRIPTION>FDD</DESCRIPTION>
+      <NAME>FDD</NAME>
+      <TYPE>SSA SCSI</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>COM1</CAPTION>
+      <DESCRIPTION>COM1</DESCRIPTION>
+      <NAME>COM1</NAME>
+      <TYPE>DB-9, Male, Circular</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>COM2</CAPTION>
+      <DESCRIPTION>COM2</DESCRIPTION>
+      <NAME>COM2</NAME>
+      <TYPE>DB-9, Male, Circular</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>LPT1</CAPTION>
+      <DESCRIPTION>LPT1</DESCRIPTION>
+      <NAME>LPT1</NAME>
+      <TYPE>DB-25, Female, DB-25</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Keyboard</CAPTION>
+      <DESCRIPTION>Keyboard</DESCRIPTION>
+      <NAME>Keyboard</NAME>
+      <TYPE>PS/2, PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2 Mouse</CAPTION>
+      <DESCRIPTION>PS/2 Mouse</DESCRIPTION>
+      <NAME>PS/2 Mouse</NAME>
+      <TYPE>PS/2, PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION/>
+      <DESCRIPTION/>
+      <NAME/>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>PCI0</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>2</DESIGNATION>
+      <NAME>PCI1</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>3</DESIGNATION>
+      <NAME>PCI2</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>4</DESIGNATION>
+      <NAME>PCI3</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit AGP</DESCRIPTION>
+      <DESIGNATION>8</DESIGNATION>
+      <NAME>AGP</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Slot do sistema</DESCRIPTION>
+      <DESIGNATION>PCI0</DESIGNATION>
+      <NAME>Slot do sistema</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Slot do sistema</DESCRIPTION>
+      <DESIGNATION>PCI1</DESIGNATION>
+      <NAME>Slot do sistema</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Slot do sistema</DESCRIPTION>
+      <DESIGNATION>PCI2</DESIGNATION>
+      <NAME>Slot do sistema</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Slot do sistema</DESCRIPTION>
+      <DESIGNATION>PCI3</DESIGNATION>
+      <NAME>Slot do sistema</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Slot do sistema</DESCRIPTION>
+      <DESIGNATION>AGP</DESIGNATION>
+      <NAME>Slot do sistema</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Flash Player ActiveX</GUID>
+      <HELPLINK>http://www.adobe.com/go/flashplayer_support/</HELPLINK>
+      <INSTALLDATE>21/03/2013</INSTALLDATE>
+      <NAME>Adobe Flash Player 11 ActiveX</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>C:\WINDOWS\system32\Macromed\Flash\FlashUtil11f_ActiveX.exe -maintain activex</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.1.102.62</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Branding</GUID>
+      <INSTALLDATE>27/09/2012</INSTALLDATE>
+      <NAME>Branding</NAME>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>CitrixOnlinePluginFull</GUID>
+      <INSTALLDATE>28/09/2012</INSTALLDATE>
+      <NAME>Citrix online plug-in</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\Documents and Settings\All Users\Dados de aplicativos\Citrix\Citrix online plug-in\TrolleyExpress.exe /uninstall /cleanup</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FBDBServer_1_5_is1</GUID>
+      <HELPLINK>http://www.firebirdsql.org</HELPLINK>
+      <INSTALLDATE>05/06/2017</INSTALLDATE>
+      <NAME>Firebird 1.5.6</NAME>
+      <PUBLISHER>Firebird Project</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Arquivos de programas\Firebird\Firebird_1_5\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.firebirdsql.org</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>http://forge.fusioninventory.org/projects/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>20/01/2017</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.3.18 (x86 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Arquivos de programas\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.18</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>IDNMitigationAPIs</GUID>
+      <INSTALLDATE>21/03/2013</INSTALLDATE>
+      <NAME>IDNMitigationAPIs</NAME>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>ie7</GUID>
+      <INSTALLDATE>21/03/2013</INSTALLDATE>
+      <NAME>ie7</NAME>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>ie8</GUID>
+      <HELPLINK>http://www.microsoft.com/ie</HELPLINK>
+      <INSTALLDATE>21/03/2013</INSTALLDATE>
+      <NAME>Windows Internet Explorer 8</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\ie8\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.microsoft.com/ie</URL_INFO_ABOUT>
+      <VERSION>20090308.140743</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>KB943729</GUID>
+      <HELPLINK>http://support.microsoft.com?kbid=943729</HELPLINK>
+      <INSTALLDATE>28/09/2012</INSTALLDATE>
+      <NAME>Atualização para o Windows XP (KB943729)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\WINDOWS\$NtUninstallKB943729$\spuninst\spuninst.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Kyocera Product Library</GUID>
+      <INSTALLDATE>28/09/2012</INSTALLDATE>
+      <NAME>Kyocera Product Library</NAME>
+      <PUBLISHER>Kyocera Mita Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Arquivos de programas\Kyocera\KmUninstall.exe -l Portuguese</UNINSTALL_STRING>
+      <VERSION>2.0.0713</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Mozilla Firefox 50.1.0 (x86 pt-BR)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>Mozilla Firefox 50.1.0 (x86 pt-BR)</GUID>
+      <HELPLINK>https://support.mozilla.org</HELPLINK>
+      <INSTALLDATE>21/12/2016</INSTALLDATE>
+      <NAME>Mozilla Firefox 50.1.0 (x86 pt-BR)</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Arquivos de programas\Mozilla Firefox\uninstall\helper.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.mozilla.org</URL_INFO_ABOUT>
+      <VERSION>50.1.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Mozilla Maintenance Service</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>MozillaMaintenanceService</GUID>
+      <INSTALLDATE>21/12/2016</INSTALLDATE>
+      <NAME>Mozilla Maintenance Service</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Arquivos de programas\Mozilla Maintenance Service\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>50.1.0.6186</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>NLSDownlevelMapping</GUID>
+      <INSTALLDATE>21/03/2013</INSTALLDATE>
+      <NAME>NLSDownlevelMapping</NAME>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>PCHealth</GUID>
+      <INSTALLDATE>27/09/2012</INSTALLDATE>
+      <NAME>PCHealth</NAME>
+      <UNINSTALL_STRING>rundll32.exe setupapi.dll,InstallHinfSection DefaultUninstall 132 C:\WINDOWS\INF\PCHealth.inf</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0F1F7A90-E71B-4E45-A066-2891619F22E1}</GUID>
+      <INSTALLDATE>28/09/2012</INSTALLDATE>
+      <NAME>Citrix online plug-in (PNA)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{0F1F7A90-E71B-4E45-A066-2891619F22E1}</UNINSTALL_STRING>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{199C20D6-10D3-4210-B361-4760209F56AE}</GUID>
+      <INSTALLDATE>28/09/2012</INSTALLDATE>
+      <NAME>Citrix online plug-in (Web)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{199C20D6-10D3-4210-B361-4760209F56AE}</UNINSTALL_STRING>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{26A24AE4-039D-4CA4-87B4-2F83218025F0}</GUID>
+      <HELPLINK>http://java.com</HELPLINK>
+      <INSTALLDATE>23/05/2016</INSTALLDATE>
+      <NAME>Java 8 Update 25</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{26A24AE4-039D-4CA4-87B4-2F83218025F0}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://java.com</URL_INFO_ABOUT>
+      <VERSION>8.0.250</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2CF4F553-5E00-42DC-85AB-9A1A29C7D9D2}</GUID>
+      <INSTALLDATE>28/09/2012</INSTALLDATE>
+      <NAME>Citrix online plug-in (SSON)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{2CF4F553-5E00-42DC-85AB-9A1A29C7D9D2}</UNINSTALL_STRING>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{350C9416-3D7C-4EE8-BAA9-00BCB3D54227}</GUID>
+      <HELPLINK>http://www.microsoft.com/windows</HELPLINK>
+      <INSTALLDATE>27/09/2012</INSTALLDATE>
+      <NAME>WebFldrs XP</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>9.50.7523</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3ECCB578-504E-4F7A-A8B4-CF4F3B939B44}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>28/09/2012</INSTALLDATE>
+      <NAME>Citrix online plug-in (USB)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{3ECCB578-504E-4F7A-A8B4-CF4F3B939B44}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4A03706F-666A-4037-7777-5F2748764D10}</GUID>
+      <INSTALLDATE>23/05/2016</INSTALLDATE>
+      <NAME>Java Auto Updater</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <VERSION>2.8.25.18</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{678094A1-6250-476B-9AFF-4376E48F135C}</GUID>
+      <HELPLINK>http://support.citrix.com</HELPLINK>
+      <INSTALLDATE>28/09/2012</INSTALLDATE>
+      <NAME>Citrix online plug-in (DV)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{678094A1-6250-476B-9AFF-4376E48F135C}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.citrix.com</URL_INFO_ABOUT>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>   </COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-7AD7-1046-7B44-AB0000000001}</GUID>
+      <HELPLINK>http://www.brasil.adobe.com/products/acrobat/main.html</HELPLINK>
+      <INSTALLDATE>03/02/2017</INSTALLDATE>
+      <NAME>Adobe Reader XI - Português</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-7AD7-1046-7B44-AB0000000001}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.brasil.adobe.com/</URL_INFO_ABOUT>
+      <VERSION>11.0.00</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CE15D1B6-19B6-4D4D-8F43-CF5D2C3356FF}</GUID>
+      <HELPLINK>https://mysupport.mcafee.com</HELPLINK>
+      <INSTALLDATE>30/05/2016</INSTALLDATE>
+      <NAME>McAfee VirusScan Enterprise</NAME>
+      <PUBLISHER>McAfee, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{CE15D1B6-19B6-4D4D-8F43-CF5D2C3356FF}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.mcafee.com/</URL_INFO_ABOUT>
+      <VERSION>8.8.07000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{EBF3D65F-011E-44D2-8F4F-C74B52682EDD}</GUID>
+      <HELPLINK>https://mysupport.mcafee.com</HELPLINK>
+      <INSTALLDATE>29/04/2014</INSTALLDATE>
+      <NAME>McAfee Agent</NAME>
+      <PUBLISHER>McAfee, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{EBF3D65F-011E-44D2-8F4F-C74B52682EDD}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Mcafee.com</URL_INFO_ABOUT>
+      <VERSION>4.8.0.1500</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{FA365307-1963-4D16-BD44-113C8F037AAD}</GUID>
+      <INSTALLDATE>28/09/2012</INSTALLDATE>
+      <NAME>Citrix online plug-in (HDX)</NAME>
+      <PUBLISHER>Citrix Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{FA365307-1963-4D16-BD44-113C8F037AAD}</UNINSTALL_STRING>
+      <VERSION>12.1.0.30</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>21/03/2013</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>8.0.6001.18702</VERSION>
+    </SOFTWARES>
+    <STORAGES>
+      <DESCRIPTION>Unidade de disco</DESCRIPTION>
+      <DISKSIZE>40060</DISKSIZE>
+      <FIRMWARE>TW100-13</FIRMWARE>
+      <INTERFACE>IDE</INTERFACE>
+      <MANUFACTURER>(Unidades de disco padrão)</MANUFACTURER>
+      <MODEL>SAMSUNG SP0411N</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>151411ALB09985</SERIAL>
+      <SERIALNUMBER>151411ALB09985</SERIALNUMBER>
+      <TYPE>Fixedhard disk media</TYPE>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>Dispositivo de interface humana USB</CAPTION>
+      <NAME>Dispositivo de interface humana USB</NAME>
+      <PRODUCTID>0AE1</PRODUCTID>
+      <VENDORID>2188</VENDORID>
+    </USBDEVICES>
+    <USERS>
+      <DOMAIN>HMD</DOMAIN>
+      <LOGIN>guilherme.domingues</LOGIN>
+    </USERS>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.18</VERSIONCLIENT>
+  </CONTENT>
+  <DEVICEID>f-scih-pc-001.hmd.local-2017-01-20-07-49-18</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>
